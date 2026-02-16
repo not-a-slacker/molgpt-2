@@ -1,0 +1,13 @@
+Error while loading conda entry point: conda-libmamba-solver (libarchive.so.19: cannot open shared object file: No such file or directory)
+Error while loading conda entry point: conda-libmamba-solver (libarchive.so.19: cannot open shared object file: No such file or directory)
+Calculating properties:   0%|          | 0/4 [00:00<?, ?it/s]Calculating properties:   0%|          | 0/4 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "/home2/bhuvan.kapur/MolGPT2.0/src/analyze_generated_molecules.py", line 396, in <module>
+    main()
+  File "/home2/bhuvan.kapur/MolGPT2.0/src/analyze_generated_molecules.py", line 364, in main
+    results_dict = load_and_calculate_properties(checkpoint_dir)
+  File "/home2/bhuvan.kapur/MolGPT2.0/src/analyze_generated_molecules.py", line 134, in load_and_calculate_properties
+    qeds, logps, tpsas, sas, molwt, og_props, smi = calc_properties([-1]*len(samples), samples)
+  File "/home2/bhuvan.kapur/MolGPT2.0/src/analyze_generated_molecules.py", line 63, in calc_properties
+    mol = Chem.MolFromSmiles(smi)
+TypeError: No registered converter was able to produce a C++ rvalue of type std::__cxx11::basic_string<wchar_t, std::char_traits<wchar_t>, std::allocator<wchar_t> > from this Python object of type list

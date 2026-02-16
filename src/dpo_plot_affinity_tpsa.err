@@ -1,0 +1,120 @@
+Error while loading conda entry point: conda-libmamba-solver (libarchive.so.19: cannot open shared object file: No such file or directory)
+Error while loading conda entry point: conda-libmamba-solver (libarchive.so.19: cannot open shared object file: No such file or directory)
+Calculating properties:   0%|          | 0/5 [00:00<?, ?it/s][20:00:15] SMILES Parse Error: unclosed ring for input: 'ClC1=CC(N2CCN(CC2)C(=O)C=3SC=4N(C5=C(C(=O)N4)C=C(OC)C=C5)C3C)=C(OCC)C=C1OCC5'
+[20:00:15] Explicit valence for atom # 5 C, 5, is greater than permitted
+[20:00:15] SMILES Parse Error: unclosed ring for input: 'O=C1N2[C@@]([C@H](CC1CC(=O)NCCN3CCOCC3)C(=O)N4CCCCCC4)(C=5NC6=C(C5CC2)C=C(C=C6)C=7C=C(C=CC7)C=8C=9C(N(CC8)C)=NC8CCC9)CC1'
+[20:00:15] Explicit valence for atom # 36 N, 4, is greater than permitted
+[20:00:15] Explicit valence for atom # 28 C, 5, is greater than permitted
+[20:00:15] Explicit valence for atom # 32 C, 5, is greater than permitted
+[20:00:15] SMILES Parse Error: unclosed ring for input: 'C=1C(C2=C(C(C)C)[C@@H]3[C@@H](C[C@@]2(C)C1)[C@H]4[C@]5(CC[C@@H](C4)C[C@@H](C3)CC(CSC=NO)O)[C@@H]([C@@H]5CC4)O)(C)C'
+[20:00:15] Explicit valence for atom # 16 C, 5, is greater than permitted
+[20:00:15] Explicit valence for atom # 43 C, 5, is greater than permitted
+[20:00:15] SMILES Parse Error: unclosed ring for input: 'O=C(NCC1CC1)[C@@H]2[C@@H]([C@@H]3[C@](C4=C5N(CC(=C4[C@]6(C([C@H](O)CC([C@@H]6CC7=C3N(C8=NC=CC=C8C(O)=CC9)=CC=C9)C)C)C7=O)C=CC=C5)C2)(CCC3)C)C'
+[20:00:15] Explicit valence for atom # 29 C, 6, is greater than permitted
+
+Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
+Docking batches:   6%|▋         | 1/16 [00:40<10:00, 40.05s/it][A
+Docking batches:  12%|█▎        | 2/16 [01:55<14:15, 61.09s/it][A
+Docking batches:  19%|█▉        | 3/16 [02:34<11:01, 50.90s/it][A
+Docking batches:  25%|██▌       | 4/16 [04:09<13:39, 68.28s/it][A
+Docking batches:  31%|███▏      | 5/16 [05:04<11:39, 63.60s/it][A
+Docking batches:  38%|███▊      | 6/16 [06:08<10:35, 63.55s/it][A
+Docking batches:  44%|████▍     | 7/16 [07:13<09:35, 63.95s/it][A
+Docking batches:  50%|█████     | 8/16 [08:04<07:59, 59.93s/it][A
+Docking batches:  56%|█████▋    | 9/16 [09:03<06:57, 59.58s/it][A
+Docking batches:  62%|██████▎   | 10/16 [10:23<06:35, 65.96s/it][A
+Docking batches:  69%|██████▉   | 11/16 [11:37<05:42, 68.46s/it][A
+Docking batches:  75%|███████▌  | 12/16 [12:36<04:22, 65.69s/it][A
+Docking batches:  81%|████████▏ | 13/16 [13:28<03:04, 61.48s/it][A
+Docking batches:  88%|████████▊ | 14/16 [14:27<02:01, 60.59s/it][A[20:14:43] Explicit valence for atom # 14 O, 3, is greater than permitted
+
+Docking batches:  94%|█████████▍| 15/16 [15:23<00:59, 59.17s/it][A
+Docking batches: 100%|██████████| 16/16 [16:32<00:00, 62.23s/it][ADocking batches: 100%|██████████| 16/16 [16:32<00:00, 62.03s/it]
+Calculating properties:  20%|██        | 1/5 [16:33<1:06:13, 993.37s/it][20:16:48] SMILES Parse Error: unclosed ring for input: 'S(C=1N(CC2OCCC2)C(=NN1)C2)CC(=O)NC=3C(=CC=4C(=NN(C4C3)C5=CC=CC=C5)C)C'
+[20:16:48] SMILES Parse Error: unclosed ring for input: 'C1[C@H]2C[C@@H]([C@@]3([C@@H](C1)CC[C@@]4([C@H]3CC[C@@H]5[C@@]4(CC[C@@H]([C@@H]5[C@@H]([C@@H](C)CCC=C(C)C)O)/C(=C/C)/C)/C2(/O)/C)O5)C)O'
+[20:16:48] Conflicting single bond directions around double bond at index 2.
+[20:16:48]   BondStereo set to STEREONONE and single bond directions set to NONE.
+
+Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
+Docking batches:   6%|▋         | 1/16 [00:53<13:22, 53.53s/it][A
+Docking batches:  12%|█▎        | 2/16 [01:35<10:51, 46.52s/it][A
+Docking batches:  19%|█▉        | 3/16 [02:52<13:07, 60.61s/it][A[20:19:41] Explicit valence for atom # 19 O, 3, is greater than permitted
+
+Docking batches:  25%|██▌       | 4/16 [04:10<13:27, 67.28s/it][A
+Docking batches:  31%|███▏      | 5/16 [04:58<11:07, 60.65s/it][A
+Docking batches:  38%|███▊      | 6/16 [05:57<10:00, 60.01s/it][A
+Docking batches:  44%|████▍     | 7/16 [06:35<07:55, 52.84s/it][A
+Docking batches:  50%|█████     | 8/16 [07:31<07:09, 53.72s/it][A
+Docking batches:  56%|█████▋    | 9/16 [08:28<06:24, 54.92s/it][A
+Docking batches:  62%|██████▎   | 10/16 [09:09<05:02, 50.36s/it][A
+Docking batches:  69%|██████▉   | 11/16 [10:18<04:41, 56.25s/it][A
+Docking batches:  75%|███████▌  | 12/16 [10:55<03:21, 50.38s/it][A
+Docking batches:  81%|████████▏ | 13/16 [12:18<03:00, 60.32s/it][A[20:29:07] Conflicting single bond directions around double bond at index 2.
+[20:29:07]   BondStereo set to STEREONONE and single bond directions set to NONE.
+
+Docking batches:  88%|████████▊ | 14/16 [13:05<01:52, 56.21s/it][A
+Docking batches:  94%|█████████▍| 15/16 [14:02<00:56, 56.41s/it][A
+Docking batches: 100%|██████████| 16/16 [14:47<00:00, 53.05s/it][ADocking batches: 100%|██████████| 16/16 [14:47<00:00, 55.48s/it]
+Calculating properties:  40%|████      | 2/5 [31:21<46:34, 931.45s/it]  [20:31:36] Explicit valence for atom # 17 N, 4, is greater than permitted
+[20:31:36] SMILES Parse Error: unclosed ring for input: 'O(C(=O)C1(CCN(CC1)CC=2N(C=3C(N2)=CC(NC(=O)CCN4[C@H](CN(CC4)C)C)=CC3)C)CC1)CC'
+[20:31:36] Explicit valence for atom # 30 C, 5, is greater than permitted
+[20:31:36] Explicit valence for atom # 26 N, 4, is greater than permitted
+
+Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
+Docking batches:   6%|▋         | 1/16 [00:50<12:30, 50.01s/it][A
+Docking batches:  12%|█▎        | 2/16 [02:08<15:36, 66.90s/it][A
+Docking batches:  19%|█▉        | 3/16 [02:57<12:44, 58.81s/it][A
+Docking batches:  25%|██▌       | 4/16 [03:37<10:16, 51.39s/it][A
+Docking batches:  31%|███▏      | 5/16 [04:53<11:01, 60.13s/it][A
+Docking batches:  38%|███▊      | 6/16 [05:59<10:20, 62.04s/it][A
+Docking batches:  44%|████▍     | 7/16 [06:34<07:59, 53.32s/it][A
+Docking batches:  50%|█████     | 8/16 [07:16<06:37, 49.65s/it][A
+Docking batches:  56%|█████▋    | 9/16 [08:07<05:50, 50.04s/it][A
+Docking batches:  62%|██████▎   | 10/16 [08:57<05:01, 50.17s/it][A
+Docking batches:  69%|██████▉   | 11/16 [09:31<03:45, 45.13s/it][A
+Docking batches:  75%|███████▌  | 12/16 [10:18<03:03, 45.79s/it][A
+Docking batches:  81%|████████▏ | 13/16 [10:59<02:12, 44.24s/it][A
+Docking batches:  88%|████████▊ | 14/16 [11:55<01:35, 47.68s/it][A
+Docking batches:  94%|█████████▍| 15/16 [12:44<00:48, 48.09s/it][A
+Docking batches: 100%|██████████| 16/16 [13:56<00:00, 55.42s/it][ADocking batches: 100%|██████████| 16/16 [13:56<00:00, 52.29s/it]
+Calculating properties:  60%|██████    | 3/5 [45:18<29:36, 888.36s/it][20:45:33] SMILES Parse Error: unclosed ring for input: 'C1(N(CCN1CCNCC2=C(C=CC=C2)OC)C3CCN(CC3)CC4OC5=CC=CC=C5OC4)=C(C#N)C=CC(=C2OC)OCCCOCCF'
+[20:45:33] Explicit valence for atom # 33 N, 4, is greater than permitted
+[20:45:33] SMILES Parse Error: unclosed ring for input: 'C1C2CC3CC1(C2)OC3(C=4C=CC(=C(C4OC)OC)OCCCCCCOC5CC6(C=C(CC(OCCOC)=O)C=C5)CC2)C6'
+[20:45:33] Explicit valence for atom # 22 C, 5, is greater than permitted
+
+Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
+Docking batches:   6%|▋         | 1/16 [00:35<08:49, 35.32s/it][A
+Docking batches:  12%|█▎        | 2/16 [01:11<08:19, 35.70s/it][A
+Docking batches:  19%|█▉        | 3/16 [01:43<07:25, 34.30s/it][A
+Docking batches:  25%|██▌       | 4/16 [02:43<08:52, 44.37s/it][A
+Docking batches:  31%|███▏      | 5/16 [03:12<07:06, 38.77s/it][A
+Docking batches:  38%|███▊      | 6/16 [04:11<07:37, 45.72s/it][A
+Docking batches:  44%|████▍     | 7/16 [05:16<07:48, 52.09s/it][A
+Docking batches:  50%|█████     | 8/16 [05:58<06:30, 48.75s/it][A
+Docking batches:  56%|█████▋    | 9/16 [07:14<06:40, 57.15s/it][A
+Docking batches:  62%|██████▎   | 10/16 [07:51<05:06, 51.05s/it][A
+Docking batches:  69%|██████▉   | 11/16 [08:27<03:51, 46.26s/it][A
+Docking batches:  75%|███████▌  | 12/16 [08:54<02:42, 40.62s/it][A
+Docking batches:  81%|████████▏ | 13/16 [09:23<01:50, 36.90s/it][A
+Docking batches:  88%|████████▊ | 14/16 [10:02<01:15, 37.81s/it][A
+Docking batches:  94%|█████████▍| 15/16 [10:37<00:36, 36.89s/it][A
+Docking batches: 100%|██████████| 16/16 [11:11<00:00, 35.90s/it][ADocking batches: 100%|██████████| 16/16 [11:11<00:00, 41.96s/it]
+Calculating properties:  80%|████████  | 4/5 [56:30<13:22, 802.80s/it]
+Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
+Docking batches:   6%|▋         | 1/16 [00:19<04:54, 19.60s/it][A
+Docking batches:  12%|█▎        | 2/16 [00:43<05:05, 21.84s/it][A
+Docking batches:  19%|█▉        | 3/16 [01:51<09:18, 42.96s/it][A
+Docking batches:  25%|██▌       | 4/16 [02:10<06:42, 33.54s/it][A
+Docking batches:  31%|███▏      | 5/16 [02:29<05:11, 28.33s/it][A
+Docking batches:  38%|███▊      | 6/16 [02:47<04:08, 24.88s/it][A
+Docking batches:  44%|████▍     | 7/16 [03:11<03:40, 24.51s/it][A
+Docking batches:  50%|█████     | 8/16 [03:28<02:57, 22.24s/it][A
+Docking batches:  56%|█████▋    | 9/16 [03:50<02:35, 22.25s/it][A
+Docking batches:  62%|██████▎   | 10/16 [04:16<02:19, 23.32s/it][A
+Docking batches:  69%|██████▉   | 11/16 [04:37<01:53, 22.62s/it][A
+Docking batches:  75%|███████▌  | 12/16 [04:56<01:26, 21.57s/it][A
+Docking batches:  81%|████████▏ | 13/16 [05:34<01:19, 26.61s/it][A
+Docking batches:  88%|████████▊ | 14/16 [05:58<00:51, 25.72s/it][A
+Docking batches:  94%|█████████▍| 15/16 [06:52<00:34, 34.19s/it][A
+Docking batches: 100%|██████████| 16/16 [07:18<00:00, 31.59s/it][ADocking batches: 100%|██████████| 16/16 [07:18<00:00, 27.38s/it]
+Calculating properties: 100%|██████████| 5/5 [1:03:48<00:00, 671.39s/it]Calculating properties: 100%|██████████| 5/5 [1:03:48<00:00, 765.72s/it]

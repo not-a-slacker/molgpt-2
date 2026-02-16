@@ -1,0 +1,61 @@
+Starting ...
+device : cuda
+Properties to use:  ['affinity', 'logps']
+   Unnamed: 0  ... affinity
+0           0  ...     -8.1
+1           1  ...     -7.8
+2           2  ...     -6.1
+3           3  ...     -9.3
+4           4  ...     -6.8
+
+[5 rows x 8 columns]
+Building Vocab
+{'batch_size': 128, 'd_model': 512, 'n_heads': 8, 'n_layers': 6, 'hidden_units': 512, 'lr': 1e-05, 'epochs': 200, 'properties': ['affinity', 'logps'], 'run_name': 'LCK_DOCKSTRING_FAST_ACTUAL_affinity_logps'}
+{'batch_size': 128, 'd_model': 512, 'n_heads': 8, 'n_layers': 6, 'hidden_units': 512, 'lr': 1e-05, 'epochs': 200, 'properties': ['affinity', 'logps'], 'run_name': 'LCK_DOCKSTRING_FAST_ACTUAL_affinity_logps'}
+No of GPUs available 4
+Sampling: iteration: 0/204Sampling: iteration: 1/204Sampling: iteration: 2/204Sampling: iteration: 3/204Validity: 0.978515625
+Novelty: 0.935129740518962
+Uniqueness: 1.0
+
+==================================================
+Generating molecules with target properties...
+==================================================
+
+Generating for -10_2...
+Generated 128 samples for -10_2 in 19.01 seconds.
+Generating for -10_3...
+Generated 128 samples for -10_3 in 18.58 seconds.
+Generating for -10_5...
+Generated 128 samples for -10_5 in 18.95 seconds.
+Generating for -9_2...
+Generated 128 samples for -9_2 in 18.84 seconds.
+Generating for -9_3...
+Generated 128 samples for -9_3 in 19.12 seconds.
+Generating for -9_5...
+Generated 128 samples for -9_5 in 18.94 seconds.
+Generating for -8_2...
+Generated 128 samples for -8_2 in 18.60 seconds.
+Generating for -8_3...
+Generated 128 samples for -8_3 in 19.13 seconds.
+Generating for -8_5...
+Generated 128 samples for -8_5 in 19.16 seconds.
+Generating for -7_2...
+Generated 128 samples for -7_2 in 18.79 seconds.
+Generating for -7_3...
+Generated 128 samples for -7_3 in 18.86 seconds.
+Generating for -7_5...
+Generated 128 samples for -7_5 in 19.13 seconds.
+Generating for -6_2...
+Generated 128 samples for -6_2 in 18.89 seconds.
+Generating for -6_3...
+Generated 128 samples for -6_3 in 19.56 seconds.
+Generating for -6_5...
+Generated 128 samples for -6_5 in 19.03 seconds.
+
+==================================================
+Generated molecules saved to: ../checkpoints/LCK_DOCKSTRING_FAST_ACTUAL_affinity_logps/generated_molecules.pkl
+To analyze and plot results, run:
+python analyze_generated_molecules.py --checkpoint_dir ../checkpoints/LCK_DOCKSTRING_FAST_ACTUAL_affinity_logps --properties affinity logps
+==================================================
+
+Finished logps

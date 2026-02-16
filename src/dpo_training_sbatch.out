@@ -1,0 +1,21 @@
+==========================================
+SLURM_JOB_ID = 2561337
+SLURM_NODELIST = gnode061
+SLURM_JOB_GPUS = 0,1,2,3
+==========================================
+Starting ...
+cuda
+Properties to use:  ['affinity', 'sas']
+Building Vocab
+{'batch_size': 128, 'd_model': 512, 'n_heads': 8, 'n_layers': 6, 'hidden_units': 512, 'lr': 1e-05, 'epochs': 10, 'properties': ['affinity', 'sas'], 'run_name': 'LCK_DOCKSTRING_FAST_ACTUAL_affinity_sas'}
+length of preference data : 41795
+Sample preference_data[0]: ['O1C(C(=O)N2CCN(CC2)C3=CC=C(N(=O)=O)C=C3)=C(C=4C1=CC=CC4)C', array([0.47959185, 0.53255087, 0.54797947, 0.15855041, 0.16055913]), [np.str_('O1C(=NC2=C(C1=O)C=CC=C2)C3=C(C(=O)NCCC4=CC=CC=C4)C=CC(OC)=C3'), np.float64(0.9873459430403937), array([0.52040816, 0.54211667, 0.55725834, 0.15815913, 0.16377715])], [np.str_('O1C(=NC2=C(C1=O)C=CC=C2)C3=CC(OC(=O)C=4C=CC=CC4)=C(OC)C=C3'), np.float64(0.9574398041990725), array([0.43877551, 0.55263869, 0.41284505, 0.14420153, 0.15814562])]]
+LCK_DOCKSTRING_FAST_ACTUAL_affinity_sas
+len(target_smiles): 41800
+len(data): 41800
+LCK_DOCKSTRING_FAST_ACTUAL_affinity_sas
+dataset built
+cuda
+True
+2.7.1+cu118
+No of GPUs available 4
