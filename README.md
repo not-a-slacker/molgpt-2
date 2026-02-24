@@ -5,7 +5,7 @@ encoder-decoder and Direct Preference Optimization (DPO).
 
 This repository implements the work described in:
 
-MolGPT2.0: Multi-Objective Molecule Generation using GPT Architecture and Preference Optimization
+MolGPT2.0: Multi-Objective Molecule Generation using GPT Architecture and Preference Optimization (paper not published yet, in progress)
 
 Abstract: MolGPT2.0 conditions molecular generation on binding affinity and other
 physicochemical properties using a transformer encoder-decoder architecture and
