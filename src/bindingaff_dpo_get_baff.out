@@ -1,9 +1,0 @@
-==========================================
-SLURM_JOB_ID = 2552752
-SLURM_NODELIST = gnode068
-SLURM_JOB_GPUS = 
-==========================================
-Starting ...
-{'batch_size': 128, 'd_model': 512, 'n_heads': 8, 'n_layers': 6, 'hidden_units': 512, 'lr': 1e-05, 'epochs': 265, 'properties': ['affinity'], 'run_name': 'LCK_DOCKSTRING_FAST_ACTUAL_affinity'}
-41800 41800 41800
-10 10

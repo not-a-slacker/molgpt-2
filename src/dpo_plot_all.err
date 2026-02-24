@@ -1,1783 +1,0 @@
-Error while loading conda entry point: conda-libmamba-solver (libarchive.so.19: cannot open shared object file: No such file or directory)
-Error while loading conda entry point: conda-libmamba-solver (libarchive.so.19: cannot open shared object file: No such file or directory)
-Calculating properties:   0%|          | 0/40 [00:00<?, ?it/s][23:23:40] SMILES Parse Error: extra close parentheses while parsing: N1(CCN(CC1)C=2C(=C(C=CC2)C)C)CC3=NC4=C(C3)CCNCC4=O)C
-[23:23:40] SMILES Parse Error: Failed parsing SMILES 'N1(CCN(CC1)C=2C(=C(C=CC2)C)C)CC3=NC4=C(C3)CCNCC4=O)C' for input: 'N1(CCN(CC1)C=2C(=C(C=CC2)C)C)CC3=NC4=C(C3)CCNCC4=O)C'
-[23:23:40] SMILES Parse Error: unclosed ring for input: 'C=1C(=CC(N2CCN(CC2)CC(N3CCC=4C=C(C=CC4)F)=O)C1C)CN5CCOCC3'
-[23:23:40] Explicit valence for atom # 25 F, 2, is greater than permitted
-[23:23:40] Explicit valence for atom # 25 O, 3, is greater than permitted
-[23:23:41] SMILES Parse Error: unclosed ring for input: 'C1(N7CCN(CC2)CC=3C(C=CC=CC3)=O)CCCN(C=4C=C(F)C=CC4)C1'
-[23:23:41] SMILES Parse Error: unclosed ring for input: 'FC1=C(C(=O)N2CCOCC2)C=C(C3=CC=4CCC3)C(F)=C1F'
-[23:23:41] SMILES Parse Error: unclosed ring for input: 'C=1C=C(C=C(C1F)C(N2CCN(CC2)C)=O)C(N3CCC=4C=CC=CC4F)=O'
-[23:23:41] Explicit valence for atom # 25 F, 2, is greater than permitted
-[23:23:41] SMILES Parse Error: extra close parentheses while parsing: C=1C(=CC(N2CCN(CC2)CC3=C=C4CCCC(N4C)=N3)=CC1)F)F
-[23:23:41] SMILES Parse Error: Failed parsing SMILES 'C=1C(=CC(N2CCN(CC2)CC3=C=C4CCCC(N4C)=N3)=CC1)F)F' for input: 'C=1C(=CC(N2CCN(CC2)CC3=C=C4CCCC(N4C)=N3)=CC1)F)F'
-[23:23:41] SMILES Parse Error: unclosed ring for input: 'FC=1C(N2CCN(C=3C=C(C(=O)N4CCC5CC4C=CC2)C=CC3)C)=NCC1'
-[23:23:41] SMILES Parse Error: extra close parentheses while parsing: N1(CCC=2C(C1)=CC=CC2)CC3=NC(N4CCNCC4)=CC(=C3)C)C
-[23:23:41] SMILES Parse Error: Failed parsing SMILES 'N1(CCC=2C(C1)=CC=CC2)CC3=NC(N4CCNCC4)=CC(=C3)C)C' for input: 'N1(CCC=2C(C1)=CC=CC2)CC3=NC(N4CCNCC4)=CC(=C3)C)C'
-[23:23:41] SMILES Parse Error: extra close parentheses while parsing: C=1C=CC(=CC1F)C(N2CCCN(CC2)C3=C(C=CC=N3)F)=O)CN4CCN(CC4)C
-[23:23:41] SMILES Parse Error: Failed parsing SMILES 'C=1C=CC(=CC1F)C(N2CCCN(CC2)C3=C(C=CC=N3)F)=O)CN4CCN(CC4)C' for input: 'C=1C=CC(=CC1F)C(N2CCCN(CC2)C3=C(C=CC=N3)F)=O)CN4CCN(CC4)C'
-[23:23:41] SMILES Parse Error: extra close parentheses while parsing: C1(N5CCCC1)=CC2=CC=C(C=C2)C(N3CC4=C(C3)C=CC=C4)=O)NC
-[23:23:41] SMILES Parse Error: Failed parsing SMILES 'C1(N5CCCC1)=CC2=CC=C(C=C2)C(N3CC4=C(C3)C=CC=C4)=O)NC' for input: 'C1(N5CCCC1)=CC2=CC=C(C=C2)C(N3CC4=C(C3)C=CC=C4)=O)NC'
-[23:23:41] Explicit valence for atom # 26 F, 2, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:22<05:31, 22.12s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:43<05:07, 21.96s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:04<04:34, 21.15s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:23<04:06, 20.57s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:48<04:02, 22.06s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:06<03:27, 20.72s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:26<03:03, 20.35s/it][A
-Docking batches:  50%|█████     | 8/16 [02:45<02:40, 20.08s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:05<02:19, 19.92s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:25<01:59, 19.87s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:46<01:41, 20.23s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:05<01:19, 19.92s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:28<01:02, 20.83s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:46<00:40, 20.11s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:17<00:23, 23.33s/it][A
-Docking batches: 100%|██████████| 16/16 [05:40<00:00, 23.29s/it][ADocking batches: 100%|██████████| 16/16 [05:40<00:00, 21.29s/it]
-Calculating properties:   2%|▎         | 1/40 [05:41<3:42:07, 341.73s/it][23:29:21] Explicit valence for atom # 23 C, 5, is greater than permitted
-[23:29:22] SMILES Parse Error: extra close parentheses while parsing: O1C(=NN=C1NC(=O)C2=C(C=CC(=C2)C)C)C3=CC=C(C=C3)C(=O)NC)C
-[23:29:22] SMILES Parse Error: Failed parsing SMILES 'O1C(=NN=C1NC(=O)C2=C(C=CC(=C2)C)C)C3=CC=C(C=C3)C(=O)NC)C' for input: 'O1C(=NN=C1NC(=O)C2=C(C=CC(=C2)C)C)C3=CC=C(C=C3)C(=O)NC)C'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A[23:29:22] Explicit valence for atom # 12 O, 3, is greater than permitted
-
-Docking batches:   6%|▋         | 1/16 [00:18<04:32, 18.20s/it][A[23:29:40] Explicit valence for atom # 2 O, 3, is greater than permitted
-
-Docking batches:  12%|█▎        | 2/16 [00:37<04:27, 19.10s/it][A
-Docking batches:  19%|█▉        | 3/16 [00:55<03:57, 18.25s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:13<03:40, 18.39s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:33<03:28, 18.92s/it][A
-Docking batches:  38%|███▊      | 6/16 [01:56<03:23, 20.32s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:16<03:01, 20.13s/it][A
-Docking batches:  50%|█████     | 8/16 [02:37<02:42, 20.37s/it][A
-Docking batches:  56%|█████▋    | 9/16 [02:55<02:17, 19.69s/it][A[23:32:18] Explicit valence for atom # 8 O, 3, is greater than permitted
-
-Docking batches:  62%|██████▎   | 10/16 [03:11<01:52, 18.71s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:32<01:35, 19.15s/it][A
-Docking batches:  75%|███████▌  | 12/16 [03:52<01:18, 19.61s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:12<00:59, 19.75s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:35<00:40, 20.49s/it][A
-Docking batches:  94%|█████████▍| 15/16 [04:55<00:20, 20.44s/it][A
-Docking batches: 100%|██████████| 16/16 [05:15<00:00, 20.36s/it][ADocking batches: 100%|██████████| 16/16 [05:15<00:00, 19.72s/it]
-Calculating properties:   5%|▌         | 2/40 [10:57<3:26:52, 326.64s/it][23:34:37] SMILES Parse Error: unclosed ring for input: 'C=12C3=C(C(=O)C=CC=C3C[C@@H]4N5[C@@H](C1)C6=C(CCC5)C(N4C)=O)CCC2'
-[23:34:38] Explicit valence for atom # 3 C, 5, is greater than permitted
-[23:34:38] Explicit valence for atom # 14 C, 5, is greater than permitted
-[23:34:38] Explicit valence for atom # 22 N, 4, is greater than permitted
-[23:34:38] SMILES Parse Error: extra close parentheses while parsing: C1=CC=C2C(CCN3[C@H]4C2C(C(CC4)=O)=C5C3CCC5)=O)=C1
-[23:34:38] SMILES Parse Error: Failed parsing SMILES 'C1=CC=C2C(CCN3[C@H]4C2C(C(CC4)=O)=C5C3CCC5)=O)=C1' for input: 'C1=CC=C2C(CCN3[C@H]4C2C(C(CC4)=O)=C5C3CCC5)=O)=C1'
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'O=C1N2[C@H]3[C@@H](CCC2)C=4N(C5C([C@@]4CC3)=CC=C5)C(=O)CC=6C=CC=CC6'
-[23:34:38] Explicit valence for atom # 6 C, 5, is greater than permitted
-[23:34:38] Explicit valence for atom # 16 N, 4, is greater than permitted
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'C=12C3=C(C=CC=4N=CC3C5C(=CC=CC=N5)C1)[C@@]6(C(C2)=CN(C4)C)COC'
-[23:34:38] SMILES Parse Error: extra close parentheses while parsing: C=1C=CC(=C2C(C1)=C3C(N(C(CC3=N2)(F)F)CC4C(C4)C)=O)C)F
-[23:34:38] SMILES Parse Error: Failed parsing SMILES 'C=1C=CC(=C2C(C1)=C3C(N(C(CC3=N2)(F)F)CC4C(C4)C)=O)C)F' for input: 'C=1C=CC(=C2C(C1)=C3C(N(C(CC3=N2)(F)F)CC4C(C4)C)=O)C)F'
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'C=12C3=C(C=CC=4C3=CC=5C2(CC(N(C)C)=O)CCC45)C[C@@]6(C1CCN(C6)C)C2'
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'C=12C3=C(C=CC(N4[C@H]5C[C@@H]([C@H]6C(CC5)=CC=CC4)CO)=C3)C(C1C(N2)=O)(C)C'
-[23:34:38] Explicit valence for atom # 5 C, 5, is greater than permitted
-[23:34:38] Explicit valence for atom # 16 O, 3, is greater than permitted
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'FC1=C(C(=O)N3CC[C@]4(C2CCC=5C3=CC(O)=CC5)CCC4)C=CC=C1'
-[23:34:38] Explicit valence for atom # 19 C, 5, is greater than permitted
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'C12(C(N3C(CCC1)=CCC3=O)C4=CC=5C2=CC=CC5)C(=O)CC'
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'C1=C(C=2C=C3C(=CC(=CC3)CN4[C@@H]5[C@@H](CC2)CCNC45)C)N(C=C1)O[C@@H]6CNCC4'
-[23:34:38] Explicit valence for atom # 16 C, 5, is greater than permitted
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'C=12C3=C(C(=O)N4[C@@H]5[C@H](C)CCC5=CC1C(=O)CC25)CCCC3=C'
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'C1=2C3C(N(C)C=CC3=O)=CC=C1C4C5C(=CC2C(=O)C)CCCC4'
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'C1=2C(C(N3CC[C@H]4[C@H](C1)C=5C(CC3)=CCO4)CCC5)=CC=6OCOC2C'
-[23:34:38] Explicit valence for atom # 18 O, 3, is greater than permitted
-[23:34:38] SMILES Parse Error: extra close parentheses while parsing: C=12C3=C(C(N(C)C=N3)CC1)=CC=4C=CC(=CC4C5CCCN(CC5)C)=O)C2
-[23:34:38] SMILES Parse Error: Failed parsing SMILES 'C=12C3=C(C(N(C)C=N3)CC1)=CC=4C=CC(=CC4C5CCCN(CC5)C)=O)C2' for input: 'C=12C3=C(C(N(C)C=N3)CC1)=CC=4C=CC(=CC4C5CCCN(CC5)C)=O)C2'
-[23:34:38] Explicit valence for atom # 5 C, 5, is greater than permitted
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'C1=CC2=C3C(CCN(CC)C(N4[C@H]5CC[C@@]6(C(CC4)=O)CCC5)=O)=C2CCC13'
-[23:34:38] SMILES Parse Error: syntax error while parsing: O=C1N([C@H]]2C3CC(CC2)C=4C(C(=C3)C)=CC=5C(C4)=CC=ON5)CC1
-[23:34:38] SMILES Parse Error: Failed parsing SMILES 'O=C1N([C@H]]2C3CC(CC2)C=4C(C(=C3)C)=CC=5C(C4)=CC=ON5)CC1' for input: 'O=C1N([C@H]]2C3CC(CC2)C=4C(C(=C3)C)=CC=5C(C4)=CC=ON5)CC1'
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'C=12C3=C(C=CC=4C3=CC=5C[C@@H]6N([C@@H](C5C4)C)C(=O)N(C)C)CC[C@@H]1N(C)CC2'
-[23:34:38] SMILES Parse Error: unclosed ring for input: 'O=C1N([C@H]2[C@@H](CN3[C@@H]4C(C2)=C5C(=CC4)C=CC=6C(C3)=CN(C6)C)CC1)C'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:26<06:32, 26.19s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:37<04:02, 17.30s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:05<04:48, 22.19s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:24<04:12, 21.05s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:59<04:48, 26.20s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:12<03:36, 21.61s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:36<03:20, 22.31s/it][A
-Docking batches:  50%|█████     | 8/16 [02:55<02:49, 21.19s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:12<02:19, 19.86s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:27<01:50, 18.37s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:38<01:21, 16.36s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:03<01:15, 18.98s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:43<01:15, 25.18s/it][A
-Docking batches:  88%|████████▊ | 14/16 [05:20<00:57, 28.90s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:46<00:27, 27.88s/it][A
-Docking batches: 100%|██████████| 16/16 [05:57<00:00, 22.91s/it][ADocking batches: 100%|██████████| 16/16 [05:57<00:00, 22.36s/it]
-Calculating properties:   8%|▊         | 3/40 [16:55<3:30:17, 341.00s/it][23:40:36] SMILES Parse Error: unclosed ring for input: 'O1C2C3C(C(CC2)(CC3)C(=O)NC=4C(=CC(C)(C)C)C(=O)NC(C)(C)C)CC1=O'
-[23:40:36] SMILES Parse Error: unclosed ring for input: 'FC1=C2C(C(=O)N)[C@@H]3[C@@H](C=4C=C(C(=O)N(C4)C)C)C5=C(NCC3)CCCC2C=C1C'
-[23:40:36] SMILES Parse Error: extra close parentheses while parsing: FC1=NC=CC=C1C2=CC=3C4(N=C(N(C4)C)N)C[C@@H]5[C@@H](OC3C=C2)CCOC5)(C)C
-[23:40:36] SMILES Parse Error: Failed parsing SMILES 'FC1=NC=CC=C1C2=CC=3C4(N=C(N(C4)C)N)C[C@@H]5[C@@H](OC3C=C2)CCOC5)(C)C' for input: 'FC1=NC=CC=C1C2=CC=3C4(N=C(N(C4)C)N)C[C@@H]5[C@@H](OC3C=C2)CCOC5)(C)C'
-[23:40:36] SMILES Parse Error: unclosed ring for input: 'N=1C(=NC(=C2C1C=CC(C[C@@H]3C[C@@H](CN3C(C4CCC=5N=C(C(=NN4)C)C)C)=O)C)C2)C'
-[23:40:36] SMILES Parse Error: unclosed ring for input: 'ClC1=C(C2=CN(C(C=C2)C=3C(=NC(=NC3)N)C)C)C(C(=O)N4CC(CC4)C)CCN(C)C'
-[23:40:36] SMILES Parse Error: extra close parentheses while parsing: C1(F)(F)C(C)(C)CC2(C(N(C(=N2)N)C)=O)CC1)C=3C=C(C=CC3C4=CN=CN=C4)C
-[23:40:36] SMILES Parse Error: Failed parsing SMILES 'C1(F)(F)C(C)(C)CC2(C(N(C(=N2)N)C)=O)CC1)C=3C=C(C=CC3C4=CN=CN=C4)C' for input: 'C1(F)(F)C(C)(C)CC2(C(N(C(=N2)N)C)=O)CC1)C=3C=C(C=CC3C4=CN=CN=C4)C'
-[23:40:36] SMILES Parse Error: unclosed ring for input: 'O=C(NC1C2CC3CC1CC(C2)C3)N4CCC(CC4)(C=5C=C(C=CC5)C(=O)NC(C)C)C5=O'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:22<05:42, 22.82s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:44<05:06, 21.88s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:03<04:33, 21.00s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:24<04:09, 20.78s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:46<03:52, 21.17s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:07<03:32, 21.22s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:28<03:08, 20.97s/it][A
-Docking batches:  50%|█████     | 8/16 [02:48<02:47, 20.93s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:09<02:26, 20.94s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:29<02:04, 20.68s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:50<01:43, 20.63s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:12<01:24, 21.08s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:34<01:03, 21.28s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:55<00:42, 21.13s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:16<00:21, 21.24s/it][A
-Docking batches: 100%|██████████| 16/16 [05:38<00:00, 21.42s/it][ADocking batches: 100%|██████████| 16/16 [05:38<00:00, 21.15s/it]
-Calculating properties:  10%|█         | 4/40 [22:34<3:24:07, 340.20s/it][23:46:15] Conflicting single bond directions around double bond at index 12.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] Conflicting single bond directions around double bond at index 14.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] Explicit valence for atom # 23 O, 3, is greater than permitted
-[23:46:15] Conflicting single bond directions around double bond at index 15.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] Explicit valence for atom # 24 O, 3, is greater than permitted
-[23:46:15] Explicit valence for atom # 11 C, 5, is greater than permitted
-[23:46:15] Conflicting single bond directions around double bond at index 16.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] Conflicting single bond directions around double bond at index 14.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] Explicit valence for atom # 24 O, 3, is greater than permitted
-[23:46:15] Explicit valence for atom # 12 C, 5, is greater than permitted
-[23:46:15] Explicit valence for atom # 23 O, 3, is greater than permitted
-[23:46:15] Conflicting single bond directions around double bond at index 0.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] SMILES Parse Error: extra close parentheses while parsing: C/1(\C(/C(=C/C=2C=CC(=CC2)C(=O)NC3CCCCC3)/C1)=C/C)=OC)=C
-[23:46:15] SMILES Parse Error: Failed parsing SMILES 'C/1(\C(/C(=C/C=2C=CC(=CC2)C(=O)NC3CCCCC3)/C1)=C/C)=OC)=C' for input: 'C/1(\C(/C(=C/C=2C=CC(=CC2)C(=O)NC3CCCCC3)/C1)=C/C)=OC)=C'
-[23:46:15] SMILES Parse Error: extra close parentheses while parsing: C/1(\C(/C(=C/C=2C=CC(=CC2)C(=O)NC3CCCCC3)/C1)=C/C)=OC)=C
-[23:46:15] SMILES Parse Error: Failed parsing SMILES 'C/1(\C(/C(=C/C=2C=CC(=CC2)C(=O)NC3CCCCC3)/C1)=C/C)=OC)=C' for input: 'C/1(\C(/C(=C/C=2C=CC(=CC2)C(=O)NC3CCCCC3)/C1)=C/C)=OC)=C'
-[23:46:15] Conflicting single bond directions around double bond at index 18.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] Conflicting single bond directions around double bond at index 0.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] Explicit valence for atom # 23 O, 3, is greater than permitted
-[23:46:15] Explicit valence for atom # 21 O, 3, is greater than permitted
-[23:46:15] Explicit valence for atom # 21 O, 3, is greater than permitted
-[23:46:15] Conflicting single bond directions around double bond at index 15.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] Explicit valence for atom # 20 C, 5, is greater than permitted
-[23:46:15] SMILES Parse Error: unclosed ring for input: 'C/1(=C/C=2C(C=CC(=CC2)Cl)Cl)/C(=O)CC(C3=CC=CC=C3)=O'
-[23:46:15] Conflicting single bond directions around double bond at index 15.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] Explicit valence for atom # 23 O, 3, is greater than permitted
-[23:46:15] SMILES Parse Error: unclosed ring for input: 'FC(F)(F)C=1C=C(NC(=O)C2CCC=3C(C2)=CC=CC3)CN4CCCCC4=O'
-[23:46:15] SMILES Parse Error: extra close parentheses while parsing: C/1(\C(/C(=C/C=2C=CC(=CC2)OC)/CCC1=O)=C/C3=CC=C(C=C3)F)=O)C
-[23:46:15] SMILES Parse Error: Failed parsing SMILES 'C/1(\C(/C(=C/C=2C=CC(=CC2)OC)/CCC1=O)=C/C3=CC=C(C=C3)F)=O)C' for input: 'C/1(\C(/C(=C/C=2C=CC(=CC2)OC)/CCC1=O)=C/C3=CC=C(C=C3)F)=O)C'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A[23:46:15] Conflicting single bond directions around double bond at index 12.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:46:15] Conflicting single bond directions around double bond at index 14.
-[23:46:15]   BondStereo set to STEREONONE and single bond directions set to NONE.
-
-Docking batches:   6%|▋         | 1/16 [00:19<04:50, 19.34s/it][A[23:46:34] Conflicting single bond directions around double bond at index 15.
-[23:46:34]   BondStereo set to STEREONONE and single bond directions set to NONE.
-
-Docking batches:  12%|█▎        | 2/16 [00:51<06:15, 26.82s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:09<04:55, 22.70s/it][A[23:47:24] Conflicting single bond directions around double bond at index 16.
-[23:47:24]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[23:47:24] Conflicting single bond directions around double bond at index 14.
-[23:47:24]   BondStereo set to STEREONONE and single bond directions set to NONE.
-
-Docking batches:  25%|██▌       | 4/16 [01:30<04:27, 22.26s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:50<03:53, 21.22s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:10<03:29, 20.97s/it][A[23:48:26] Conflicting single bond directions around double bond at index 0.
-[23:48:26]   BondStereo set to STEREONONE and single bond directions set to NONE.
-
-Docking batches:  44%|████▍     | 7/16 [02:28<02:59, 20.00s/it][A
-Docking batches:  50%|█████     | 8/16 [02:47<02:37, 19.74s/it][A[23:49:03] Conflicting single bond directions around double bond at index 18.
-[23:49:03]   BondStereo set to STEREONONE and single bond directions set to NONE.
-
-Docking batches:  56%|█████▋    | 9/16 [03:08<02:20, 20.06s/it][A[23:49:24] Conflicting single bond directions around double bond at index 0.
-[23:49:24]   BondStereo set to STEREONONE and single bond directions set to NONE.
-
-Docking batches:  62%|██████▎   | 10/16 [03:25<01:54, 19.04s/it][A[23:49:40] Conflicting single bond directions around double bond at index 15.
-[23:49:40]   BondStereo set to STEREONONE and single bond directions set to NONE.
-
-Docking batches:  69%|██████▉   | 11/16 [03:44<01:35, 19.14s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:05<01:18, 19.60s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:22<00:56, 18.86s/it][A[23:50:38] Conflicting single bond directions around double bond at index 15.
-[23:50:38]   BondStereo set to STEREONONE and single bond directions set to NONE.
-
-Docking batches:  88%|████████▊ | 14/16 [04:39<00:36, 18.20s/it][A
-Docking batches:  94%|█████████▍| 15/16 [04:56<00:17, 17.90s/it][A
-Docking batches: 100%|██████████| 16/16 [05:14<00:00, 17.95s/it][ADocking batches: 100%|██████████| 16/16 [05:14<00:00, 19.66s/it]
-Calculating properties:  12%|█▎        | 5/40 [27:49<3:13:06, 331.04s/it][23:51:29] SMILES Parse Error: extra close parentheses while parsing: C=1(C(=CC=CC1)NC(=O)C2CCCN(CC2)C=3C=CC(=CC3)C(C(C)(C)C)=O)C(C)=O)O
-[23:51:29] SMILES Parse Error: Failed parsing SMILES 'C=1(C(=CC=CC1)NC(=O)C2CCCN(CC2)C=3C=CC(=CC3)C(C(C)(C)C)=O)C(C)=O)O' for input: 'C=1(C(=CC=CC1)NC(=O)C2CCCN(CC2)C=3C=CC(=CC3)C(C(C)(C)C)=O)C(C)=O)O'
-[23:51:29] SMILES Parse Error: extra close parentheses while parsing: C1=C(C(=O)NC2=CC=C(C=C2C)N3CCCCCC3)C=C4C(CCCC4)=C1C(=O)N)CCO
-[23:51:29] SMILES Parse Error: Failed parsing SMILES 'C1=C(C(=O)NC2=CC=C(C=C2C)N3CCCCCC3)C=C4C(CCCC4)=C1C(=O)N)CCO' for input: 'C1=C(C(=O)NC2=CC=C(C=C2C)N3CCCCCC3)C=C4C(CCCC4)=C1C(=O)N)CCO'
-[23:51:29] SMILES Parse Error: extra close parentheses while parsing: C1(=NC2=CC=C(C(NC=3C(=CC(=CC3C)C)C)=O)C=C2S1)NC(CC(C)C)=O)N
-[23:51:29] SMILES Parse Error: Failed parsing SMILES 'C1(=NC2=CC=C(C(NC=3C(=CC(=CC3C)C)C)=O)C=C2S1)NC(CC(C)C)=O)N' for input: 'C1(=NC2=CC=C(C(NC=3C(=CC(=CC3C)C)C)=O)C=C2S1)NC(CC(C)C)=O)N'
-[23:51:29] SMILES Parse Error: extra close parentheses while parsing: C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3)=C1C(C(C)C)=O)NC(=O)O
-[23:51:29] SMILES Parse Error: Failed parsing SMILES 'C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3)=C1C(C(C)C)=O)NC(=O)O' for input: 'C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3)=C1C(C(C)C)=O)NC(=O)O'
-[23:51:29] SMILES Parse Error: extra close parentheses while parsing: CC1(C)CC=C(C=C1C(=O)NC=2C=CC=C(C2)C(=O)N3CCCCCC3)C(=O)O)C(C)(C)C
-[23:51:29] SMILES Parse Error: Failed parsing SMILES 'CC1(C)CC=C(C=C1C(=O)NC=2C=CC=C(C2)C(=O)N3CCCCCC3)C(=O)O)C(C)(C)C' for input: 'CC1(C)CC=C(C=C1C(=O)NC=2C=CC=C(C2)C(=O)N3CCCCCC3)C(=O)O)C(C)(C)C'
-[23:51:29] SMILES Parse Error: extra close parentheses while parsing: C1=C(C(=O)NC=2C=CC(=C(C2)C)NC(=O)C)C=C3CCCCC(C3=C1)=O)CCCO
-[23:51:29] SMILES Parse Error: Failed parsing SMILES 'C1=C(C(=O)NC=2C=CC(=C(C2)C)NC(=O)C)C=C3CCCCC(C3=C1)=O)CCCO' for input: 'C1=C(C(=O)NC=2C=CC(=C(C2)C)NC(=O)C)C=C3CCCCC(C3=C1)=O)CCCO'
-[23:51:29] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C=C1)C)C)C(=O)NC=2C=C(C=CC2C)NC(C3CCCCC3)=O)=NC(C)=O
-[23:51:29] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C=C1)C)C)C(=O)NC=2C=C(C=CC2C)NC(C3CCCCC3)=O)=NC(C)=O' for input: 'C1(=C(C=C(C=C1)C)C)C(=O)NC=2C=C(C=CC2C)NC(C3CCCCC3)=O)=NC(C)=O'
-[23:51:29] SMILES Parse Error: extra close parentheses while parsing: C1(=CC(=CC=C1)NC(=O)C2CCCCCC2)C=3C=C(C=CC3C)NC(=O)CC(C)=O)O
-[23:51:29] SMILES Parse Error: Failed parsing SMILES 'C1(=CC(=CC=C1)NC(=O)C2CCCCCC2)C=3C=C(C=CC3C)NC(=O)CC(C)=O)O' for input: 'C1(=CC(=CC=C1)NC(=O)C2CCCCCC2)C=3C=C(C=CC3C)NC(=O)CC(C)=O)O'
-[23:51:29] SMILES Parse Error: extra close parentheses while parsing: C=1(C(=CC=CC1)C(=O)NC2=CC=C(C(=C2)C)C)C3CCC(CC3)(C(C)C)C(=O)N)=O
-[23:51:29] SMILES Parse Error: Failed parsing SMILES 'C=1(C(=CC=CC1)C(=O)NC2=CC=C(C(=C2)C)C)C3CCC(CC3)(C(C)C)C(=O)N)=O' for input: 'C=1(C(=CC=CC1)C(=O)NC2=CC=C(C(=C2)C)C)C3CCC(CC3)(C(C)C)C(=O)N)=O'
-[23:51:29] SMILES Parse Error: extra close parentheses while parsing: C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3)=C1C(C)C(=O)NC(CC)=O)=O
-[23:51:29] SMILES Parse Error: Failed parsing SMILES 'C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3)=C1C(C)C(=O)NC(CC)=O)=O' for input: 'C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3)=C1C(C)C(=O)NC(CC)=O)=O'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C=C1)C)C)C(=O)NC=2C=CC(=CC2C)NC(CC(C)(C)C)=O)=C(C)C(=O)O
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C=C1)C)C)C(=O)NC=2C=CC(=CC2C)NC(CC(C)(C)C)=O)=C(C)C(=O)O' for input: 'C1(=C(C=C(C=C1)C)C)C(=O)NC=2C=CC(=CC2C)NC(CC(C)(C)C)=O)=C(C)C(=O)O'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C=1(C(=CC=CC1C(=O)NC=2C=CC(=CC2)C(=O)N3CCC(CC3)C)C(=O)O)C(C)(C)C)C
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C=1(C(=CC=CC1C(=O)NC=2C=CC(=CC2)C(=O)N3CCC(CC3)C)C(=O)O)C(C)(C)C)C' for input: 'C=1(C(=CC=CC1C(=O)NC=2C=CC(=CC2)C(=O)N3CCC(CC3)C)C(=O)O)C(C)(C)C)C'
-[23:51:30] Explicit valence for atom # 29 N, 4, is greater than permitted
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3)=C1C(C)C(=O)N)=O
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3)=C1C(C)C(=O)N)=O' for input: 'C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3)=C1C(C)C(=O)N)=O'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC=C1)NC(=O)C=2C=CC(=CC2)C)C3CCCN(CC3)C(C(C(C)C)=O)=O)=N
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC=C1)NC(=O)C=2C=CC(=CC2)C)C3CCCN(CC3)C(C(C(C)C)=O)=O)=N' for input: 'C1(=C(C=CC=C1)NC(=O)C=2C=CC(=CC2)C)C3CCCN(CC3)C(C(C(C)C)=O)=O)=N'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC=C1)C(=O)NC2CCCCCC2)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)N
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC=C1)C(=O)NC2CCCCCC2)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)N' for input: 'C1(=C(C=CC=C1)C(=O)NC2CCCCCC2)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)N'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1=C(C(=O)NC2=CC(=CC=C2C)C)C=C3C(CCCC3=C1)=C(C(C(=O)N)C)C)=O
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1=C(C(=O)NC2=CC(=CC=C2C)C)C=C3C(CCCC3=C1)=C(C(C(=O)N)C)C)=O' for input: 'C1=C(C(=O)NC2=CC(=CC=C2C)C)C=C3C(CCCC3=C1)=C(C(C(=O)N)C)C)=O'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3=C1)=C(C(C)(C)C)C(=O)N)=O
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3=C1)=C(C(C)(C)C)C(=O)N)=O' for input: 'C1=C(C(=O)NC2=CC=C(C=C2C)C)C=C3C(CCCC3=C1)=C(C(C)(C)C)C(=O)N)=O'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)O
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)O' for input: 'C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)O'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC=C1)NC(=O)C2CCCCCC2)C=3C=CC(=CC3)NC(C(C)C)=O)C(=O)N
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC=C1)NC(=O)C2CCCCCC2)C=3C=CC(=CC3)NC(C(C)C)=O)C(=O)N' for input: 'C1(=C(C=CC=C1)NC(=O)C2CCCCCC2)C=3C=CC(=CC3)NC(C(C)C)=O)C(=O)N'
-[23:51:30] Explicit valence for atom # 24 O, 3, is greater than permitted
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1=C(NC(=O)C2=C(C=C(C=C2C)C)C)C=CC(C3CCCCC3)=C1C(C)=O)NC(=O)N
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1=C(NC(=O)C2=C(C=C(C=C2C)C)C)C=CC(C3CCCCC3)=C1C(C)=O)NC(=O)N' for input: 'C1=C(NC(=O)C2=C(C=C(C=C2C)C)C)C=CC(C3CCCCC3)=C1C(C)=O)NC(=O)N'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1=C(C(=O)NC2=CC=C(C=C2)C)C=CC(=C1C3CCCCC3)C(=O)NC4CCCC4=O)CN
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1=C(C(=O)NC2=CC=C(C=C2)C)C=CC(=C1C3CCCCC3)C(=O)NC4CCCC4=O)CN' for input: 'C1=C(C(=O)NC2=CC=C(C=C2)C)C=CC(=C1C3CCCCC3)C(=O)NC4CCCC4=O)CN'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC=C1)NC(=O)C2CCCCCC2)C=3C=CC(=CC3C)C(=O)NC(C4CC4)=O)=O
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC=C1)NC(=O)C2CCCCCC2)C=3C=CC(=CC3C)C(=O)NC(C4CC4)=O)=O' for input: 'C1(=C(C=CC=C1)NC(=O)C2CCCCCC2)C=3C=CC(=CC3C)C(=O)NC(C4CC4)=O)=O'
-[23:51:30] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC=C1)NC(=O)C=2C=CC=C(C2)C)C3CCC(CC3)(C)C(=O)NC(C)=O)=O
-[23:51:30] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC=C1)NC(=O)C=2C=CC=C(C2)C)C3CCC(CC3)(C)C(=O)NC(C)=O)=O' for input: 'C1(=C(C=CC=C1)NC(=O)C=2C=CC=C(C2)C)C3CCC(CC3)(C)C(=O)NC(C)=O)=O'
-[23:51:30] Explicit valence for atom # 27 O, 3, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:30<07:37, 30.48s/it][A
-Docking batches:  12%|█▎        | 2/16 [01:05<07:41, 32.98s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:33<06:41, 30.92s/it][A
-Docking batches:  25%|██▌       | 4/16 [02:01<05:56, 29.70s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:35<05:44, 31.31s/it][A
-Docking batches:  38%|███▊      | 6/16 [03:03<05:02, 30.20s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:34<04:33, 30.39s/it][A
-Docking batches:  50%|█████     | 8/16 [04:17<04:35, 34.47s/it][A
-Docking batches:  56%|█████▋    | 9/16 [04:45<03:46, 32.42s/it][A
-Docking batches:  62%|██████▎   | 10/16 [05:12<03:04, 30.75s/it][A
-Docking batches:  69%|██████▉   | 11/16 [05:39<02:28, 29.68s/it][A
-Docking batches:  75%|███████▌  | 12/16 [06:09<01:58, 29.71s/it][A
-Docking batches:  81%|████████▏ | 13/16 [06:39<01:29, 29.75s/it][A
-Docking batches:  88%|████████▊ | 14/16 [07:08<00:59, 29.67s/it][A
-Docking batches:  94%|█████████▍| 15/16 [07:38<00:29, 29.58s/it][A
-Docking batches: 100%|██████████| 16/16 [08:11<00:00, 30.52s/it][ADocking batches: 100%|██████████| 16/16 [08:11<00:00, 30.69s/it]
-Calculating properties:  15%|█▌        | 6/40 [36:01<3:38:28, 385.55s/it][23:59:41] SMILES Parse Error: unclosed ring for input: 'C12([C@H]3CC[C@@H]4[C@H](CC3)CC1)CC=5C6=C(C4C(NC2)=O)C=CC(=C6)CCC'
-[23:59:41] Explicit valence for atom # 9 O, 3, is greater than permitted
-[23:59:41] SMILES Parse Error: extra close parentheses while parsing: C1C2CC3C(CC1CC3)OC(N4CC(C=CC4)C=5C=CC(=CC5)F)=O)C6CN(CCC6)C2
-[23:59:41] SMILES Parse Error: Failed parsing SMILES 'C1C2CC3C(CC1CC3)OC(N4CC(C=CC4)C=5C=CC(=CC5)F)=O)C6CN(CCC6)C2' for input: 'C1C2CC3C(CC1CC3)OC(N4CC(C=CC4)C=5C=CC(=CC5)F)=O)C6CN(CCC6)C2'
-[23:59:41] SMILES Parse Error: unclosed ring for input: 'C1C2CC3(CC1CC3)OC(N4C5CCCC(CC5)C6=CC=CC=C6)C(C2)=O'
-[23:59:41] SMILES Parse Error: unclosed ring for input: '[C@]12([C@H]([C@@H]3CCC4=C([C@H]3CC1)C=NN4C=5C=CC(=CC5)F)CC[C@]6(CC2)CCC5)O'
-[23:59:41] SMILES Parse Error: unclosed ring for input: 'C1C2(C(C3C(CC2)CCCC3)O)CC4=CC(=CC=C4)N5C=CC6=C1C=CN6C'
-[23:59:41] SMILES Parse Error: unclosed ring for input: 'FC1=C(NC(OC2C3[C@@H]4N([C@H](C(CC4)C3)C)CC5=CC=CC=C5)=O)C=CC(=C1)CC'
-[23:59:41] SMILES Parse Error: unclosed ring for input: 'O=C(N1C=2C(CC3C(CC2C=C1)=CC=4C3=CC=CC4)C=5OC(=CC5)COC)C6CC4C'
-[23:59:41] SMILES Parse Error: unclosed ring for input: 'C1C2([C@H]3[C@H](CC1)CC=4C(C3)=CC=C(N5C=CC=C5)C4)CCC6=CC=CC(=N6)OC'
-[23:59:41] SMILES Parse Error: extra close parentheses while parsing: C1C2CC3C(CC1CC3)OC(N4[C@H](CNC5=C(C=CC=C5)C(C)C)CC4)=C2)=O
-[23:59:41] SMILES Parse Error: Failed parsing SMILES 'C1C2CC3C(CC1CC3)OC(N4[C@H](CNC5=C(C=CC=C5)C(C)C)CC4)=C2)=O' for input: 'C1C2CC3C(CC1CC3)OC(N4[C@H](CNC5=C(C=CC=C5)C(C)C)CC4)=C2)=O'
-[23:59:41] SMILES Parse Error: unclosed ring for input: 'C1C2(C(N3CCN(C4CC5CC6CC4C(C6)C5)CC3)=O)CCCCC1CCC26COCC'
-[23:59:41] SMILES Parse Error: unclosed ring for input: 'C1C2C(C3C(C1CCC3)O(C(N4CCC[C@@H]5C6=C(C4)C=NC5)=O)C)CCCC2'
-[23:59:41] SMILES Parse Error: unclosed ring for input: '[C@]12([C@H]([C@@H]3CCC4=C([C@H]3CC1)C=CC(CC5=CC=C5)=C4)CC[C@]6(CC2=O)OCC5)C'
-[23:59:41] Explicit valence for atom # 18 N, 4, is greater than permitted
-[23:59:41] SMILES Parse Error: unclosed ring for input: '[C@]12([C@@H](C3=CC=CC4=C(C=C3)C=NN4CC1)C=C5C(=C2)C[C@](CC5)(C)C)OC[C@H](O2)C'
-[23:59:41] Explicit valence for atom # 25 O, 3, is greater than permitted
-[23:59:41] SMILES Parse Error: unclosed ring for input: '[C@]12([C@H]([C@@H]3CCC=4C([C@H]3CC1)=CC=NC4C=5C=CC(=CC5)F)CC[C@]6(C2)CC[C@H]7OCCO6)C'
-[23:59:41] SMILES Parse Error: unclosed ring for input: 'C1C2CC3C(CC1CC3)OC4=CC2C=C(C=C4)N5CC(=CC=6C2=CC=CN6)CC5'
-[23:59:41] Explicit valence for atom # 13 C, 5, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:20<05:11, 20.77s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:40<04:42, 20.17s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:00<04:22, 20.22s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:17<03:46, 18.86s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:39<03:41, 20.13s/it][A
-Docking batches:  38%|███▊      | 6/16 [01:58<03:14, 19.44s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:20<03:03, 20.42s/it][A[00:02:02] Explicit valence for atom # 4 O, 3, is greater than permitted
-
-Docking batches:  50%|█████     | 8/16 [02:35<02:29, 18.66s/it][A
-Docking batches:  56%|█████▋    | 9/16 [02:55<02:13, 19.01s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:13<01:53, 18.88s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:38<01:43, 20.70s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:18<01:46, 26.65s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:45<01:20, 26.80s/it][A
-Docking batches:  88%|████████▊ | 14/16 [05:08<00:50, 25.43s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:29<00:24, 24.05s/it][A
-Docking batches: 100%|██████████| 16/16 [05:52<00:00, 23.94s/it][ADocking batches: 100%|██████████| 16/16 [05:52<00:00, 22.05s/it]
-Calculating properties:  18%|█▊        | 7/40 [41:54<3:26:14, 374.99s/it][00:05:34] SMILES Parse Error: unclosed ring for input: 'O=C(NC=1C=2CC(C3C2C=CC(C3=O)(C)C)(C(C2)C)C)CC(C(=N)C4=NC=CC=C4)C1'
-[00:05:34] SMILES Parse Error: unclosed ring for input: 'N([C@H]1CC[C@H]2[C@@H](C1)CC[C@@H]2[C@H]3[C@@H]2CC[C@]3(CC=4C=C(C(=NC4)C(C)C)C)C1)(=O)=N'
-[00:05:34] SMILES Parse Error: extra close parentheses while parsing: C1(C2CC3CC1CC(C3)(C2)C=4N(N=NN4)C)(CC=5C=CC(=CC5)C6CCCCC6)=O)=O
-[00:05:34] SMILES Parse Error: Failed parsing SMILES 'C1(C2CC3CC1CC(C3)(C2)C=4N(N=NN4)C)(CC=5C=CC(=CC5)C6CCCCC6)=O)=O' for input: 'C1(C2CC3CC1CC(C3)(C2)C=4N(N=NN4)C)(CC=5C=CC(=CC5)C6CCCCC6)=O)=O'
-[00:05:34] SMILES Parse Error: unclosed ring for input: 'C=1(CC23CCC4(CC1CC(C4)C3)C(=O)NC=5C=C(C=CC5)C6(CC7=NN=CN=C7)CCC2)C'
-[00:05:34] Explicit valence for atom # 1 C, 6, is greater than permitted
-[00:05:34] SMILES Parse Error: extra close parentheses while parsing: C1(C2CC3CC1CC(C3)C2)NC(C4=C(N(N=C4)C=5C=CC(=CC5)C(C)(C)C)C)=N)=O
-[00:05:34] SMILES Parse Error: Failed parsing SMILES 'C1(C2CC3CC1CC(C3)C2)NC(C4=C(N(N=C4)C=5C=CC(=CC5)C(C)(C)C)C)=N)=O' for input: 'C1(C2CC3CC1CC(C3)C2)NC(C4=C(N(N=C4)C=5C=CC(=CC5)C(C)(C)C)C)=N)=O'
-[00:05:34] Explicit valence for atom # 0 C, 5, is greater than permitted
-[00:05:34] SMILES Parse Error: extra close parentheses while parsing: O=C([C@H]1[C@@]2([C@H]3[C@H](CC2)C=4C(CC3)=CC(O)=CC4)CCC1)C=5C(CCC5)(C)C(=O)O)C
-[00:05:34] SMILES Parse Error: Failed parsing SMILES 'O=C([C@H]1[C@@]2([C@H]3[C@H](CC2)C=4C(CC3)=CC(O)=CC4)CCC1)C=5C(CCC5)(C)C(=O)O)C' for input: 'O=C([C@H]1[C@@]2([C@H]3[C@H](CC2)C=4C(CC3)=CC(O)=CC4)CCC1)C=5C(CCC5)(C)C(=O)O)C'
-[00:05:34] SMILES Parse Error: unclosed ring for input: 'ON1C=C2C3(C(N=C(C2=CC(C1N)=C1C4(CC4)C)C5=CC(=CC=C5)C#N)(CC3)C)C'
-[00:05:34] SMILES Parse Error: unclosed ring for input: 'O=C1C2C3(N=C(N=C2CC(C1)(C)C)NC4=CC(=CC=C4)C#N)C5=CC=CC=C3C'
-[00:05:34] Explicit valence for atom # 16 C, 5, is greater than permitted
-[00:05:34] SMILES Parse Error: unclosed ring for input: 'O=C1C2=N[C@]3([C@H]([C@H]4[C@H](CC3)C5=CC(OC)=C(O)C=C5)C[C@@H]4[C@H]CCCC)CC1=O'
-[00:05:34] Explicit valence for atom # 27 N, 4, is greater than permitted
-[00:05:34] Explicit valence for atom # 1 C, 5, is greater than permitted
-[00:05:34] Explicit valence for atom # 7 N, 4, is greater than permitted
-[00:05:34] SMILES Parse Error: extra close parentheses while parsing: [C@]123CC[C@H](CC(C3)OC)CC[C@H]1[C@@H](OC)C=4C2=CC(=CC4)C=5C(=CC=CC5)C(O)=O)O
-[00:05:34] SMILES Parse Error: Failed parsing SMILES '[C@]123CC[C@H](CC(C3)OC)CC[C@H]1[C@@H](OC)C=4C2=CC(=CC4)C=5C(=CC=CC5)C(O)=O)O' for input: '[C@]123CC[C@H](CC(C3)OC)CC[C@H]1[C@@H](OC)C=4C2=CC(=CC4)C=5C(=CC=CC5)C(O)=O)O'
-[00:05:34] SMILES Parse Error: unclosed ring for input: 'C1C(CC23CC4(C(N(C(=N4)N)C)=O)CC[C@@H]2CC1CC(C4)(C3)C5=CC=C(C(=C5)Cl)C)=O'
-[00:05:34] SMILES Parse Error: unclosed ring for input: 'FC1=CC23CC4(C(N(C=5C=C(C=CC5)C(=O)NC(CC)(C)C)C2=CC=C1C3)=N)C#N'
-[00:05:34] SMILES Parse Error: unclosed ring for input: 'CC1(C)OC=2C(C=3C=C(C(N4CC5(CC4)C(=O)NC=6ON=CC6)=CC3)F)=CC(=CC2)C1'
-[00:05:34] Explicit valence for atom # 27 O, 3, is greater than permitted
-[00:05:34] Explicit valence for atom # 2 C, 5, is greater than permitted
-[00:05:34] SMILES Parse Error: extra close parentheses while parsing: [C@H]1([C@H]2[C@H](C[C@H](C1)C2)C)C(NC=3C4=C(C=CC3)C(CCC4)(C)C)=O)=CC=C(C25CCOCC5)N
-[00:05:34] SMILES Parse Error: Failed parsing SMILES '[C@H]1([C@H]2[C@H](C[C@H](C1)C2)C)C(NC=3C4=C(C=CC3)C(CCC4)(C)C)=O)=CC=C(C25CCOCC5)N' for input: '[C@H]1([C@H]2[C@H](C[C@H](C1)C2)C)C(NC=3C4=C(C=CC3)C(CCC4)(C)C)=O)=CC=C(C25CCOCC5)N'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:25<06:17, 25.15s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:49<05:48, 24.93s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:17<05:39, 26.15s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:46<05:28, 27.35s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:46<07:09, 39.06s/it][A
-Docking batches:  38%|███▊      | 6/16 [03:18<06:05, 36.59s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:43<04:56, 32.90s/it][A
-Docking batches:  50%|█████     | 8/16 [04:05<03:55, 29.40s/it][A
-Docking batches:  56%|█████▋    | 9/16 [04:53<04:07, 35.32s/it][A
-Docking batches:  62%|██████▎   | 10/16 [05:26<03:26, 34.37s/it][A
-Docking batches:  69%|██████▉   | 11/16 [05:53<02:41, 32.21s/it][A
-Docking batches:  75%|███████▌  | 12/16 [06:18<02:00, 30.03s/it][A
-Docking batches:  81%|████████▏ | 13/16 [06:46<01:28, 29.45s/it][A
-Docking batches:  88%|████████▊ | 14/16 [07:13<00:57, 28.72s/it][A
-Docking batches:  94%|█████████▍| 15/16 [07:36<00:27, 27.10s/it][A
-Docking batches: 100%|██████████| 16/16 [08:01<00:00, 26.47s/it][ADocking batches: 100%|██████████| 16/16 [08:01<00:00, 30.12s/it]
-Calculating properties:  20%|██        | 8/40 [49:56<3:38:13, 409.17s/it][00:13:36] SMILES Parse Error: extra close parentheses while parsing: C=1C=C(C(N2CCN(CC2)CCN3C(C=4C=CC=CC4)=O)CCC3)C=CN1)F
-[00:13:36] SMILES Parse Error: Failed parsing SMILES 'C=1C=C(C(N2CCN(CC2)CCN3C(C=4C=CC=CC4)=O)CCC3)C=CN1)F' for input: 'C=1C=C(C(N2CCN(CC2)CCN3C(C=4C=CC=CC4)=O)CCC3)C=CN1)F'
-[00:13:36] SMILES Parse Error: extra close parentheses while parsing: C=1C=CC(C(N2CCN(C[C@@H]2C3=CC=C(C=C3)F)C)=O)=C(C1)F)F
-[00:13:36] SMILES Parse Error: Failed parsing SMILES 'C=1C=CC(C(N2CCN(C[C@@H]2C3=CC=C(C=C3)F)C)=O)=C(C1)F)F' for input: 'C=1C=CC(C(N2CCN(C[C@@H]2C3=CC=C(C=C3)F)C)=O)=C(C1)F)F'
-[00:13:36] SMILES Parse Error: extra close parentheses while parsing: N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)F)=O)C=4C=CC(=CC4F)F)CC1
-[00:13:36] SMILES Parse Error: Failed parsing SMILES 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)F)=O)C=4C=CC(=CC4F)F)CC1' for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)F)=O)C=4C=CC(=CC4F)F)CC1'
-[00:13:36] SMILES Parse Error: extra close parentheses while parsing: C(N1CCC=2C(C1)=CC=CC2)(CC3=C(CN4CCCC4)C=CC=C3)=O)=O
-[00:13:36] SMILES Parse Error: Failed parsing SMILES 'C(N1CCC=2C(C1)=CC=CC2)(CC3=C(CN4CCCC4)C=CC=C3)=O)=O' for input: 'C(N1CCC=2C(C1)=CC=CC2)(CC3=C(CN4CCCC4)C=CC=C3)=O)=O'
-[00:13:36] SMILES Parse Error: extra close parentheses while parsing: C(N1CCC=2C(C1)=CC=CC2)(CN3CCN(CC3)C=4C(=CC=C(C4)F)F)=O)=CC
-[00:13:36] SMILES Parse Error: Failed parsing SMILES 'C(N1CCC=2C(C1)=CC=CC2)(CN3CCN(CC3)C=4C(=CC=C(C4)F)F)=O)=CC' for input: 'C(N1CCC=2C(C1)=CC=CC2)(CN3CCN(CC3)C=4C(=CC=C(C4)F)F)=O)=CC'
-[00:13:36] Conflicting single bond directions around double bond at index 0.
-[00:13:36]   BondStereo set to STEREONONE and single bond directions set to NONE.
-[00:13:36] Explicit valence for atom # 25 N, 4, is greater than permitted
-[00:13:37] Explicit valence for atom # 22 N, 4, is greater than permitted
-[00:13:37] SMILES Parse Error: extra close parentheses while parsing: C\1(NC=2C(/C1=C\C=3C=CC(=CC3)F)=CC=CC2)=O)=O
-[00:13:37] SMILES Parse Error: Failed parsing SMILES 'C\1(NC=2C(/C1=C\C=3C=CC(=CC3)F)=CC=CC2)=O)=O' for input: 'C\1(NC=2C(/C1=C\C=3C=CC(=CC3)F)=CC=CC2)=O)=O'
-[00:13:37] Explicit valence for atom # 19 O, 3, is greater than permitted
-[00:13:37] SMILES Parse Error: extra close parentheses while parsing: C(N1CCC=2C(C1)=CC=CC2)(CN3CCN(CC3)C=4C(=CC(=CC4)F)F)=O)C
-[00:13:37] SMILES Parse Error: Failed parsing SMILES 'C(N1CCC=2C(C1)=CC=CC2)(CN3CCN(CC3)C=4C(=CC(=CC4)F)F)=O)C' for input: 'C(N1CCC=2C(C1)=CC=CC2)(CN3CCN(CC3)C=4C(=CC(=CC4)F)F)=O)C'
-[00:13:37] Explicit valence for atom # 22 F, 2, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:22<05:37, 22.48s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:42<04:55, 21.08s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:02<04:27, 20.56s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:20<03:54, 19.52s/it][A[00:14:57] Conflicting single bond directions around double bond at index 0.
-[00:14:57]   BondStereo set to STEREONONE and single bond directions set to NONE.
-
-Docking batches:  31%|███▏      | 5/16 [01:38<03:29, 19.06s/it][A
-Docking batches:  38%|███▊      | 6/16 [01:55<03:02, 18.30s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:14<02:48, 18.68s/it][A
-Docking batches:  50%|█████     | 8/16 [02:33<02:28, 18.61s/it][A
-Docking batches:  56%|█████▋    | 9/16 [02:53<02:13, 19.02s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:15<01:59, 19.88s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:37<01:43, 20.67s/it][A
-Docking batches:  75%|███████▌  | 12/16 [03:58<01:22, 20.60s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:21<01:04, 21.40s/it][A[00:17:58] Explicit valence for atom # 4 O, 3, is greater than permitted
-
-Docking batches:  88%|████████▊ | 14/16 [04:40<00:41, 20.63s/it][A
-Docking batches:  94%|█████████▍| 15/16 [04:59<00:20, 20.29s/it][A
-Docking batches: 100%|██████████| 16/16 [05:21<00:00, 20.63s/it][ADocking batches: 100%|██████████| 16/16 [05:21<00:00, 20.07s/it]
-Calculating properties:  22%|██▎       | 9/40 [55:18<3:17:13, 381.74s/it][00:18:58] SMILES Parse Error: extra close parentheses while parsing: S(=O)(=O)(N1CCCC1)C=2C=CC(=CC2)C=3ON=C(NC4CCC4)C3)CNC
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'S(=O)(=O)(N1CCCC1)C=2C=CC(=CC2)C=3ON=C(NC4CCC4)C3)CNC' for input: 'S(=O)(=O)(N1CCCC1)C=2C=CC(=CC2)C=3ON=C(NC4CCC4)C3)CNC'
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: S(=O)(=O)(N1CCC=2C1=CC=C(C2)C(=O)NC=3C=C(C=CC3)CC)NCC)C
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'S(=O)(=O)(N1CCC=2C1=CC=C(C2)C(=O)NC=3C=C(C=CC3)CC)NCC)C' for input: 'S(=O)(=O)(N1CCC=2C1=CC=C(C2)C(=O)NC=3C=C(C=CC3)CC)NCC)C'
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: FC1=CC(=C(C2=NN(N=C2N)C=3C=C(C=CC3)C)C=C1)C(=O)NC)C
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'FC1=CC(=C(C2=NN(N=C2N)C=3C=C(C=CC3)C)C=C1)C(=O)NC)C' for input: 'FC1=CC(=C(C2=NN(N=C2N)C=3C=C(C=CC3)C)C=C1)C(=O)NC)C'
-[00:18:58] Explicit valence for atom # 21 N, 4, is greater than permitted
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: FC(F)(F)C1=CC(=C(NC(=O)C2=CC=CN=C2)C=C1)C(=O)NCCOC)C
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'FC(F)(F)C1=CC(=C(NC(=O)C2=CC=CN=C2)C=C1)C(=O)NCCOC)C' for input: 'FC(F)(F)C1=CC(=C(NC(=O)C2=CC=CN=C2)C=C1)C(=O)NCCOC)C'
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: S(=O)(=O)(N1CCC=2C(C1)=CC=CC2)C3=CC=C(C=C3)CCC(=O)NCCCO)C
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'S(=O)(=O)(N1CCC=2C(C1)=CC=CC2)C3=CC=C(C=C3)CCC(=O)NCCCO)C' for input: 'S(=O)(=O)(N1CCC=2C(C1)=CC=CC2)C3=CC=C(C=C3)CCC(=O)NCCCO)C'
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: S(=O)(=O)(N1CCCC1)C=2C=C(C=CC2)C(=O)NC=3NC(=CC3)CCC)C
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'S(=O)(=O)(N1CCCC1)C=2C=C(C=CC2)C(=O)NC=3NC(=CC3)CCC)C' for input: 'S(=O)(=O)(N1CCCC1)C=2C=C(C=CC2)C(=O)NC=3NC(=CC3)CCC)C'
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: S(=O)(=O)(N1CCOCC1)C=2C=C(C=CC2)C(=O)NC=3C=C(C(=CC3)C)CCCO)C
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'S(=O)(=O)(N1CCOCC1)C=2C=C(C=CC2)C(=O)NC=3C=C(C(=CC3)C)CCCO)C' for input: 'S(=O)(=O)(N1CCOCC1)C=2C=C(C=CC2)C(=O)NC=3C=C(C(=CC3)C)CCCO)C'
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: S(=O)(=O)(N1CCC=2C(C1)=CC=CC2)C=3C=CC(=CC3)C(=O)NCCC(C)C)=O
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'S(=O)(=O)(N1CCC=2C(C1)=CC=CC2)C=3C=CC(=CC3)C(=O)NCCC(C)C)=O' for input: 'S(=O)(=O)(N1CCC=2C(C1)=CC=CC2)C=3C=CC(=CC3)C(=O)NCCC(C)C)=O'
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: O=C(NC1=CC(C(=O)NC2=CC=CN=C2)=CC=C1N3CCN(CC3)C)CC)CNC
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'O=C(NC1=CC(C(=O)NC2=CC=CN=C2)=CC=C1N3CCN(CC3)C)CC)CNC' for input: 'O=C(NC1=CC(C(=O)NC2=CC=CN=C2)=CC=C1N3CCN(CC3)C)CC)CNC'
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: C(=O)(N)C1=NC(=CC=C1)NC2=CC=NC(=C2)C3=CC(=CC=C3)C)C
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'C(=O)(N)C1=NC(=CC=C1)NC2=CC=NC(=C2)C3=CC(=CC=C3)C)C' for input: 'C(=O)(N)C1=NC(=CC=C1)NC2=CC=NC(=C2)C3=CC(=CC=C3)C)C'
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: S(=O)(=O)(N1CCC=2C(C1)=CC=CC2)C=3C=C(C=CC3)C(=O)NCCCCC)=O
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'S(=O)(=O)(N1CCC=2C(C1)=CC=CC2)C=3C=C(C=CC3)C(=O)NCCCCC)=O' for input: 'S(=O)(=O)(N1CCC=2C(C1)=CC=CC2)C=3C=C(C=CC3)C(=O)NCCCCC)=O'
-[00:18:58] SMILES Parse Error: extra close parentheses while parsing: S(=O)(=O)(N1CCN(CC1)C=2C=CC(=CC2)CC(=O)NC=3C=CC(=CC3)C)CC)CCO
-[00:18:58] SMILES Parse Error: Failed parsing SMILES 'S(=O)(=O)(N1CCN(CC1)C=2C=CC(=CC2)CC(=O)NC=3C=CC(=CC3)C)CC)CCO' for input: 'S(=O)(=O)(N1CCN(CC1)C=2C=CC(=CC2)CC(=O)NC=3C=CC(=CC3)C)CC)CCO'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:24<06:13, 24.90s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:53<06:20, 27.19s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:19<05:44, 26.51s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:43<05:06, 25.55s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:10<04:45, 25.97s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:32<04:08, 24.82s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:56<03:39, 24.44s/it][A
-Docking batches:  50%|█████     | 8/16 [03:22<03:19, 24.91s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:45<02:49, 24.22s/it][A
-Docking batches:  62%|██████▎   | 10/16 [04:08<02:23, 23.99s/it][A[00:23:07] UFFTYPER: Unrecognized atom type: S_5+4 (8)
-
-Docking batches:  69%|██████▉   | 11/16 [04:30<01:56, 23.32s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:50<01:29, 22.40s/it][A[00:24:06] Explicit valence for atom # 6 C, 5, is greater than permitted
-
-Docking batches:  81%|████████▏ | 13/16 [05:15<01:09, 23.30s/it][A
-Docking batches:  88%|████████▊ | 14/16 [05:40<00:47, 23.52s/it][A
-Docking batches:  94%|█████████▍| 15/16 [06:05<00:24, 24.09s/it][A
-Docking batches: 100%|██████████| 16/16 [06:34<00:00, 25.64s/it][ADocking batches: 100%|██████████| 16/16 [06:34<00:00, 24.67s/it]
-Calculating properties:  25%|██▌       | 10/40 [1:01:53<3:12:55, 385.87s/it][00:25:33] Explicit valence for atom # 17 O, 3, is greater than permitted
-[00:25:33] Explicit valence for atom # 3 N, 4, is greater than permitted
-[00:25:33] Explicit valence for atom # 18 O, 3, is greater than permitted
-[00:25:33] SMILES Parse Error: syntax error while parsing: C1C[C@H]2CC[N3+](=C2)CCN4[C@H](C)CC[C@H]4C3=O)=C5C=CC=CC5=C1C
-[00:25:33] SMILES Parse Error: Failed parsing SMILES 'C1C[C@H]2CC[N3+](=C2)CCN4[C@H](C)CC[C@H]4C3=O)=C5C=CC=CC5=C1C' for input: 'C1C[C@H]2CC[N3+](=C2)CCN4[C@H](C)CC[C@H]4C3=O)=C5C=CC=CC5=C1C'
-[00:25:33] Explicit valence for atom # 0 C, 5, is greater than permitted
-[00:25:33] SMILES Parse Error: unclosed ring for input: '[C@H]12N([C@H](C[C@H]1C3=CF)CC[C@@H]2N4CCN(C3)C(=O)C=5C=CC(=CC5)C(F)(F)F)C'
-[00:25:33] SMILES Parse Error: extra close parentheses while parsing: C=12C3=C4C=CC(=C3CCN(C1C(C=N2)C)C)[C@@H]5[C@@H]4CCO5)C
-[00:25:33] SMILES Parse Error: Failed parsing SMILES 'C=12C3=C4C=CC(=C3CCN(C1C(C=N2)C)C)[C@@H]5[C@@H]4CCO5)C' for input: 'C=12C3=C4C=CC(=C3CCN(C1C(C=N2)C)C)[C@@H]5[C@@H]4CCO5)C'
-[00:25:33] SMILES Parse Error: extra close parentheses while parsing: C=12C3=C4C(C(N(C)C)CCC4=CC=C2C5C3CCN(CC5)C)=O)=CC1CO
-[00:25:33] SMILES Parse Error: Failed parsing SMILES 'C=12C3=C4C(C(N(C)C)CCC4=CC=C2C5C3CCN(CC5)C)=O)=CC1CO' for input: 'C=12C3=C4C(C(N(C)C)CCC4=CC=C2C5C3CCN(CC5)C)=O)=CC1CO'
-[00:25:33] SMILES Parse Error: extra close parentheses while parsing: C=12C3=C4C=CC=C3C[C@@H]5C1C(=CC=C2)CCN5[C@@H]4C)O[C@H]6CCOC62
-[00:25:33] SMILES Parse Error: Failed parsing SMILES 'C=12C3=C4C=CC=C3C[C@@H]5C1C(=CC=C2)CCN5[C@@H]4C)O[C@H]6CCOC62' for input: 'C=12C3=C4C=CC=C3C[C@@H]5C1C(=CC=C2)CCN5[C@@H]4C)O[C@H]6CCOC62'
-[00:25:33] SMILES Parse Error: unclosed ring for input: 'C=12C3=C4C5C(CCO5)=CC=CC4=CC1C[C@@H]6C2(CN(C)C)C3=O'
-[00:25:33] Explicit valence for atom # 3 N, 4, is greater than permitted
-[00:25:33] SMILES Parse Error: unclosed ring for input: 'C=12C3=C4C(C(N(C)C)=CC=C3CC(N1)=O)=CC(=C2CC(C)C)C'
-[00:25:33] Explicit valence for atom # 10 N, 4, is greater than permitted
-[00:25:33] Explicit valence for atom # 13 C, 5, is greater than permitted
-[00:25:33] SMILES Parse Error: unclosed ring for input: 'C=12C3=C4C(CC(N(C)CCC)=O)=CC=CC3=CC(C1C(C=C2)N(C)C)=O'
-[00:25:33] SMILES Parse Error: unclosed ring for input: 'C1C2(C(N3CC(CN4[C@H](C3)COC[C@@H]4C4)=O)=CC5=C1C(=CC=C25)C)C'
-[00:25:33] SMILES Parse Error: syntax error while parsing: =C12C3=C4C(C(N(C)C)CCC4=CC=C3)=CCC1C(C(N2CC)=O)C)C
-[00:25:33] SMILES Parse Error: Failed parsing SMILES '=C12C3=C4C(C(N(C)C)CCC4=CC=C3)=CCC1C(C(N2CC)=O)C)C' for input: '=C12C3=C4C(C(N(C)C)CCC4=CC=C3)=CCC1C(C(N2CC)=O)C)C'
-[00:25:33] Explicit valence for atom # 15 C, 5, is greater than permitted
-[00:25:33] SMILES Parse Error: extra close parentheses while parsing: C=12C3=C4C(C(N(C)C)CCC4)=CC=C3C[C@@H]5C1C(CC2)=O)=OCCN5C
-[00:25:33] SMILES Parse Error: Failed parsing SMILES 'C=12C3=C4C(C(N(C)C)CCC4)=CC=C3C[C@@H]5C1C(CC2)=O)=OCCN5C' for input: 'C=12C3=C4C(C(N(C)C)CCC4)=CC=C3C[C@@H]5C1C(CC2)=O)=OCCN5C'
-[00:25:33] SMILES Parse Error: unclosed ring for input: 'C1=CC=C2C=3C(CC2=C1)=CC4=C(N(CCC34)CC)[C@H]5C(=O)CCN5CC4'
-[00:25:33] SMILES Parse Error: extra close parentheses while parsing: C=12C3=C4C(C(N(C)CCC4)=O)=CC=C3C[C@@H]5C1C(CC2)=CN5C)C
-[00:25:33] SMILES Parse Error: Failed parsing SMILES 'C=12C3=C4C(C(N(C)CCC4)=O)=CC=C3C[C@@H]5C1C(CC2)=CN5C)C' for input: 'C=12C3=C4C(C(N(C)CCC4)=O)=CC=C3C[C@@H]5C1C(CC2)=CN5C)C'
-[00:25:33] Explicit valence for atom # 0 C, 5, is greater than permitted
-[00:25:33] Explicit valence for atom # 24 O, 3, is greater than permitted
-[00:25:33] SMILES Parse Error: unclosed ring for input: 'O=C1N(C2C3CC4CC2C(C3)C4)C(=O)N5C(CCCC5)C1CC6CC4C'
-[00:25:33] Explicit valence for atom # 0 C, 5, is greater than permitted
-[00:25:33] Explicit valence for atom # 1 C, 5, is greater than permitted
-[00:25:33] Explicit valence for atom # 6 C, 5, is greater than permitted
-[00:25:33] Explicit valence for atom # 20 C, 5, is greater than permitted
-[00:25:33] SMILES Parse Error: unclosed ring for input: 'C=12C3=C4C=CC=C3C(N(CC1C=CC=5[N+](C2)(CCC4)O)=C)=CC'
-[00:25:33] Explicit valence for atom # 12 C, 5, is greater than permitted
-[00:25:33] SMILES Parse Error: unclosed ring for input: 'C=12C3=C4C(C(N(C)CCC1)=CC(=O)C=C2CC(N3CC)C)CC'
-[00:25:33] SMILES Parse Error: unclosed ring for input: '[C@]12(CN3CCN(CCN4C([C@H]6CC=7C4=CC=C(O)C5)=CC[C@@H]3[C@@H](C1)C2)=O)CC'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:11<02:46, 11.10s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:35<04:23, 18.85s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:00<04:39, 21.53s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:25<04:35, 22.94s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:37<03:30, 19.17s/it][A
-Docking batches:  38%|███▊      | 6/16 [01:47<02:40, 16.06s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:09<02:41, 17.99s/it][A
-Docking batches:  50%|█████     | 8/16 [02:23<02:12, 16.52s/it][A
-Docking batches:  56%|█████▋    | 9/16 [02:35<01:46, 15.19s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:01<01:51, 18.65s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:20<01:32, 18.57s/it][A
-Docking batches:  75%|███████▌  | 12/16 [03:41<01:17, 19.36s/it][A
-Docking batches:  81%|████████▏ | 13/16 [03:54<00:52, 17.63s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:07<00:32, 16.12s/it][A
-Docking batches:  94%|█████████▍| 15/16 [04:36<00:19, 19.95s/it][A
-Docking batches: 100%|██████████| 16/16 [04:52<00:00, 18.75s/it][ADocking batches: 100%|██████████| 16/16 [04:52<00:00, 18.27s/it]
-Calculating properties:  28%|██▊       | 11/40 [1:06:45<2:52:42, 357.33s/it][00:30:25] SMILES Parse Error: extra close parentheses while parsing: C=1C(=NC(=NC1)C)C2=CC(=CC(=N2)[C@@]3(C[C@H]4[C@@H](CN(C4)C(=O)O)CC3)C)C(F)(F)F)C
-[00:30:25] SMILES Parse Error: Failed parsing SMILES 'C=1C(=NC(=NC1)C)C2=CC(=CC(=N2)[C@@]3(C[C@H]4[C@@H](CN(C4)C(=O)O)CC3)C)C(F)(F)F)C' for input: 'C=1C(=NC(=NC1)C)C2=CC(=CC(=N2)[C@@]3(C[C@H]4[C@@H](CN(C4)C(=O)O)CC3)C)C(F)(F)F)C'
-[00:30:25] SMILES Parse Error: extra close parentheses while parsing: [C@H]12[C@H](C[C@H](CN1)C(N3[C@@H]4CC[C@@H](C4)C=5C(=CC(=C(C5)C)O)CC3)=O)CC(C2)=O)OC
-[00:30:25] SMILES Parse Error: Failed parsing SMILES '[C@H]12[C@H](C[C@H](CN1)C(N3[C@@H]4CC[C@@H](C4)C=5C(=CC(=C(C5)C)O)CC3)=O)CC(C2)=O)OC' for input: '[C@H]12[C@H](C[C@H](CN1)C(N3[C@@H]4CC[C@@H](C4)C=5C(=CC(=C(C5)C)O)CC3)=O)CC(C2)=O)OC'
-[00:30:26] SMILES Parse Error: unclosed ring for input: '[C@@H]12[C@H]3CN(C(=O)C([C@H]3[C@H](C1)C=4C=CC(=CC4)O)=O)CC=5C=C(C(=CN5)C)C#CC'
-[00:30:26] Explicit valence for atom # 16 N, 4, is greater than permitted
-[00:30:26] Explicit valence for atom # 10 C, 5, is greater than permitted
-[00:30:26] SMILES Parse Error: extra close parentheses while parsing: C12(C(N(C(=N1)N)C)=O)CC(C)(C)CC=3C2=CC(=CC3)C4=CN(N=C4)CC(C)C)C
-[00:30:26] SMILES Parse Error: Failed parsing SMILES 'C12(C(N(C(=N1)N)C)=O)CC(C)(C)CC=3C2=CC(=CC3)C4=CN(N=C4)CC(C)C)C' for input: 'C12(C(N(C(=N1)N)C)=O)CC(C)(C)CC=3C2=CC(=CC3)C4=CN(N=C4)CC(C)C)C'
-[00:30:26] SMILES Parse Error: unclosed ring for input: 'C=1(C=CC(=NC1)C(=O)NC2=CC=CC(=C2)[C@@]34[C@H]5[C@@](COC3)(C(N(C5)C)=O)C)(C)C'
-[00:30:26] SMILES Parse Error: unclosed ring for input: 'FC(F)(F)C1=CC(NC(=O)[C@@H]2NC[C@H]3CCCN(C3)C=4C=C(C(=O)NC)C=CC4)=NC=C1'
-[00:30:26] SMILES Parse Error: unclosed ring for input: 'C=1(C=CC(=NC1)C(=O)NC2=CC(=C(C=C2)[C@@]34[C@H](COCC(N3)=N)C)F)Cl'
-[00:30:26] SMILES Parse Error: extra close parentheses while parsing: C=1C(=CC=C(C1)[C@H]2C[C@H](N3[C@@H](CC[C@]3(F)F)C=4N=C(N(C4)C)N)CC2)C(=O)O)C
-[00:30:26] SMILES Parse Error: Failed parsing SMILES 'C=1C(=CC=C(C1)[C@H]2C[C@H](N3[C@@H](CC[C@]3(F)F)C=4N=C(N(C4)C)N)CC2)C(=O)O)C' for input: 'C=1C(=CC=C(C1)[C@H]2C[C@H](N3[C@@H](CC[C@]3(F)F)C=4N=C(N(C4)C)N)CC2)C(=O)O)C'
-[00:30:26] SMILES Parse Error: unclosed ring for input: 'C=12C(=C(C(C[C@@H]3[C@H]4CC[C@@H]([C@@H]4C=5C=C(C(=O)N)C=CN5)C3)C)NC=NC1C)C'
-[00:30:26] Explicit valence for atom # 17 C, 5, is greater than permitted
-[00:30:26] SMILES Parse Error: extra close parentheses while parsing: C12(C(N(C(=N1)N)C)=O)CC(C)(C)OC3=C2C=C(C=C3)C4=CN(N=C4)C(C)(C)CC)C
-[00:30:26] SMILES Parse Error: Failed parsing SMILES 'C12(C(N(C(=N1)N)C)=O)CC(C)(C)OC3=C2C=C(C=C3)C4=CN(N=C4)C(C)(C)CC)C' for input: 'C12(C(N(C(=N1)N)C)=O)CC(C)(C)OC3=C2C=C(C=C3)C4=CN(N=C4)C(C)(C)CC)C'
-[00:30:26] SMILES Parse Error: extra close parentheses while parsing: C12(C(N(C(=N1)N)C)=O)CC(C)(C)CCC3=C2C=C(C=C3)C4=CN=CN(C4)C(C)(C)C)C
-[00:30:26] SMILES Parse Error: Failed parsing SMILES 'C12(C(N(C(=N1)N)C)=O)CC(C)(C)CCC3=C2C=C(C=C3)C4=CN=CN(C4)C(C)(C)C)C' for input: 'C12(C(N(C(=N1)N)C)=O)CC(C)(C)CCC3=C2C=C(C=C3)C4=CN=CN(C4)C(C)(C)C)C'
-[00:30:26] SMILES Parse Error: extra close parentheses while parsing: C=1C2=C(C(=CC1)C3CCN(CC3)C(=O)N)N4C(SCC(C4)(C)C)(C)CC(N2)=O)CC
-[00:30:26] SMILES Parse Error: Failed parsing SMILES 'C=1C2=C(C(=CC1)C3CCN(CC3)C(=O)N)N4C(SCC(C4)(C)C)(C)CC(N2)=O)CC' for input: 'C=1C2=C(C(=CC1)C3CCN(CC3)C(=O)N)N4C(SCC(C4)(C)C)(C)CC(N2)=O)CC'
-[00:30:26] SMILES Parse Error: syntax error while parsing: C=1C(=CC=C2C1C[C@@]3([C@H](N(C([C@@H]2])=O)C)C=4C=C(C(=CN3)N)C=NC4)C)C
-[00:30:26] SMILES Parse Error: Failed parsing SMILES 'C=1C(=CC=C2C1C[C@@]3([C@H](N(C([C@@H]2])=O)C)C=4C=C(C(=CN3)N)C=NC4)C)C' for input: 'C=1C(=CC=C2C1C[C@@]3([C@H](N(C([C@@H]2])=O)C)C=4C=C(C(=CN3)N)C=NC4)C)C'
-[00:30:26] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(=NC1)C(=O)NC2=CC=C(C(=N2)[C@@]34[C@H](CC[C@@H](C3)N)CC4)F)C)C
-[00:30:26] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(=NC1)C(=O)NC2=CC=C(C(=N2)[C@@]34[C@H](CC[C@@H](C3)N)CC4)F)C)C' for input: 'C=1(C=CC(=NC1)C(=O)NC2=CC=C(C(=N2)[C@@]34[C@H](CC[C@@H](C3)N)CC4)F)C)C'
-[00:30:26] SMILES Parse Error: unclosed ring for input: 'FC(F)(F)C1(N=C(N=C2N(C1=O)C)C3=CC=C(OC)C=C3)C=4C=C(C(=O)NC5C4)CC2'
-[00:30:26] SMILES Parse Error: extra close parentheses while parsing: [C@@]12([C@H](CN(C)C(C1)=O)C)CC(C)(C)CCC=3C2=CC(=CN3C(=O)N)C4=CN=CN=C4)C
-[00:30:26] SMILES Parse Error: Failed parsing SMILES '[C@@]12([C@H](CN(C)C(C1)=O)C)CC(C)(C)CCC=3C2=CC(=CN3C(=O)N)C4=CN=CN=C4)C' for input: '[C@@]12([C@H](CN(C)C(C1)=O)C)CC(C)(C)CCC=3C2=CC(=CN3C(=O)N)C4=CN=CN=C4)C'
-[00:30:26] Explicit valence for atom # 16 C, 6, is greater than permitted
-[00:30:26] SMILES Parse Error: extra close parentheses while parsing: [C@H]12[C@H]3CC(C4=CC(=CC=C4[C@@H]3C[C@@]([C@H]1CC=2)(NC(=O)O)C)C)=O)=O
-[00:30:26] SMILES Parse Error: Failed parsing SMILES '[C@H]12[C@H]3CC(C4=CC(=CC=C4[C@@H]3C[C@@]([C@H]1CC=2)(NC(=O)O)C)C)=O)=O' for input: '[C@H]12[C@H]3CC(C4=CC(=CC=C4[C@@H]3C[C@@]([C@H]1CC=2)(NC(=O)O)C)C)=O)=O'
-[00:30:26] Explicit valence for atom # 29 C, 5, is greater than permitted
-[00:30:26] SMILES Parse Error: ring closure 4 duplicates bond between atom 15 and atom 21 for input: 'C=1(C=CC(=NC1)C(=O)NC2=CC=C(C(=C2)[C@@]34[C@H](COC(N[C@@H]34)=O)C)F)Cl'
-[00:30:26] SMILES Parse Error: unclosed ring for input: 'N=1C(=NC(=C2C1C(CCC2)C)C(=O)O)N3C[C@H]4C[C@@H]3C=5C6=C(C=NC5)OCO6'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:23<05:45, 23.05s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:45<05:18, 22.78s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:07<04:48, 22.17s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:29<04:28, 22.39s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:00<04:38, 25.32s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:21<03:58, 23.85s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:40<03:21, 22.38s/it][A
-Docking batches:  50%|█████     | 8/16 [03:04<03:03, 22.97s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:26<02:37, 22.50s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:48<02:14, 22.43s/it][A
-Docking batches:  69%|██████▉   | 11/16 [04:08<01:47, 21.59s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:30<01:26, 21.69s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:53<01:06, 22.01s/it][A
-Docking batches:  88%|████████▊ | 14/16 [05:24<00:49, 24.79s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:45<00:23, 23.69s/it][A
-Docking batches: 100%|██████████| 16/16 [06:07<00:00, 23.13s/it][ADocking batches: 100%|██████████| 16/16 [06:07<00:00, 22.95s/it]
-Calculating properties:  30%|███       | 12/40 [1:12:53<2:48:12, 360.43s/it][00:36:33] Explicit valence for atom # 16 O, 3, is greater than permitted
-[00:36:33] Explicit valence for atom # 19 Br, 2, is greater than permitted
-[00:36:33] SMILES Parse Error: extra close parentheses while parsing: FC(F)(F)C1=C/C(=C/C=2C=C(C=CC2)C(O)=O)/CCC1)CCC
-[00:36:33] SMILES Parse Error: Failed parsing SMILES 'FC(F)(F)C1=C/C(=C/C=2C=C(C=CC2)C(O)=O)/CCC1)CCC' for input: 'FC(F)(F)C1=C/C(=C/C=2C=C(C=CC2)C(O)=O)/CCC1)CCC'
-[00:36:33] SMILES Parse Error: extra close parentheses while parsing: C1=CC(=CC=C1COC=2C=CC=3CCCC(C3C2)=O)Br)OC
-[00:36:33] SMILES Parse Error: Failed parsing SMILES 'C1=CC(=CC=C1COC=2C=CC=3CCCC(C3C2)=O)Br)OC' for input: 'C1=CC(=CC=C1COC=2C=CC=3CCCC(C3C2)=O)Br)OC'
-[00:36:33] Explicit valence for atom # 19 O, 3, is greater than permitted
-[00:36:33] Explicit valence for atom # 19 Br, 2, is greater than permitted
-[00:36:33] SMILES Parse Error: unclosed ring for input: 'FC(F)(F)C1=CC(NC(=O)N2CCC(CN3CCCCCC3)C)=CC=C1C'
-[00:36:33] SMILES Parse Error: extra close parentheses while parsing: C1=CC(=CC=C1COC=2C=CC=3CCCC(C3C2)=O)Br)C(N4CCCNCC4
-[00:36:33] SMILES Parse Error: Failed parsing SMILES 'C1=CC(=CC=C1COC=2C=CC=3CCCC(C3C2)=O)Br)C(N4CCCNCC4' for input: 'C1=CC(=CC=C1COC=2C=CC=3CCCC(C3C2)=O)Br)C(N4CCCNCC4'
-[00:36:33] Explicit valence for atom # 16 N, 4, is greater than permitted
-[00:36:33] SMILES Parse Error: unclosed ring for input: 'C1=CC(=CC=C1COC=2C=CC=3C(=O)CCCCC3C2)OCC(C)N3C'
-[00:36:33] Explicit valence for atom # 8 C, 5, is greater than permitted
-[00:36:33] SMILES Parse Error: extra close parentheses while parsing: C1=CC(=CC=C1COC=2C=C3CCCC(C3=CC2)=O)Br)OC
-[00:36:33] SMILES Parse Error: Failed parsing SMILES 'C1=CC(=CC=C1COC=2C=C3CCCC(C3=CC2)=O)Br)OC' for input: 'C1=CC(=CC=C1COC=2C=C3CCCC(C3=CC2)=O)Br)OC'
-[00:36:33] Explicit valence for atom # 16 N, 4, is greater than permitted
-[00:36:33] SMILES Parse Error: extra close parentheses while parsing: C/1(=C/C=2C=C(C=CC2)OC)\CCCC1=CC=3C=CC(=CC3)O)O
-[00:36:33] SMILES Parse Error: Failed parsing SMILES 'C/1(=C/C=2C=C(C=CC2)OC)\CCCC1=CC=3C=CC(=CC3)O)O' for input: 'C/1(=C/C=2C=C(C=CC2)OC)\CCCC1=CC=3C=CC(=CC3)O)O'
-[00:36:33] Explicit valence for atom # 20 Br, 2, is greater than permitted
-[00:36:33] Explicit valence for atom # 22 N, 4, is greater than permitted
-[00:36:33] SMILES Parse Error: unclosed ring for input: 'FC(F)(F)C1=C(C=2CCCC(=O)NC3CCCCC3)C=CC=C1OC'
-[00:36:33] SMILES Parse Error: extra close parentheses while parsing: C1=CC(=CC=C1COC=2C=CC=3CCCC(C3C2)=O)Br)OCCN4CCCCC4
-[00:36:33] SMILES Parse Error: Failed parsing SMILES 'C1=CC(=CC=C1COC=2C=CC=3CCCC(C3C2)=O)Br)OCCN4CCCCC4' for input: 'C1=CC(=CC=C1COC=2C=CC=3CCCC(C3C2)=O)Br)OCCN4CCCCC4'
-[00:36:33] Explicit valence for atom # 20 Br, 2, is greater than permitted
-[00:36:33] SMILES Parse Error: unclosed ring for input: 'C(C=1C=C(F)C=CC1)(=O)NC2CCC3CCN(CC3)CC=4C=C(C=CC4)OC'
-[00:36:33] SMILES Parse Error: extra close parentheses while parsing: C1=CC(=CC=C1COC=2C=CC3=C(C(CCC3)=O)C2)Br)OC
-[00:36:33] SMILES Parse Error: Failed parsing SMILES 'C1=CC(=CC=C1COC=2C=CC3=C(C(CCC3)=O)C2)Br)OC' for input: 'C1=CC(=CC=C1COC=2C=CC3=C(C(CCC3)=O)C2)Br)OC'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:18<04:40, 18.71s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:37<04:25, 18.99s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:00<04:25, 20.44s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:19<04:01, 20.09s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:39<03:41, 20.13s/it][A
-Docking batches:  38%|███▊      | 6/16 [01:58<03:14, 19.50s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:18<02:58, 19.87s/it][A
-Docking batches:  50%|█████     | 8/16 [02:38<02:38, 19.84s/it][A
-Docking batches:  56%|█████▋    | 9/16 [02:59<02:22, 20.35s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:17<01:56, 19.38s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:33<01:32, 18.45s/it][A
-Docking batches:  75%|███████▌  | 12/16 [03:53<01:15, 19.00s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:23<01:06, 22.23s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:41<00:42, 21.06s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:00<00:20, 20.40s/it][A
-Docking batches: 100%|██████████| 16/16 [05:17<00:00, 19.39s/it][ADocking batches: 100%|██████████| 16/16 [05:17<00:00, 19.86s/it]
-Calculating properties:  32%|███▎      | 13/40 [1:18:11<2:36:24, 347.58s/it][00:41:51] Explicit valence for atom # 29 O, 3, is greater than permitted
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CC#N)C1=CC(=C(NC(=O)C=2C=CC(C(C)(C)C)=CC2)C=C1C(C)(C)C(O)=O)=CC=3CCC3
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CC#N)C1=CC(=C(NC(=O)C=2C=CC(C(C)(C)C)=CC2)C=C1C(C)(C)C(O)=O)=CC=3CCC3' for input: 'CC#N)C1=CC(=C(NC(=O)C=2C=CC(C(C)(C)C)=CC2)C=C1C(C)(C)C(O)=O)=CC=3CCC3'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(=CC1)NC(=O)C=2C=C(C=CC2C)NC(=O)C(C)(C)C)C(C)(C)CC(C)=O)=O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(=CC1)NC(=O)C=2C=C(C=CC2C)NC(=O)C(C)(C)C)C(C)(C)CC(C)=O)=O' for input: 'C=1(C=CC(=CC1)NC(=O)C=2C=C(C=CC2C)NC(=O)C(C)(C)C)C(C)(C)CC(C)=O)=O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C=C1)NC(=O)C2CCCCCC2)C)C=3C=CC(=CC3)NC(CO)=O)CC#N
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C=C1)NC(=O)C2CCCCCC2)C)C=3C=CC(=CC3)NC(CO)=O)CC#N' for input: 'C1(=C(C=C(C=C1)NC(=O)C2CCCCCC2)C)C=3C=CC(=CC3)NC(CO)=O)CC#N'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C1=C(C(C)(C)C)C=C(C=C1C)NC(=O)NC2=CC=C(C=C2C)NC(CC(C)C)=O)=O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C1=C(C(C)(C)C)C=C(C=C1C)NC(=O)NC2=CC=C(C=C2C)NC(CC(C)C)=O)=O' for input: 'C1=C(C(C)(C)C)C=C(C=C1C)NC(=O)NC2=CC=C(C=C2C)NC(CC(C)C)=O)=O'
-[00:41:51] Explicit valence for atom # 4 C, 5, is greater than permitted
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C1=C(C=CC(=C1)NC(=O)C2CCCCC2)C3=CC=C(C(=C3)CC(C)(C)C)C(=O)N)C#N
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C1=C(C=CC(=C1)NC(=O)C2CCCCC2)C3=CC=C(C(=C3)CC(C)(C)C)C(=O)N)C#N' for input: 'C1=C(C=CC(=C1)NC(=O)C2CCCCC2)C3=CC=C(C(=C3)CC(C)(C)C)C(=O)N)C#N'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CCC#N)(C)C1=CC=C(C=C1)C2=CC(=C(C=C2)C(=O)NC3CCCCC3)C(C)=O)=O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CCC#N)(C)C1=CC=C(C=C1)C2=CC(=C(C=C2)C(=O)NC3CCCCC3)C(C)=O)=O' for input: 'CCC#N)(C)C1=CC=C(C=C1)C2=CC(=C(C=C2)C(=O)NC3CCCCC3)C(C)=O)=O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CC#N)C=1C(=CC=C(NC(=O)NC2=CC=C(C(=C2)C(C)C)C(C)=C1)C(C)(C)C)=O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CC#N)C=1C(=CC=C(NC(=O)NC2=CC=C(C(=C2)C(C)C)C(C)=C1)C(C)(C)C)=O' for input: 'CC#N)C=1C(=CC=C(NC(=O)NC2=CC=C(C(=C2)C(C)C)C(C)=C1)C(C)(C)C)=O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CCC1=CC(=CC=C1C)C(=O)NC2=CC=C(C(=C2)C(NC3CCCCC3)=O)C(C)=O)=O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CCC1=CC(=CC=C1C)C(=O)NC2=CC=C(C(=C2)C(NC3CCCCC3)=O)C(C)=O)=O' for input: 'CCC1=CC(=CC=C1C)C(=O)NC2=CC=C(C(=C2)C(NC3CCCCC3)=O)C(C)=O)=O'
-[00:41:51] Explicit valence for atom # 29 O, 3, is greater than permitted
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CC#N)(C1=CC=C(C=C1)C=2C=C(C(=CC2)NC(=O)OC=3C(=CC(=CC3)C)C)C(C)=O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CC#N)(C1=CC=C(C=C1)C=2C=C(C(=CC2)NC(=O)OC=3C(=CC(=CC3)C)C)C(C)=O' for input: 'CC#N)(C1=CC=C(C=C1)C=2C=C(C(=CC2)NC(=O)OC=3C(=CC(=CC3)C)C)C(C)=O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CC1=C(C=CC=C1C(=O)NC2=CC=C(C(=C2)C)C3CCCCC3)C(=O)NC(C)=O)O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CC1=C(C=CC=C1C(=O)NC2=CC=C(C(=C2)C)C3CCCCC3)C(=O)NC(C)=O)O' for input: 'CC1=C(C=CC=C1C(=O)NC2=CC=C(C(=C2)C)C3CCCCC3)C(=O)NC(C)=O)O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CC#N)(C1=CC(=C(NC(=O)C2CCCCC2)C=C1)C=3C=CC(=CC3)C(=O)O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CC#N)(C1=CC(=C(NC(=O)C2CCCCC2)C=C1)C=3C=CC(=CC3)C(=O)O' for input: 'CC#N)(C1=CC(=C(NC(=O)C2CCCCC2)C=C1)C=3C=CC(=CC3)C(=O)O'
-[00:41:51] Explicit valence for atom # 28 O, 3, is greater than permitted
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C1=C(C=CC=C1NC(=O)C2CCCCC2)C3=CC=C(C=C3C)NC(C(C)(C)C)=O)C(=O)O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C1=C(C=CC=C1NC(=O)C2CCCCC2)C3=CC=C(C=C3C)NC(C(C)(C)C)=O)C(=O)O' for input: 'C1=C(C=CC=C1NC(=O)C2CCCCC2)C3=CC=C(C=C3C)NC(C(C)(C)C)=O)C(=O)O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C1(=CC=C(C=C1)NC(=O)C2CCCCCC2)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C1(=CC=C(C=C1)NC(=O)C2CCCCCC2)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)O' for input: 'C1(=CC=C(C=C1)NC(=O)C2CCCCCC2)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC(=C1)NC(=O)C2CCCCC2)C)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC(=C1)NC(=O)C2CCCCC2)C)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)O' for input: 'C1(=C(C=CC(=C1)NC(=O)C2CCCCC2)C)C=3C=CC(=CC3)NC(C(C)(C)C)=O)C(=O)O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C1=C(C=CC(=C1)NC(=O)C(C)(C)C)C=2C=CC(=CC2)NC(C(C)(C)C)=O)C(C)=O)=NOC
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C1=C(C=CC(=C1)NC(=O)C(C)(C)C)C=2C=CC(=CC2)NC(C(C)(C)C)=O)C(C)=O)=NOC' for input: 'C1=C(C=CC(=C1)NC(=O)C(C)(C)C)C=2C=CC(=CC2)NC(C(C)(C)C)=O)C(C)=O)=NOC'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CCC1=C(C=C(C=C1C)C(=O)NC2=CC=C(C=C2)C(C)(C)C)CC(=O)NC(C)=O)C(C)=O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CCC1=C(C=C(C=C1C)C(=O)NC2=CC=C(C=C2)C(C)(C)C)CC(=O)NC(C)=O)C(C)=O' for input: 'CCC1=C(C=C(C=C1C)C(=O)NC2=CC=C(C=C2)C(C)(C)C)CC(=O)NC(C)=O)C(C)=O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CC1=C(C=CC=C1C(=O)NC=2C=CC=C(C)C2C)NC=3C(=CC(=NC3)C)CC(C)=O)O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CC1=C(C=CC=C1C(=O)NC=2C=CC=C(C)C2C)NC=3C(=CC(=NC3)C)CC(C)=O)O' for input: 'CC1=C(C=CC=C1C(=O)NC=2C=CC=C(C)C2C)NC=3C(=CC(=NC3)C)CC(C)=O)O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C3=CC=C(C=C3C)C(=O)NC(CC#N)(C)C)=O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C3=CC=C(C=C3C)C(=O)NC(CC#N)(C)C)=O' for input: 'C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C3=CC=C(C=C3C)C(=O)NC(CC#N)(C)C)=O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C=3C(=CC(=CC3)C(C)(C)C)C(=O)NC(C)=O)C#N
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C=3C(=CC(=CC3)C(C)(C)C)C(=O)NC(C)=O)C#N' for input: 'C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C=3C(=CC(=CC3)C(C)(C)C)C(=O)NC(C)=O)C#N'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C3=CC(=CC(=C3)C(C)(C)C)C(=O)NC(C)=O)C#N
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C3=CC(=CC(=C3)C(C)(C)C)C(=O)NC(C)=O)C#N' for input: 'C1(=C(C=CC=C1)NC(=O)C2CCCCC2)C3=CC(=CC(=C3)C(C)(C)C)C(=O)NC(C)=O)C#N'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CC#N)(C=1C=CC(=CC1)NC(=O)NC=2C=CC(=C(C2)C=3C=CC=NC3)NC(C)C
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CC#N)(C=1C=CC(=CC1)NC(=O)NC=2C=CC(=C(C2)C=3C=CC=NC3)NC(C)C' for input: 'CC#N)(C=1C=CC(=CC1)NC(=O)NC=2C=CC(=C(C2)C=3C=CC=NC3)NC(C)C'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C=1(C(=CC=CC1)NC(=O)C2CCCCC2)C=3C=CC(=CC3C)C(=O)NC(C(C)C)=O)O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C=1(C(=CC=CC1)NC(=O)C2CCCCC2)C=3C=CC(=CC3C)C(=O)NC(C(C)C)=O)O' for input: 'C=1(C(=CC=CC1)NC(=O)C2CCCCC2)C=3C=CC(=CC3C)C(=O)NC(C(C)C)=O)O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CC1=C(C=CC(=C1)NC(=O)C2CCCCCC2)C3=C(C=CC(=C3)C(C)C)C(=O)N)CCO
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CC1=C(C=CC(=C1)NC(=O)C2CCCCCC2)C3=C(C=CC(=C3)C(C)C)C(=O)N)CCO' for input: 'CC1=C(C=CC(=C1)NC(=O)C2CCCCCC2)C3=C(C=CC(=C3)C(C)C)C(=O)N)CCO'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C=1(C(=CC=CC1)NC(=O)C2CCCCC2)C=3C=C(C(=CC3C)CC(C)C)C(=O)NC(C)=O)=O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C=1(C(=CC=CC1)NC(=O)C2CCCCC2)C=3C=C(C(=CC3C)CC(C)C)C(=O)NC(C)=O)=O' for input: 'C=1(C(=CC=CC1)NC(=O)C2CCCCC2)C=3C=C(C(=CC3C)CC(C)C)C(=O)NC(C)=O)=O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CC1=C(C=CC=C1NC(=O)C2CCCCC2)C=3C=CC(=CC3)NC(C(C)C)=O)C(=O)O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CC1=C(C=CC=C1NC(=O)C2CCCCC2)C=3C=CC(=CC3)NC(C(C)C)=O)C(=O)O' for input: 'CC1=C(C=CC=C1NC(=O)C2CCCCC2)C=3C=CC(=CC3)NC(C(C)C)=O)C(=O)O'
-[00:41:51] Explicit valence for atom # 27 N, 4, is greater than permitted
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C=1(C=C(C=CC1C(=O)NC=2C=CC=C(C2)C)NC3=CC(CCC3)C(C)C)C(=O)O)CC
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C=1(C=C(C=CC1C(=O)NC=2C=CC=C(C2)C)NC3=CC(CCC3)C(C)C)C(=O)O)CC' for input: 'C=1(C=C(C=CC1C(=O)NC=2C=CC=C(C2)C)NC3=CC(CCC3)C(C)C)C(=O)O)CC'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: CC#N)C=1C(=CC=C(NC(=O)NC2=CC(=CC=C2)C(C)C)C1C3CCCC3C(=O)O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'CC#N)C=1C(=CC=C(NC(=O)NC2=CC(=CC=C2)C(C)C)C1C3CCCC3C(=O)O' for input: 'CC#N)C=1C(=CC=C(NC(=O)NC2=CC(=CC=C2)C(C)C)C1C3CCCC3C(=O)O'
-[00:41:51] SMILES Parse Error: extra close parentheses while parsing: C(C1=C(C=CC=C1)C)(=O)NC2=CC(=NC=C2)NC3=CC=C(CC(C)(C)C)C=N3)=O
-[00:41:51] SMILES Parse Error: Failed parsing SMILES 'C(C1=C(C=CC=C1)C)(=O)NC2=CC(=NC=C2)NC3=CC=C(CC(C)(C)C)C=N3)=O' for input: 'C(C1=C(C=CC=C1)C)(=O)NC2=CC(=NC=C2)NC3=CC=C(CC(C)(C)C)C=N3)=O'
-[00:41:51] Explicit valence for atom # 1 C, 5, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:26<06:42, 26.82s/it][A
-Docking batches:  12%|█▎        | 2/16 [01:08<08:20, 35.72s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:38<07:07, 32.86s/it][A
-Docking batches:  25%|██▌       | 4/16 [02:07<06:18, 31.55s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:34<05:26, 29.73s/it][A
-Docking batches:  38%|███▊      | 6/16 [03:02<04:50, 29.08s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:31<04:23, 29.26s/it][A
-Docking batches:  50%|█████     | 8/16 [04:01<03:56, 29.58s/it][A
-Docking batches:  56%|█████▋    | 9/16 [04:28<03:20, 28.68s/it][A
-Docking batches:  62%|██████▎   | 10/16 [04:58<02:53, 28.99s/it][A
-Docking batches:  69%|██████▉   | 11/16 [05:25<02:22, 28.45s/it][A
-Docking batches:  75%|███████▌  | 12/16 [05:51<01:50, 27.54s/it][A
-Docking batches:  81%|████████▏ | 13/16 [06:19<01:23, 27.73s/it][A
-Docking batches:  88%|████████▊ | 14/16 [06:46<00:54, 27.50s/it][A
-Docking batches:  94%|█████████▍| 15/16 [07:12<00:27, 27.21s/it][A
-Docking batches: 100%|██████████| 16/16 [07:38<00:00, 26.92s/it][ADocking batches: 100%|██████████| 16/16 [07:38<00:00, 28.69s/it]
-Calculating properties:  35%|███▌      | 14/40 [1:25:50<2:45:14, 381.31s/it][00:49:30] SMILES Parse Error: extra close parentheses while parsing: C1C2CC3(CC1CC(C3)C2)OC(N4CCN(CC4)C=5C=CC(=CC5)Cl)=O)CCC
-[00:49:30] SMILES Parse Error: Failed parsing SMILES 'C1C2CC3(CC1CC(C3)C2)OC(N4CCN(CC4)C=5C=CC(=CC5)Cl)=O)CCC' for input: 'C1C2CC3(CC1CC(C3)C2)OC(N4CCN(CC4)C=5C=CC(=CC5)Cl)=O)CCC'
-[00:49:30] SMILES Parse Error: unclosed ring for input: '[C@]([C@H]1CCCC2=CC=3N(C=NC3C=C2[C@]12C)C=4C=CC(=CC4)OCC)(CC)C'
-[00:49:30] Explicit valence for atom # 21 C, 5, is greater than permitted
-[00:49:30] SMILES Parse Error: extra close parentheses while parsing: C(C1CCCC2=CC=3N(CC12C)C=NC3C=4C=CC=CC4)CC5CCCO5C)COC
-[00:49:30] SMILES Parse Error: Failed parsing SMILES 'C(C1CCCC2=CC=3N(CC12C)C=NC3C=4C=CC=CC4)CC5CCCO5C)COC' for input: 'C(C1CCCC2=CC=3N(CC12C)C=NC3C=4C=CC=CC4)CC5CCCO5C)COC'
-[00:49:30] SMILES Parse Error: extra close parentheses while parsing: C1C2CC3(CC1CC(C3)C2)NC(C=4C=CC(=CC4)C(C)C)C(=O)N(CC)CC)C
-[00:49:30] SMILES Parse Error: Failed parsing SMILES 'C1C2CC3(CC1CC(C3)C2)NC(C=4C=CC(=CC4)C(C)C)C(=O)N(CC)CC)C' for input: 'C1C2CC3(CC1CC(C3)C2)NC(C=4C=CC(=CC4)C(C)C)C(=O)N(CC)CC)C'
-[00:49:30] SMILES Parse Error: extra close parentheses while parsing: C1C2CC3(CC1CC3)C4N(C2)CC5CCCCC5NC4=O)C6=CC=CC=C6
-[00:49:30] SMILES Parse Error: Failed parsing SMILES 'C1C2CC3(CC1CC3)C4N(C2)CC5CCCCC5NC4=O)C6=CC=CC=C6' for input: 'C1C2CC3(CC1CC3)C4N(C2)CC5CCCCC5NC4=O)C6=CC=CC=C6'
-[00:49:30] SMILES Parse Error: unclosed ring for input: 'O=C(N1C2CC(CC(C2)C1)(C1)C)C=3C=CC(=CC3)C4=CC=C(OCC)C=C4'
-[00:49:30] Explicit valence for atom # 11 N, 4, is greater than permitted
-[00:49:30] SMILES Parse Error: extra close parentheses while parsing: C1C2CC3(CC1CC(C3)C2)C4=CC=C(C=C4)NC(CC(C)(C)C)=O)CCN(C)C
-[00:49:30] SMILES Parse Error: Failed parsing SMILES 'C1C2CC3(CC1CC(C3)C2)C4=CC=C(C=C4)NC(CC(C)(C)C)=O)CCN(C)C' for input: 'C1C2CC3(CC1CC(C3)C2)C4=CC=C(C=C4)NC(CC(C)(C)C)=O)CCN(C)C'
-[00:49:30] Explicit valence for atom # 17 C, 5, is greater than permitted
-[00:49:30] Explicit valence for atom # 13 N, 4, is greater than permitted
-[00:49:30] SMILES Parse Error: unclosed ring for input: 'S=C(N1C2CC3CC(C2)C1CC(C3)C3)NC=4C=C(C=CC4)C(OCC)CC=C'
-[00:49:30] SMILES Parse Error: extra close parentheses while parsing: CC(C)[C@]1=CCC[C@@H]2CC[C@H]3[C@]2(CN4C=NC5=CC(=C5)C4)C1)CCCC3C
-[00:49:30] SMILES Parse Error: Failed parsing SMILES 'CC(C)[C@]1=CCC[C@@H]2CC[C@H]3[C@]2(CN4C=NC5=CC(=C5)C4)C1)CCCC3C' for input: 'CC(C)[C@]1=CCC[C@@H]2CC[C@H]3[C@]2(CN4C=NC5=CC(=C5)C4)C1)CCCC3C'
-[00:49:30] SMILES Parse Error: unclosed ring for input: 'C(C1CCN(CC1)CC2C[C@]3([C@H]4C[C@H]5CC3C[C@]6(C(=C5)CC4)C)CC2)(CCO)C'
-[00:49:31] SMILES Parse Error: unclosed ring for input: 'C1C2CC3(CC1CC(C3)C2)C4=CC=C(C=C4)NC(NCC(C)C)=OCC=C2'
-[00:49:31] SMILES Parse Error: unclosed ring for input: 'C1C2CC3(CC1CC(C3)(C2)C3)C=NN4C=C(C=C4)C=5C=CC(=CC5)OCC'
-[00:49:31] SMILES Parse Error: unclosed ring for input: '[C@]([C@H]1CCCC2=CC=3N(N=CC3C=C2[C@]12CC)C=4C=CC(=CC4)OCCN(C)C)(C)C'
-[00:49:31] SMILES Parse Error: unclosed ring for input: 'C1C2[C@](C3=CC=C(C4=C(C=C3)C=NN4[C@@H](C1)CC)OCCC1(C)C)(CC2)C'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:24<06:02, 24.17s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:46<05:20, 22.88s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:15<05:38, 26.03s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:41<05:08, 25.68s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:02<04:26, 24.22s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:25<03:59, 23.90s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:47<03:27, 23.08s/it][A
-Docking batches:  50%|█████     | 8/16 [03:19<03:28, 26.05s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:34<02:38, 22.60s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:53<02:07, 21.32s/it][A
-Docking batches:  69%|██████▉   | 11/16 [04:12<01:43, 20.64s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:34<01:24, 21.11s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:48<00:56, 18.93s/it][A
-Docking batches:  88%|████████▊ | 14/16 [05:11<00:40, 20.18s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:41<00:23, 23.01s/it][A
-Docking batches: 100%|██████████| 16/16 [06:03<00:00, 22.73s/it][ADocking batches: 100%|██████████| 16/16 [06:03<00:00, 22.70s/it]
-Calculating properties:  38%|███▊      | 15/40 [1:31:54<2:36:39, 375.96s/it][00:55:34] Explicit valence for atom # 7 C, 5, is greater than permitted
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'C1(C)(C)CC=2OC(=C(N2)CC3(CC4=C(CC3)C=C(C(=C4)C(CC(=O)O)(C)C)F)O)C'
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'P(C1N2N=CC=C2C3=CC(C23)(C)C)(CCC1)(C4=CC(OC)=C(O)C=C4)C(=O)O'
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'S1C(NC2=NC=C3C4(CCC(C4)C3=C2)C(CC(CC)(C)C)(CC3)C(=O)N)=NC=C1'
-[00:55:34] SMILES Parse Error: syntax error while parsing: O=C1C2N(C=3N=C(C(C23CC4(C1)CCC(4)C=5C(=CC(O)=CC5)C6CC6)C(=O)O)CC)C
-[00:55:34] SMILES Parse Error: Failed parsing SMILES 'O=C1C2N(C=3N=C(C(C23CC4(C1)CCC(4)C=5C(=CC(O)=CC5)C6CC6)C(=O)O)CC)C' for input: 'O=C1C2N(C=3N=C(C(C23CC4(C1)CCC(4)C=5C(=CC(O)=CC5)C6CC6)C(=O)O)CC)C'
-[00:55:34] SMILES Parse Error: extra close parentheses while parsing: BrC1=CC2=C(N=C(OC2)C3=NOC(=C3)C4CC4)C(C(=C1)C(=O)C)CC)C
-[00:55:34] SMILES Parse Error: Failed parsing SMILES 'BrC1=CC2=C(N=C(OC2)C3=NOC(=C3)C4CC4)C(C(=C1)C(=O)C)CC)C' for input: 'BrC1=CC2=C(N=C(OC2)C3=NOC(=C3)C4CC4)C(C(=C1)C(=O)C)CC)C'
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'C1(C2CC3CC1CC(C3)(C2)C2)NC(CC(C=4N(C(=CC4)C5=CC=C(O5)CC(C)C)N)=O)=C'
-[00:55:34] Explicit valence for atom # 8 C, 5, is greater than permitted
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'O=C1C2N(C=3N=C(C4(CC(CC4)C4)C=5NC=CN=C(C5C3NC2CC1(C)C)C)C)CC'
-[00:55:34] Explicit valence for atom # 17 C, 5, is greater than permitted
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'C1C(C2=NC=C(C(=N2)C(F)(F)F)N[C@@H]3CC[C@H](C3)OC)=CC4=C(C(=CC(=C4)C#N)F)OC'
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'ClC1=CC=C(C=2N=C(ON2)C34CC5(CC3)CC(C3)(CC4)C(=O)NC5=O)C=C1CC'
-[00:55:34] Explicit valence for atom # 15 C, 5, is greater than permitted
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'C1C2CC3(CC1CC(C3)(C2)C2)C(=O)NC4=CC(=C(C(=C4)N=S(O)(C)=O)C)C5CC5'
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'O=C1C2=C(C=3C(C2(N(CCC(C)C)C1)C=4C(=NNC4)C)=CC(CC3N)(C)C)C5CC6CC5CC5'
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'C=1(C2=C(N=C(C1)C3C(CC3)(CC4=CC(=CC(=C4)N)C)C)SC(=N2)C)NC5CC5COCC5'
-[00:55:34] Explicit valence for atom # 12 C, 5, is greater than permitted
-[00:55:34] SMILES Parse Error: unclosed ring for input: 'O=C1C2[C@@H]3[C@@H](CC([C@H]3CC2)=C(C)C)CCC=4OC(=CC4)NC(=O)C=5OC=CC5COC'
-[00:55:34] SMILES Parse Error: extra close parentheses while parsing: C12(CCC(C(N(C1)CC)=O)O)CC3=CC=C(C=C3C)OC)C4=CC(=CC(=C4)C(O)(C)C)O2
-[00:55:34] SMILES Parse Error: Failed parsing SMILES 'C12(CCC(C(N(C1)CC)=O)O)CC3=CC=C(C=C3C)OC)C4=CC(=CC(=C4)C(O)(C)C)O2' for input: 'C12(CCC(C(N(C1)CC)=O)O)CC3=CC=C(C=C3C)OC)C4=CC(=CC(=C4)C(O)(C)C)O2'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A[00:55:34] UFFTYPER: Unrecognized atom type: S_5+6 (11)
-
-Docking batches:   6%|▋         | 1/16 [00:35<08:57, 35.84s/it][A
-Docking batches:  12%|█▎        | 2/16 [01:19<09:22, 40.17s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:49<07:42, 35.57s/it][A
-Docking batches:  25%|██▌       | 4/16 [02:21<06:52, 34.39s/it][A
-Docking batches:  31%|███▏      | 5/16 [03:04<06:52, 37.51s/it][A[00:58:39] Explicit valence for atom # 5 O, 3, is greater than permitted
-
-Docking batches:  38%|███▊      | 6/16 [03:28<05:27, 32.78s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:58<04:46, 31.86s/it][A
-Docking batches:  50%|█████     | 8/16 [04:43<04:49, 36.15s/it][A
-Docking batches:  56%|█████▋    | 9/16 [05:12<03:58, 34.01s/it][A
-Docking batches:  62%|██████▎   | 10/16 [05:39<03:10, 31.77s/it][A
-Docking batches:  69%|██████▉   | 11/16 [06:10<02:36, 31.32s/it][A[01:01:44] UFFTYPER: Unrecognized atom type: S_5+6 (25)
-[01:01:45] UFFTYPER: Unrecognized atom type: S_5+6 (25)
-
-Docking batches:  75%|███████▌  | 12/16 [06:36<01:59, 29.85s/it][A
-Docking batches:  81%|████████▏ | 13/16 [06:57<01:21, 27.11s/it][A
-Docking batches:  88%|████████▊ | 14/16 [07:36<01:01, 30.77s/it][A
-Docking batches:  94%|█████████▍| 15/16 [08:00<00:28, 28.87s/it][A
-Docking batches: 100%|██████████| 16/16 [08:24<00:00, 27.15s/it][ADocking batches: 100%|██████████| 16/16 [08:24<00:00, 31.51s/it]
-Calculating properties:  40%|████      | 16/40 [1:40:18<2:45:51, 414.66s/it][01:03:58] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C=4C=C(CCN(C)C)C=CC4'
-[01:03:58] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C4=CC=C(C=C4)OC'
-[01:03:58] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C=4C=CC(=CC4)OC'
-[01:03:58] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C=4C=C(CN(C)C)CCC1'
-[01:03:58] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C=4C=CC=CC4CN(C)C'
-[01:03:58] Explicit valence for atom # 24 N, 4, is greater than permitted
-[01:03:59] SMILES Parse Error: unclosed ring for input: 'O=C(N(N=C1CCCC=2C1=CC=CC2)C)C=3CCCN(C)C'
-[01:03:59] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C(CCC=4C=CC=CC4)COC'
-[01:03:59] SMILES Parse Error: unclosed ring for input: 'FC=1C(N2CCN(CC2)CC3=NC=4CCCC3=O)=CC(=CC1)CC'
-[01:03:59] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C=4C=CC(=CC4)OC'
-[01:03:59] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C4=C(C=CC=C4)OCCF'
-[01:03:59] Explicit valence for atom # 24 N, 4, is greater than permitted
-[01:03:59] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C4=C(C=CN=C1)CCC'
-[01:03:59] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=C(Cl)C=CC3)=O)C4=C(C=CC=C4)CCOC'
-[01:03:59] Explicit valence for atom # 24 N, 4, is greater than permitted
-[01:03:59] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C=4C=C(F)C=CC4'
-[01:03:59] SMILES Parse Error: unclosed ring for input: 'N1(C(CN2CCN(CC2)CC=3C=CC(=CC3)Cl)=O)C=4C=C(CNC)CCC1'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:26<06:41, 26.74s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:48<05:37, 24.08s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:11<05:02, 23.23s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:29<04:16, 21.39s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:48<03:43, 20.29s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:08<03:24, 20.45s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:31<03:10, 21.18s/it][A
-Docking batches:  50%|█████     | 8/16 [02:51<02:47, 20.88s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:12<02:24, 20.68s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:30<01:59, 20.00s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:56<01:49, 21.91s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:21<01:30, 22.68s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:40<01:05, 21.80s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:59<00:41, 20.92s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:21<00:21, 21.24s/it][A
-Docking batches: 100%|██████████| 16/16 [05:45<00:00, 21.99s/it][ADocking batches: 100%|██████████| 16/16 [05:45<00:00, 21.60s/it]
-Calculating properties:  42%|████▎     | 17/40 [1:46:04<2:31:01, 393.98s/it][01:09:44] SMILES Parse Error: extra close parentheses while parsing: C=1C(=CC(C=2C(=NC=C(C2)N)N)=C(C=CC1)C)C=O)COCC
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'C=1C(=CC(C=2C(=NC=C(C2)N)N)=C(C=CC1)C)C=O)COCC' for input: 'C=1C(=CC(C=2C(=NC=C(C2)N)N)=C(C=CC1)C)C=O)COCC'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: N=1C(=C(N)C=NC1C2=CC=CC=C2)C3=CC=C(C=C3)OC)CO
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'N=1C(=C(N)C=NC1C2=CC=CC=C2)C3=CC=C(C=C3)OC)CO' for input: 'N=1C(=C(N)C=NC1C2=CC=CC=C2)C3=CC=C(C=C3)OC)CO'
-[01:09:44] SMILES Parse Error: unclosed ring for input: 'C1=CC=C(NCC=2N=CC(=C(C2)OC)OC)C(=O)C=3C=CN=CN3C'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: S(=O)(=O)(CCC(=O)NC1=CC(=CC=C1)C2=CC=NC=C2)CC)CNC
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'S(=O)(=O)(CCC(=O)NC1=CC(=CC=C1)C2=CC=NC=C2)CC)CNC' for input: 'S(=O)(=O)(CCC(=O)NC1=CC(=CC=C1)C2=CC=NC=C2)CC)CNC'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: N1=C(C(=C(N=C1C2=CC(=CC=C2)Cl)CCN)C)C(=O)OCC)O
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'N1=C(C(=C(N=C1C2=CC(=CC=C2)Cl)CCN)C)C(=O)OCC)O' for input: 'N1=C(C(=C(N=C1C2=CC(=CC=C2)Cl)CCN)C)C(=O)OCC)O'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: N1=C(C(=C(N=C1C2=CC=CC=C2)C=3C=NC=CC3)C)CCOCCO)N
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'N1=C(C(=C(N=C1C2=CC=CC=C2)C=3C=NC=CC3)C)CCOCCO)N' for input: 'N1=C(C(=C(N=C1C2=CC=CC=C2)C=3C=NC=CC3)C)CCOCCO)N'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: C=1(N=C(C2=CC=NC=C2)C=CN1)NC3=CC=C(C=C3)CO)O
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'C=1(N=C(C2=CC=NC=C2)C=CN1)NC3=CC=C(C=C3)CO)O' for input: 'C=1(N=C(C2=CC=NC=C2)C=CN1)NC3=CC=C(C=C3)CO)O'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: S1C(NC(=O)C=2C(=CC=CC2)C)=NC(=C1C(=O)N)CCC)CC
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'S1C(NC(=O)C=2C(=CC=CC2)C)=NC(=C1C(=O)N)CCC)CC' for input: 'S1C(NC(=O)C=2C(=CC=CC2)C)=NC(=C1C(=O)N)CCC)CC'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: N1=C(C=C(N=C1C2=CC=C(C=C2)OC)C3=CC=CO3)CCCO)N
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'N1=C(C=C(N=C1C2=CC=C(C=C2)OC)C3=CC=CO3)CCCO)N' for input: 'N1=C(C=C(N=C1C2=CC=C(C=C2)OC)C3=CC=CO3)CCCO)N'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(=N1)C)C=2C(=CC=C(C2)OC)C)C=3C=CC(=NC3)N)OC
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(=N1)C)C=2C(=CC=C(C2)OC)C)C=3C=CC(=NC3)N)OC' for input: 'C1(=C(NC(=N1)C)C=2C(=CC=C(C2)OC)C)C=3C=CC(=NC3)N)OC'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: BrC=1C=C(C2=NC=C(C=C2C(=O)N)C=O)C=NC1CC)C
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'BrC=1C=C(C2=NC=C(C=C2C(=O)N)C=O)C=NC1CC)C' for input: 'BrC=1C=C(C2=NC=C(C=C2C(=O)N)C=O)C=NC1CC)C'
-[01:09:44] SMILES Parse Error: syntax error while parsing: C=1C(=CC=C(C(NC2=NC=C(N=C2)N)=O)C1)CC=(C)CC
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'C=1C(=CC=C(C(NC2=NC=C(N=C2)N)=O)C1)CC=(C)CC' for input: 'C=1C(=CC=C(C(NC2=NC=C(N=C2)N)=O)C1)CC=(C)CC'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: S(NC1=C(C(=O)NCC2CCN(CC2)CC)C=CC=C1)(=O)(=O)CCCC)C
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'S(NC1=C(C(=O)NCC2CCN(CC2)CC)C=CC=C1)(=O)(=O)CCCC)C' for input: 'S(NC1=C(C(=O)NCC2CCN(CC2)CC)C=CC=C1)(=O)(=O)CCCC)C'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: N=1C(=C(C(=NC1C2=CC=CC=C2)C=3C=NC=CC3)C)CCO)N
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'N=1C(=C(C(=NC1C2=CC=CC=C2)C=3C=NC=CC3)C)CCO)N' for input: 'N=1C(=C(C(=NC1C2=CC=CC=C2)C=3C=NC=CC3)C)CCO)N'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: N1(N=NC(=C1C=2C=CC(=CC2)C)C=3C=CC=CC3)CC(O)=O)N
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'N1(N=NC(=C1C=2C=CC(=CC2)C)C=3C=CC=CC3)CC(O)=O)N' for input: 'N1(N=NC(=C1C=2C=CC(=CC2)C)C=3C=CC=CC3)CC(O)=O)N'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC=CC1)C2=NC(N(C(C=C2)=O)CC=3C=CC=CC3)=C(C)CNCCO)N
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC=CC1)C2=NC(N(C(C=C2)=O)CC=3C=CC=CC3)=C(C)CNCCO)N' for input: 'C=1(C=CC=CC1)C2=NC(N(C(C=C2)=O)CC=3C=CC=CC3)=C(C)CNCCO)N'
-[01:09:44] SMILES Parse Error: extra close parentheses while parsing: N1=C(C(C=2C=C(OC)C=CC2)=C(C=N1)C)C(=O)OCC)CC(=O)NC
-[01:09:44] SMILES Parse Error: Failed parsing SMILES 'N1=C(C(C=2C=C(OC)C=CC2)=C(C=N1)C)C(=O)OCC)CC(=O)NC' for input: 'N1=C(C(C=2C=C(OC)C=CC2)=C(C=N1)C)C(=O)OCC)CC(=O)NC'
-[01:09:45] Explicit valence for atom # 21 N, 4, is greater than permitted
-[01:09:45] SMILES Parse Error: extra close parentheses while parsing: ClC1=CC(NC=2N=C(N=C(N2)N)CCC)=CC=C1OC)C
-[01:09:45] SMILES Parse Error: Failed parsing SMILES 'ClC1=CC(NC=2N=C(N=C(N2)N)CCC)=CC=C1OC)C' for input: 'ClC1=CC(NC=2N=C(N=C(N2)N)CCC)=CC=C1OC)C'
-[01:09:45] SMILES Parse Error: extra close parentheses while parsing: N1=C(C(=C(N=C1C2=CC=CC=C2)C=3C=NC=CC3)C)CCO)N
-[01:09:45] SMILES Parse Error: Failed parsing SMILES 'N1=C(C(=C(N=C1C2=CC=CC=C2)C=3C=NC=CC3)C)CCO)N' for input: 'N1=C(C(=C(N=C1C2=CC=CC=C2)C=3C=NC=CC3)C)CCO)N'
-[01:09:45] SMILES Parse Error: extra close parentheses while parsing: C=1(C(NCC2=CC=C(C(F)(F)F)C=C2)=O)C(=CC=C(C1)CO)CCO)O
-[01:09:45] SMILES Parse Error: Failed parsing SMILES 'C=1(C(NCC2=CC=C(C(F)(F)F)C=C2)=O)C(=CC=C(C1)CO)CCO)O' for input: 'C=1(C(NCC2=CC=C(C(F)(F)F)C=C2)=O)C(=CC=C(C1)CO)CCO)O'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:19<04:57, 19.86s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:42<05:01, 21.51s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:01<04:26, 20.49s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:19<03:52, 19.38s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:38<03:32, 19.33s/it][A
-Docking batches:  38%|███▊      | 6/16 [01:56<03:09, 18.96s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:22<03:09, 21.10s/it][A
-Docking batches:  50%|█████     | 8/16 [02:43<02:48, 21.07s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:08<02:35, 22.20s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:26<02:05, 20.88s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:47<01:45, 21.03s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:03<01:17, 19.47s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:21<00:57, 19.17s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:43<00:39, 19.84s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:00<00:19, 19.06s/it][A
-Docking batches: 100%|██████████| 16/16 [05:20<00:00, 19.46s/it][ADocking batches: 100%|██████████| 16/16 [05:20<00:00, 20.05s/it]
-Calculating properties:  45%|████▌     | 18/40 [1:51:25<2:16:26, 372.12s/it][01:15:05] SMILES Parse Error: extra close parentheses while parsing: S=C(NC1C2CC3CC1CC(C2)C3)N4CCN(C5CCOCC5)CC4=O)CC
-[01:15:05] SMILES Parse Error: Failed parsing SMILES 'S=C(NC1C2CC3CC1CC(C2)C3)N4CCN(C5CCOCC5)CC4=O)CC' for input: 'S=C(NC1C2CC3CC1CC(C2)C3)N4CCN(C5CCOCC5)CC4=O)CC'
-[01:15:05] SMILES Parse Error: syntax error while parsing: S=C1N(C2CCCN(C2)CCN3+]4CCC(CC4)(CCC3)C)C(=O)CCC1
-[01:15:05] SMILES Parse Error: Failed parsing SMILES 'S=C1N(C2CCCN(C2)CCN3+]4CCC(CC4)(CCC3)C)C(=O)CCC1' for input: 'S=C1N(C2CCCN(C2)CCN3+]4CCC(CC4)(CCC3)C)C(=O)CCC1'
-[01:15:05] Explicit valence for atom # 21 N, 4, is greater than permitted
-[01:15:05] SMILES Parse Error: syntax error while parsing: [C@H]1([C@H]2[C@@H]([C@H]3C@H](C2)C=CC[C@]3(C)O)CCC1(C)C)N4CCN(CC4)C
-[01:15:05] SMILES Parse Error: Failed parsing SMILES '[C@H]1([C@H]2[C@@H]([C@H]3C@H](C2)C=CC[C@]3(C)O)CCC1(C)C)N4CCN(CC4)C' for input: '[C@H]1([C@H]2[C@@H]([C@H]3C@H](C2)C=CC[C@]3(C)O)CCC1(C)C)N4CCN(CC4)C'
-[01:15:06] Explicit valence for atom # 21 N, 4, is greater than permitted
-[01:15:06] Explicit valence for atom # 1 O, 4, is greater than permitted
-[01:15:06] Explicit valence for atom # 5 C, 5, is greater than permitted
-[01:15:06] SMILES Parse Error: unclosed ring for input: '[C@H]12CC[N+](CCN3C4=C(C(OC)=CC=C3)C)(C(C1)=CC(CC2)=O)CC'
-[01:15:06] SMILES Parse Error: unclosed ring for input: 'COC[C@@H]1C2=CC=C(CCN3[C@@H]4C5CC[C@@](C)(C4)CC3=O)C=C2N1C'
-[01:15:06] SMILES Parse Error: syntax error while parsing: S=C1N(C2CC(N3+]4CC(CC(C3)C2)(CC4)C)(C)C)C(=O)N1CC
-[01:15:06] SMILES Parse Error: Failed parsing SMILES 'S=C1N(C2CC(N3+]4CC(CC(C3)C2)(CC4)C)(C)C)C(=O)N1CC' for input: 'S=C1N(C2CC(N3+]4CC(CC(C3)C2)(CC4)C)(C)C)C(=O)N1CC'
-[01:15:06] Explicit valence for atom # 6 N, 4, is greater than permitted
-[01:15:06] Explicit valence for atom # 20 F, 2, is greater than permitted
-[01:15:06] Explicit valence for atom # 20 F, 2, is greater than permitted
-[01:15:06] Explicit valence for atom # 22 O, 3, is greater than permitted
-[01:15:06] SMILES Parse Error: unclosed ring for input: 'S=C1N=C2C3CCN(CC=4C5C(C4)CC(C5)CC3)C2=NCCCOC'
-[01:15:06] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC=2[C@@H]3C4C(C(C[C@](C)(CC4)CC3)O)C1)O2)N5CCN(CC5)C
-[01:15:06] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC=2[C@@H]3C4C(C(C[C@](C)(CC4)CC3)O)C1)O2)N5CCN(CC5)C' for input: 'C=1(C=CC=2[C@@H]3C4C(C(C[C@](C)(CC4)CC3)O)C1)O2)N5CCN(CC5)C'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:19<04:55, 19.69s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:39<04:38, 19.87s/it][A
-Docking batches:  19%|█▉        | 3/16 [00:54<03:48, 17.56s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:12<03:34, 17.89s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:30<03:16, 17.89s/it][A
-Docking batches:  38%|███▊      | 6/16 [01:54<03:18, 19.86s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:13<02:55, 19.48s/it][A
-Docking batches:  50%|█████     | 8/16 [02:32<02:34, 19.34s/it][A
-Docking batches:  56%|█████▋    | 9/16 [02:54<02:22, 20.40s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:12<01:57, 19.65s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:31<01:35, 19.19s/it][A
-Docking batches:  75%|███████▌  | 12/16 [03:53<01:20, 20.04s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:14<01:00, 20.32s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:44<00:46, 23.34s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:06<00:22, 22.97s/it][A
-Docking batches: 100%|██████████| 16/16 [05:22<00:00, 20.91s/it][ADocking batches: 100%|██████████| 16/16 [05:22<00:00, 20.16s/it]
-Calculating properties:  48%|████▊     | 19/40 [1:56:48<2:05:04, 357.33s/it][01:20:28] Explicit valence for atom # 19 C, 5, is greater than permitted
-[01:20:28] SMILES Parse Error: extra close parentheses while parsing: N(C(=O)C12CC3CC(C1)CC(C2)C3)CC([C@H](NC(=O)C4CCCCC4)C)=O)OC
-[01:20:28] SMILES Parse Error: Failed parsing SMILES 'N(C(=O)C12CC3CC(C1)CC(C2)C3)CC([C@H](NC(=O)C4CCCCC4)C)=O)OC' for input: 'N(C(=O)C12CC3CC(C1)CC(C2)C3)CC([C@H](NC(=O)C4CCCCC4)C)=O)OC'
-[01:20:28] Explicit valence for atom # 0 C, 5, is greater than permitted
-[01:20:28] Explicit valence for atom # 7 O, 3, is greater than permitted
-[01:20:28] Explicit valence for atom # 24 C, 5, is greater than permitted
-[01:20:28] SMILES Parse Error: syntax error while parsing: N1(C(=O)C2=[C@@H]3N4[C@](C=(C3=CC2)NC(CC4)C(=O)O)(CC)CCC1)CC5CCC5CCOC
-[01:20:28] SMILES Parse Error: Failed parsing SMILES 'N1(C(=O)C2=[C@@H]3N4[C@](C=(C3=CC2)NC(CC4)C(=O)O)(CC)CCC1)CC5CCC5CCOC' for input: 'N1(C(=O)C2=[C@@H]3N4[C@](C=(C3=CC2)NC(CC4)C(=O)O)(CC)CCC1)CC5CCC5CCOC'
-[01:20:28] SMILES Parse Error: extra close parentheses while parsing: C=1(C(NCC(C)C)C)C=CC=2N=C(C(NCC(C3C3)(O)C)=O)OC2C1CC)C
-[01:20:28] SMILES Parse Error: Failed parsing SMILES 'C=1(C(NCC(C)C)C)C=CC=2N=C(C(NCC(C3C3)(O)C)=O)OC2C1CC)C' for input: 'C=1(C(NCC(C)C)C)C=CC=2N=C(C(NCC(C3C3)(O)C)=O)OC2C1CC)C'
-[01:20:28] SMILES Parse Error: ring closure 3 duplicates bond between atom 8 and atom 9 for input: 'C=1(NC=2C=C(C(NC(C3C3)=C)C#N)C=CC2C(C1)CC)C(O)CN4N=CC=C4'
-[01:20:29] Explicit valence for atom # 23 O, 3, is greater than permitted
-[01:20:29] SMILES Parse Error: extra close parentheses while parsing: C=1(C(=CC=C(Cl)C1)Cl)S(=O)(N[C@@H]2C3=C(N(C2=O)CC(F)F)CC[C@H]3)=O)=O
-[01:20:29] SMILES Parse Error: Failed parsing SMILES 'C=1(C(=CC=C(Cl)C1)Cl)S(=O)(N[C@@H]2C3=C(N(C2=O)CC(F)F)CC[C@H]3)=O)=O' for input: 'C=1(C(=CC=C(Cl)C1)Cl)S(=O)(N[C@@H]2C3=C(N(C2=O)CC(F)F)CC[C@H]3)=O)=O'
-[01:20:29] Explicit valence for atom # 7 C, 5, is greater than permitted
-[01:20:29] SMILES Parse Error: extra close parentheses while parsing: N(C(=O)C12C3CC(C1)CC(C2)C3)CC(CC(=O)N4CCN(CC4)CC(O)(C)C)CC)=O
-[01:20:29] SMILES Parse Error: Failed parsing SMILES 'N(C(=O)C12C3CC(C1)CC(C2)C3)CC(CC(=O)N4CCN(CC4)CC(O)(C)C)CC)=O' for input: 'N(C(=O)C12C3CC(C1)CC(C2)C3)CC(CC(=O)N4CCN(CC4)CC(O)(C)C)CC)=O'
-[01:20:29] Explicit valence for atom # 7 N, 4, is greater than permitted
-[01:20:29] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(=C(F)C1)Cl)C(CN[C@@H]2CC[C@H](C(N(C(C2)=O)CC(C)(F)F)=O)C)C#N)=O
-[01:20:29] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(=C(F)C1)Cl)C(CN[C@@H]2CC[C@H](C(N(C(C2)=O)CC(C)(F)F)=O)C)C#N)=O' for input: 'C=1(C=CC(=C(F)C1)Cl)C(CN[C@@H]2CC[C@H](C(N(C(C2)=O)CC(C)(F)F)=O)C)C#N)=O'
-[01:20:29] SMILES Parse Error: unclosed ring for input: 'C=1(NC=C2C(C1)C(C(N(N2CC3=CC=CO3)CC(F)(F)F)=N)=N)C4CC4CC4CC'
-[01:20:29] SMILES Parse Error: unclosed ring for input: 'C1(C3C=COC3C=C1C(=NCC(NCC(C)(C)C)=O)C)C(=N[C@@H]2C4CC4)CCO'
-[01:20:29] SMILES Parse Error: extra close parentheses while parsing: C1(C)(C)OCC=2C(=C1)C(C(C(N[C@@H](C(=O)N3[C@@H](CCC3)C(=O)O)C)=CC2)CC(C)C)C)=C
-[01:20:29] SMILES Parse Error: Failed parsing SMILES 'C1(C)(C)OCC=2C(=C1)C(C(C(N[C@@H](C(=O)N3[C@@H](CCC3)C(=O)O)C)=CC2)CC(C)C)C)=C' for input: 'C1(C)(C)OCC=2C(=C1)C(C(C(N[C@@H](C(=O)N3[C@@H](CCC3)C(=O)O)C)=CC2)CC(C)C)C)=C'
-[01:20:29] SMILES Parse Error: extra close parentheses while parsing: C1(C)(C)CC=2C=C(C(=NC2C(C1)=O)NC(C(O)(CC(F)(F)F)C)=O)CC)C)F
-[01:20:29] SMILES Parse Error: Failed parsing SMILES 'C1(C)(C)CC=2C=C(C(=NC2C(C1)=O)NC(C(O)(CC(F)(F)F)C)=O)CC)C)F' for input: 'C1(C)(C)CC=2C=C(C(=NC2C(C1)=O)NC(C(O)(CC(F)(F)F)C)=O)CC)C)F'
-[01:20:29] Explicit valence for atom # 10 N, 4, is greater than permitted
-[01:20:29] Explicit valence for atom # 22 O, 3, is greater than permitted
-[01:20:29] Explicit valence for atom # 26 C, 5, is greater than permitted
-[01:20:29] SMILES Parse Error: extra close parentheses while parsing: N(C(=O)C12C3CC(C1CCC2)CC=4C=CC(=CC4)O)C(=O)OC(C)COC)C
-[01:20:29] SMILES Parse Error: Failed parsing SMILES 'N(C(=O)C12C3CC(C1CCC2)CC=4C=CC(=CC4)O)C(=O)OC(C)COC)C' for input: 'N(C(=O)C12C3CC(C1CCC2)CC=4C=CC(=CC4)O)C(=O)OC(C)COC)C'
-[01:20:29] Explicit valence for atom # 15 C, 5, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A[01:20:29] Explicit valence for atom # 8 O, 3, is greater than permitted
-
-Docking batches:   6%|▋         | 1/16 [00:24<06:09, 24.61s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:50<05:51, 25.10s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:17<05:39, 26.10s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:46<05:29, 27.48s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:23<05:39, 30.90s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:55<05:12, 31.26s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:22<04:28, 29.81s/it][A
-Docking batches:  50%|█████     | 8/16 [03:48<03:47, 28.50s/it][A
-Docking batches:  56%|█████▋    | 9/16 [04:15<03:16, 28.10s/it][A
-Docking batches:  62%|██████▎   | 10/16 [04:42<02:46, 27.83s/it][A
-Docking batches:  69%|██████▉   | 11/16 [05:14<02:24, 28.96s/it][A
-Docking batches:  75%|███████▌  | 12/16 [05:42<01:54, 28.74s/it][A[01:26:11] Explicit valence for atom # 14 O, 3, is greater than permitted
-
-Docking batches:  81%|████████▏ | 13/16 [06:04<01:20, 26.68s/it][A
-Docking batches:  88%|████████▊ | 14/16 [06:29<00:52, 26.18s/it][A
-Docking batches:  94%|█████████▍| 15/16 [06:59<00:27, 27.25s/it][A[01:27:28] Explicit valence for atom # 8 O, 3, is greater than permitted
-
-Docking batches: 100%|██████████| 16/16 [07:23<00:00, 26.36s/it][ADocking batches: 100%|██████████| 16/16 [07:23<00:00, 27.72s/it]
-Calculating properties:  50%|█████     | 20/40 [2:04:12<2:07:46, 383.33s/it][01:27:52] Explicit valence for atom # 19 N, 4, is greater than permitted
-[01:27:52] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(OC=2C=CC=C(C2)Cl)=C(C1)C(C)C)C#N)CCN3CCCC3
-[01:27:52] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(OC=2C=CC=C(C2)Cl)=C(C1)C(C)C)C#N)CCN3CCCC3' for input: 'C=1(C=CC(OC=2C=CC=C(C2)Cl)=C(C1)C(C)C)C#N)CCN3CCCC3'
-[01:27:52] Explicit valence for atom # 19 N, 4, is greater than permitted
-[01:27:52] Explicit valence for atom # 22 O, 3, is greater than permitted
-[01:27:52] Explicit valence for atom # 21 F, 2, is greater than permitted
-[01:27:52] SMILES Parse Error: unclosed ring for input: 'C=1C=C(OC=2C(=CC(=CC2C)C)C)C=CC1C(C)(C)COCO2'
-[01:27:52] SMILES Parse Error: extra close parentheses while parsing: O(C1=CC=C(C(C2=C(C=C(C=C2)C)C)=CCC)C=C1C)CO)C
-[01:27:52] SMILES Parse Error: Failed parsing SMILES 'O(C1=CC=C(C(C2=C(C=C(C=C2)C)C)=CCC)C=C1C)CO)C' for input: 'O(C1=CC=C(C(C2=C(C=C(C=C2)C)C)=CCC)C=C1C)CO)C'
-[01:27:52] Explicit valence for atom # 19 N, 4, is greater than permitted
-[01:27:53] Explicit valence for atom # 18 N, 4, is greater than permitted
-[01:27:53] Explicit valence for atom # 19 N, 4, is greater than permitted
-[01:27:53] SMILES Parse Error: extra close parentheses while parsing: C=1(C=C(OC=2C=CC=CC2)C=CC1C#N)C(F)(F)F)CCC
-[01:27:53] SMILES Parse Error: Failed parsing SMILES 'C=1(C=C(OC=2C=CC=CC2)C=CC1C#N)C(F)(F)F)CCC' for input: 'C=1(C=C(OC=2C=CC=CC2)C=CC1C#N)C(F)(F)F)CCC'
-[01:27:53] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(OC=2C=CC=CC2)=CC1C(F)(F)F)C(C)CCO)OC
-[01:27:53] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(OC=2C=CC=CC2)=CC1C(F)(F)F)C(C)CCO)OC' for input: 'C=1(C=CC(OC=2C=CC=CC2)=CC1C(F)(F)F)C(C)CCO)OC'
-[01:27:53] SMILES Parse Error: extra close parentheses while parsing: S(C=1C=C(OC=2C=CC(=CC2)C(F)(F)F)C=CC1)(C)CCO)C
-[01:27:53] SMILES Parse Error: Failed parsing SMILES 'S(C=1C=C(OC=2C=CC(=CC2)C(F)(F)F)C=CC1)(C)CCO)C' for input: 'S(C=1C=C(OC=2C=CC(=CC2)C(F)(F)F)C=CC1)(C)CCO)C'
-[01:27:53] SMILES Parse Error: extra close parentheses while parsing: C=1C=C(OC=2C(=CC=CC2C)C)C=CC1C(CC3CC3)CO)=O
-[01:27:53] SMILES Parse Error: Failed parsing SMILES 'C=1C=C(OC=2C(=CC=CC2C)C)C=CC1C(CC3CC3)CO)=O' for input: 'C=1C=C(OC=2C(=CC=CC2C)C)C=CC1C(CC3CC3)CO)=O'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:19<04:47, 19.20s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:39<04:36, 19.74s/it][A
-Docking batches:  19%|█▉        | 3/16 [00:58<04:12, 19.44s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:17<03:50, 19.20s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:40<03:48, 20.75s/it][A
-Docking batches:  38%|███▊      | 6/16 [01:57<03:15, 19.56s/it][A[01:29:51] Explicit valence for atom # 14 O, 3, is greater than permitted
-
-Docking batches:  44%|████▍     | 7/16 [02:20<03:04, 20.52s/it][A[01:30:13] UFFTYPER: Unrecognized atom type: S_5+4 (3)
-
-Docking batches:  50%|█████     | 8/16 [02:40<02:41, 20.21s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:02<02:27, 21.06s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:21<02:01, 20.28s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:42<01:42, 20.58s/it][A[01:31:35] UFFTYPER: Unrecognized atom type: S_5+4 (3)
-
-Docking batches:  75%|███████▌  | 12/16 [04:05<01:25, 21.33s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:27<01:04, 21.48s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:46<00:41, 20.80s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:06<00:20, 20.44s/it][A
-Docking batches: 100%|██████████| 16/16 [05:24<00:00, 19.68s/it][ADocking batches: 100%|██████████| 16/16 [05:24<00:00, 20.27s/it]
-Calculating properties:  52%|█████▎    | 21/40 [2:09:37<1:55:48, 365.72s/it][01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1=C(C=CC(NC(CC=2SC(=C(C2)Cl)Cl)=O)=C1)C(=O)OC(C)(C)C)=O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1=C(C=CC(NC(CC=2SC(=C(C2)Cl)Cl)=O)=C1)C(=O)OC(C)(C)C)=O' for input: 'C1=C(C=CC(NC(CC=2SC(=C(C2)Cl)Cl)=O)=C1)C(=O)OC(C)(C)C)=O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)CCCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)CCCO' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)CCCO'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C=1(C(=CC=C(NC(C2=CC=C(C=C2)Cl)=O)C1)Cl)C(=O)OC(C)C(C)=O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C=1(C(=CC=C(NC(C2=CC=C(C=C2)Cl)=O)C1)Cl)C(=O)OC(C)C(C)=O)O' for input: 'C=1(C(=CC=C(NC(C2=CC=C(C=C2)Cl)=O)C1)Cl)C(=O)OC(C)C(C)=O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: ClC1=C(OC2=CC(C(C)C)=CC=C2)C(=CC(C(=O)O)=C1)C(=O)O)CCC
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'ClC1=C(OC2=CC(C(C)C)=CC=C2)C(=CC(C(=O)O)=C1)C(=O)O)CCC' for input: 'ClC1=C(OC2=CC(C(C)C)=CC=C2)C(=CC(C(=O)O)=C1)C(=O)O)CCC'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)CCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)CCO' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)CCO'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C(O)=O)(C)C)=C1)Cl)CCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C(O)=O)(C)C)=C1)Cl)CCO' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C(O)=O)(C)C)=C1)Cl)CCO'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=CC(C(C)(C)C)=NN1C=2C=CC=CC2)NC(=O)CCC(C)(C)C(=O)O)CC
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=CC(C(C)(C)C)=NN1C=2C=CC=CC2)NC(=O)CCC(C)(C)C(=O)O)CC' for input: 'C1(=CC(C(C)(C)C)=NN1C=2C=CC=CC2)NC(=O)CCC(C)(C)C(=O)O)CC'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1=C(C=CC(=C1NC(=O)OC=2C=CC=CC2)C(C)(C)C)NC(C(C)(C)C)=O)=O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1=C(C=CC(=C1NC(=O)OC=2C=CC=CC2)C(C)(C)C)NC(C(C)(C)C)=O)=O' for input: 'C1=C(C=CC(=C1NC(=O)OC=2C=CC=CC2)C(C)(C)C)NC(C(C)(C)C)=O)=O'
-[01:33:17] Explicit valence for atom # 24 N, 4, is greater than permitted
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O'
-[01:33:17] SMILES Parse Error: unclosed ring for input: 'C=1(OC=CC1C(NC2=C(C=C(C=C2)Cl)Cl)=O)C(=C(CCC)C=C2)C(O)=O'
-[01:33:17] Explicit valence for atom # 5 C, 5, is greater than permitted
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)CCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)CCO' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)CCO'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C=C1C)NC(C2CCCCC2)=O)Cl)NC(C=3C=C(C=CN3)C)=O)=O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C=C1C)NC(C2CCCCC2)=O)Cl)NC(C=3C=C(C=CN3)C)=O)=O' for input: 'C1(=C(C=C(C=C1C)NC(C2CCCCC2)=O)Cl)NC(C=3C=C(C=CN3)C)=O)=O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C=C1C)NC(C=2C=C(C(=CC2)Cl)Cl)=O)C(C)(C)C)C(=O)O)CCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C=C1C)NC(C=2C=C(C(=CC2)Cl)Cl)=O)C(C)(C)C)C(=O)O)CCO' for input: 'C1(=C(C=C(C=C1C)NC(C=2C=C(C(=CC2)Cl)Cl)=O)C(C)(C)C)C(=O)O)CCO'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(NC(OC(C)(C)C)=O)=CC1NC(C=2C(=CC=CC2)CC)=O)C)C#N
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(NC(OC(C)(C)C)=O)=CC1NC(C=2C(=CC=CC2)CC)=O)C)C#N' for input: 'C=1(C=CC(NC(OC(C)(C)C)=O)=CC1NC(C=2C(=CC=CC2)CC)=O)C)C#N'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)CCC(C)C)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)CCC(C)C)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)CCC(C)C)C(=O)O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C=C1)NC(C2CC2)=O)Cl)C3=CC=C(C(=C3)C(C)(C)C)C(=O)O)CCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C=C1)NC(C2CC2)=O)Cl)C3=CC=C(C(=C3)C(C)(C)C)C(=O)O)CCO' for input: 'C1(=C(C=C(C=C1)NC(C2CC2)=O)Cl)C3=CC=C(C(=C3)C(C)(C)C)C(=O)O)CCO'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC(=C1)NC(=O)CC(C)(C)C)C2=CC=C(C=C2)C)C(=O)OC(C)C(=O)O)C
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC(=C1)NC(=O)CC(C)(C)C)C2=CC=C(C=C2)C)C(=O)OC(C)C(=O)O)C' for input: 'C1(=C(C=CC(=C1)NC(=O)CC(C)(C)C)C2=CC=C(C=C2)C)C(=O)OC(C)C(=O)O)C'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C=N1)C(=O)NC=2C=CC(=CC2)Cl)C(C)C)NC(C(C)C)=O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C=N1)C(=O)NC=2C=CC(=CC2)Cl)C(C)C)NC(C(C)C)=O)O' for input: 'C1(=C(C=C(C=N1)C(=O)NC=2C=CC(=CC2)Cl)C(C)C)NC(C(C)C)=O)O'
-[01:33:17] SMILES Parse Error: syntax error while parsing: ClC=1C(NC(=O)C=2C(C(C)(C)C)=CC(=C(C2)C)C()C)=CC(=CC1)C(=O)NCCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'ClC=1C(NC(=O)C=2C(C(C)(C)C)=CC(=C(C2)C)C()C)=CC(=CC1)C(=O)NCCO' for input: 'ClC=1C(NC(=O)C=2C(C(C)(C)C)=CC(=C(C2)C)C()C)=CC(=CC1)C(=O)NCCO'
-[01:33:17] Explicit valence for atom # 1 C, 5, is greater than permitted
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1=C(C=CC(=C1)NC(C=2C(=CC=C(C2)Cl)Cl)=O)NC(OC(C)C)=O)CCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1=C(C=CC(=C1)NC(C=2C(=CC=C(C2)Cl)Cl)=O)NC(OC(C)C)=O)CCO' for input: 'C1=C(C=CC(=C1)NC(C=2C(=CC=C(C2)Cl)Cl)=O)NC(OC(C)C)=O)CCO'
-[01:33:17] Explicit valence for atom # 5 N, 4, is greater than permitted
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C=C1)NC(C2CCCCC2)=O)Cl)NC(C3=C(C=C(C=C3)C)C)=O)=O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C=C1)NC(C2CCCCC2)=O)Cl)NC(C3=C(C=C(C=C3)C)C)=O)=O)O' for input: 'C1(=C(C=C(C=C1)NC(C2CCCCC2)=O)Cl)NC(C3=C(C=C(C=C3)C)C)=O)=O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O'
-[01:33:17] Explicit valence for atom # 21 Cl, 2, is greater than permitted
-[01:33:17] Explicit valence for atom # 20 Cl, 2, is greater than permitted
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1Cl)C(O)=O)Cl)OCCC
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1Cl)C(O)=O)Cl)OCCC' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1Cl)C(O)=O)Cl)OCCC'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)CNC
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)CNC' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)CNC'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)OCC
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)OCC' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)OCC'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C=2C=C(C(C)(C)C)C=C(C2)Cl)=O)C=CC(=N1)C)C(=O)O)CC
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C=2C=C(C(C)(C)C)C=C(C2)Cl)=O)C=CC(=N1)C)C(=O)O)CC' for input: 'C1(=C(NC(C=2C=C(C(C)(C)C)C=C(C2)Cl)=O)C=CC(=N1)C)C(=O)O)CC'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C=C1)NC(CC(C)(C)C)=O)C)NC(C2=C(C=C(C=C2)Cl)CC)=O)=O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C=C1)NC(CC(C)(C)C)=O)C)NC(C2=C(C=C(C=C2)Cl)CC)=O)=O' for input: 'C1(=C(C=C(C=C1)NC(CC(C)(C)C)=O)C)NC(C2=C(C=C(C=C2)Cl)CC)=O)=O'
-[01:33:17] Explicit valence for atom # 5 C, 5, is greater than permitted
-[01:33:17] Explicit valence for atom # 22 O, 3, is greater than permitted
-[01:33:17] SMILES Parse Error: unclosed ring for input: 'C=1(C=CC(=CC1)NC(C=2C(=CC=C(C2)C(C)(C)C)C)=O)C(=C(C=CN2)C)C(=O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: ClC1=C(NC(=O)C=2C(=CC(C(C)C)=CC2)C)C=C(C(C)C)C(=C1)C(=O)N)CCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'ClC1=C(NC(=O)C=2C(=CC(C(C)C)=CC2)C)C=C(C(C)C)C(=C1)C(=O)N)CCO' for input: 'ClC1=C(NC(=O)C=2C(=CC(C(C)C)=CC2)C)C=C(C(C)C)C(=C1)C(=O)N)CCO'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=CC=C(C=C1NC(C=2C=CC(=CC2)C(C)(C)C)=O)Cl)C(=N)NC(OC)=O)C
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=CC=C(C=C1NC(C=2C=CC(=CC2)C(C)(C)C)=O)Cl)C(=N)NC(OC)=O)C' for input: 'C1(=CC=C(C=C1NC(C=2C=CC(=CC2)C(C)(C)C)=O)Cl)C(=N)NC(OC)=O)C'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(=CC1)NC(C2CCCCC2)=O)C(=C(CC(C)(C)C)C=CC1)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(=CC1)NC(C2CCCCC2)=O)C(=C(CC(C)(C)C)C=CC1)C(=O)O)O' for input: 'C=1(C=CC(=CC1)NC(C2CCCCC2)=O)C(=C(CC(C)(C)C)C=CC1)C(=O)O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)CC(C)(C)C)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)CC(C)(C)C)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)CC(C)(C)C)C(=O)O)O'
-[01:33:17] SMILES Parse Error: syntax error while parsing: ClC1=C(NC(=O)C=2C(=CC(C(C)(C)C)=CC2)C()C)C=C(C=C1)C(=O)NCCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'ClC1=C(NC(=O)C=2C(=CC(C(C)(C)C)=CC2)C()C)C=C(C=C1)C(=O)NCCO' for input: 'ClC1=C(NC(=O)C=2C(=CC(C(C)(C)C)=CC2)C()C)C=C(C=C1)C(=O)NCCO'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)C(C)(C)C)C(=O)O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)C(C)(C)C)C)=O)C=CC(C(C)(C)C)=N1)C(O)=O)C
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)C(C)(C)C)C)=O)C=CC(C(C)(C)C)=N1)C(O)=O)C' for input: 'C1(=C(NC(C2=C(C=C(C=C2)C(C)(C)C)C)=O)C=CC(C(C)(C)C)=N1)C(O)=O)C'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)OCC(C)C)C(=O)O)C
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)OCC(C)C)C(=O)O)C' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(=C1)OCC(C)C)C(=O)O)C'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: ClC1=C(NC(=O)C=2C=CC(C(C)(C)C)=CC2)C(=CC(CC)=N1)C(=O)O)CCO
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'ClC1=C(NC(=O)C=2C=CC(C(C)(C)C)=CC2)C(=CC(CC)=N1)C(=O)O)CCO' for input: 'ClC1=C(NC(=O)C=2C=CC(C(C)(C)C)=CC2)C(=CC(CC)=N1)C(=O)O)CCO'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C(C1=C(C=CC=C1Cl)C(=O)O)(C2=CC=C(C=C2)C(C(C)(C)C)=O)CC(=O)O)C
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C(C1=C(C=CC=C1Cl)C(=O)O)(C2=CC=C(C=C2)C(C(C)(C)C)=O)CC(=O)O)C' for input: 'C(C1=C(C=CC=C1Cl)C(=O)O)(C2=CC=C(C=C2)C(C(C)(C)C)=O)CC(=O)O)C'
-[01:33:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O
-[01:33:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O' for input: 'C1(=C(NC(C2=C(C=C(C=C2)Cl)Cl)=O)C=CC(C(C)(C)C)=C1)C(=O)O)O'
-[01:33:17] Explicit valence for atom # 25 N, 4, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:22<05:41, 22.76s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:44<05:07, 22.00s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:04<04:35, 21.18s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:25<04:13, 21.09s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:47<03:57, 21.59s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:09<03:35, 21.58s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:33<03:20, 22.25s/it][A
-Docking batches:  50%|█████     | 8/16 [02:52<02:50, 21.28s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:16<02:35, 22.25s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:35<02:07, 21.33s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:58<01:47, 21.60s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:19<01:26, 21.67s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:38<01:02, 20.83s/it][A
-Docking batches:  88%|████████▊ | 14/16 [05:02<00:43, 21.68s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:23<00:21, 21.56s/it][A
-Docking batches: 100%|██████████| 16/16 [05:46<00:00, 22.00s/it][ADocking batches: 100%|██████████| 16/16 [05:46<00:00, 21.67s/it]
-Calculating properties:  55%|█████▌    | 22/40 [2:15:24<1:48:01, 360.09s/it][01:39:04] Explicit valence for atom # 23 O, 3, is greater than permitted
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: C(N[C@@H]1CCC[C@@H]2[C@](C1)(CCC2)CC)C=3N(C=CC3)CCCOC)C
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'C(N[C@@H]1CCC[C@@H]2[C@](C1)(CCC2)CC)C=3N(C=CC3)CCCOC)C' for input: 'C(N[C@@H]1CCC[C@@H]2[C@](C1)(CCC2)CC)C=3N(C=CC3)CCCOC)C'
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: S1C(C(N(CC2C3CC(CC2)CC(C3)CC)C1=O)C)C(=O)N(CC)CC)C
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'S1C(C(N(CC2C3CC(CC2)CC(C3)CC)C1=O)C)C(=O)N(CC)CC)C' for input: 'S1C(C(N(CC2C3CC(CC2)CC(C3)CC)C1=O)C)C(=O)N(CC)CC)C'
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(OC)=C2C=3N(CCC(CC3C(C2)CC)=O)C1C)CCC)CC
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(OC)=C2C=3N(CCC(CC3C(C2)CC)=O)C1C)CCC)CC' for input: 'C=1(C=CC(OC)=C2C=3N(CCC(CC3C(C2)CC)=O)C1C)CCC)CC'
-[01:39:04] SMILES Parse Error: unclosed ring for input: 'C1=C(OC2C1CC[C@@H]3[C@H]2CN(CCC3)C)C=4C=CC(=CC4OCC)C=CC4OC'
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: OC(=O)N1C2CC(CC(C1)(C2)CCCC)(C(C)C)C(C)C)C
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'OC(=O)N1C2CC(CC(C1)(C2)CCCC)(C(C)C)C(C)C)C' for input: 'OC(=O)N1C2CC(CC(C1)(C2)CCCC)(C(C)C)C(C)C)C'
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: C1([C@@H](CCC2=C(C=C(C(=C2)OC)Br)O)[C@H](C)C[C@@H](C1)C)=C)C
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'C1([C@@H](CCC2=C(C=C(C(=C2)OC)Br)O)[C@H](C)C[C@@H](C1)C)=C)C' for input: 'C1([C@@H](CCC2=C(C=C(C(=C2)OC)Br)O)[C@H](C)C[C@@H](C1)C)=C)C'
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: C=1(C(=CC=2NC(C[C@](C)([C@H](CCC2C1)C)C)=CC)O)C(F)(F)F)F
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'C=1(C(=CC=2NC(C[C@](C)([C@H](CCC2C1)C)C)=CC)O)C(F)(F)F)F' for input: 'C=1(C(=CC=2NC(C[C@](C)([C@H](CCC2C1)C)C)=CC)O)C(F)(F)F)F'
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: C([C@@H]1CCCCC2=CC=NC=C2)=C3N(C=CC(C3=C1)C(F)(F)F)OCC)C
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'C([C@@H]1CCCCC2=CC=NC=C2)=C3N(C=CC(C3=C1)C(F)(F)F)OCC)C' for input: 'C([C@@H]1CCCCC2=CC=NC=C2)=C3N(C=CC(C3=C1)C(F)(F)F)OCC)C'
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: S(C([C@H]1CCCC=2[C@@](O)(C(=CC2)CC(C)C)CC1)C)C)CCO
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'S(C([C@H]1CCCC=2[C@@](O)(C(=CC2)CC(C)C)CC1)C)C)CCO' for input: 'S(C([C@H]1CCCC=2[C@@](O)(C(=CC2)CC(C)C)CC1)C)C)CCO'
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: C=1(C(=CC=2N[C@@H]3[C@@H]([C@H](CCC3)C2C1)CCC)O)C(F)(F)F)C(F)F
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'C=1(C(=CC=2N[C@@H]3[C@@H]([C@H](CCC3)C2C1)CCC)O)C(F)(F)F)C(F)F' for input: 'C=1(C(=CC=2N[C@@H]3[C@@H]([C@H](CCC3)C2C1)CCC)O)C(F)(F)F)C(F)F'
-[01:39:04] SMILES Parse Error: unclosed ring for input: 'C1C2CC3(CC(C=4C=C(C)C(=CC2)OC)N(C(CC1)=O)CCC)CCC3'
-[01:39:04] SMILES Parse Error: unclosed ring for input: 'N[C@@](C1=CC(=C(C=C1)OC)F)(CC=C2C=3C(CCC22)=NC=CC3)C(F)F'
-[01:39:04] SMILES Parse Error: unclosed ring for input: 'C=12C3=C(NC=C3)C=C(CC1CC4SC=CC4(C2)CCC)C=N3'
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: C1([C@@H](CC2=C(C=C(C(=C2)OC)Br)O)[C@H](C)C(CC1)C)=C)C
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'C1([C@@H](CC2=C(C=C(C(=C2)OC)Br)O)[C@H](C)C(CC1)C)=C)C' for input: 'C1([C@@H](CC2=C(C=C(C(=C2)OC)Br)O)[C@H](C)C(CC1)C)=C)C'
-[01:39:04] SMILES Parse Error: unclosed ring for input: 'C1([C@@H]2CCC[C@H]2[C@](C1)(C)CO)=C(C=C3C=C(C=C23)Br)OC(C)C'
-[01:39:04] SMILES Parse Error: extra close parentheses while parsing: C(C([C@@H]1CN[C@@H](CC2=C(C1)C=CC(=C2)C(C)C)C(C)C)=C)O)=C
-[01:39:04] SMILES Parse Error: Failed parsing SMILES 'C(C([C@@H]1CN[C@@H](CC2=C(C1)C=CC(=C2)C(C)C)C(C)C)=C)O)=C' for input: 'C(C([C@@H]1CN[C@@H](CC2=C(C1)C=CC(=C2)C(C)C)C(C)C)=C)O)=C'
-[01:39:04] SMILES Parse Error: unclosed ring for input: 'ClC=1C=C2N([C@@H]3[C@H]4[C@]([C@H](NCCCC)C3)(CC2=CC1)CCCN)CCC'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:38<09:39, 38.63s/it][A
-Docking batches:  12%|█▎        | 2/16 [01:02<07:02, 30.16s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:29<06:13, 28.71s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:58<05:46, 28.85s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:22<04:55, 26.82s/it][A
-Docking batches:  38%|███▊      | 6/16 [03:08<05:35, 33.52s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:50<05:26, 36.32s/it][A
-Docking batches:  50%|█████     | 8/16 [04:27<04:52, 36.50s/it][A
-Docking batches:  56%|█████▋    | 9/16 [05:11<04:32, 38.87s/it][A
-Docking batches:  62%|██████▎   | 10/16 [05:37<03:29, 34.93s/it][A
-Docking batches:  69%|██████▉   | 11/16 [06:01<02:37, 31.44s/it][A
-Docking batches:  75%|███████▌  | 12/16 [06:25<01:56, 29.24s/it][A
-Docking batches:  81%|████████▏ | 13/16 [06:46<01:20, 26.82s/it][A
-Docking batches:  88%|████████▊ | 14/16 [07:27<01:02, 31.03s/it][A
-Docking batches:  94%|█████████▍| 15/16 [07:51<00:28, 28.76s/it][A
-Docking batches: 100%|██████████| 16/16 [08:23<00:00, 29.73s/it][ADocking batches: 100%|██████████| 16/16 [08:23<00:00, 31.44s/it]
-Calculating properties:  57%|█████▊    | 23/40 [2:23:47<1:54:12, 403.09s/it][01:47:27] SMILES Parse Error: unclosed ring for input: 'S1C(C2C3(N=C(N(C2=O)C4CCCCC4)N=C(CCC)C15CCCCC3)C(=O)N)(C)C'
-[01:47:27] SMILES Parse Error: unclosed ring for input: 'S1C(C2C3C(=NC=4C2C5(CCCC5)C(=C3C(=O)O)CC(O)=O)CCC)=CC=C1'
-[01:47:27] SMILES Parse Error: extra close parentheses while parsing: C1(C)(C)OCC=2C(=C1)C(C(N(N2)C3=C(C=C(C=C3)F)C(F)(F)F)=N)C#N)CCC
-[01:47:27] SMILES Parse Error: Failed parsing SMILES 'C1(C)(C)OCC=2C(=C1)C(C(N(N2)C3=C(C=C(C=C3)F)C(F)(F)F)=N)C#N)CCC' for input: 'C1(C)(C)OCC=2C(=C1)C(C(N(N2)C3=C(C=C(C=C3)F)C(F)(F)F)=N)C#N)CCC'
-[01:47:27] Explicit valence for atom # 14 C, 5, is greater than permitted
-[01:47:27] Explicit valence for atom # 9 C, 5, is greater than permitted
-[01:47:27] SMILES Parse Error: unclosed ring for input: 'BrC=1C2=C(C(CC2)C(=C2)C(C1C)C#N)CSC3=NC(=CC(=N3)C)C(O)=O'
-[01:47:27] SMILES Parse Error: extra close parentheses while parsing: N1=C(SC=2C1=C(C)N=C(N2)N([C@H]3C=C(C[C@H]3C)C4=CC=C(C=C4)C#N)C)NCC)C
-[01:47:27] SMILES Parse Error: Failed parsing SMILES 'N1=C(SC=2C1=C(C)N=C(N2)N([C@H]3C=C(C[C@H]3C)C4=CC=C(C=C4)C#N)C)NCC)C' for input: 'N1=C(SC=2C1=C(C)N=C(N2)N([C@H]3C=C(C[C@H]3C)C4=CC=C(C=C4)C#N)C)NCC)C'
-[01:47:27] SMILES Parse Error: syntax error while parsing: S1C(C2C3C(=NC=4C2C(=CC(4)C(=O)NC(CC(C)C)=O)C)CCCC3=O)=CC=C1
-[01:47:27] SMILES Parse Error: Failed parsing SMILES 'S1C(C2C3C(=NC=4C2C(=CC(4)C(=O)NC(CC(C)C)=O)C)CCCC3=O)=CC=C1' for input: 'S1C(C2C3C(=NC=4C2C(=CC(4)C(=O)NC(CC(C)C)=O)C)CCCC3=O)=CC=C1'
-[01:47:27] SMILES Parse Error: unclosed ring for input: 'S(=NC1=C(C=2OC=CC2)C=C3C(=C1)CC(C3=C2)C(CC)C(C)C)(O)(=O)N'
-[01:47:27] Explicit valence for atom # 8 C, 5, is greater than permitted
-[01:47:27] SMILES Parse Error: unclosed ring for input: 'O1C=2C(C=3C(C2C4=C(CC3CC)C(C(=N)C1C(=O)O)C=5OC=CC5)(C)C)(C)C'
-[01:47:28] SMILES Parse Error: extra close parentheses while parsing: C1(C)(C)OCC=2C(=C1)C(C(N(N(C3=CC=C(C=C3)C)C(=N)C(C(C)(C)C)C2)1)=N)C)C
-[01:47:28] SMILES Parse Error: Failed parsing SMILES 'C1(C)(C)OCC=2C(=C1)C(C(N(N(C3=CC=C(C=C3)C)C(=N)C(C(C)(C)C)C2)1)=N)C)C' for input: 'C1(C)(C)OCC=2C(=C1)C(C(N(N(C3=CC=C(C=C3)C)C(=N)C(C(C)(C)C)C2)1)=N)C)C'
-[01:47:28] SMILES Parse Error: extra close parentheses while parsing: C1(OC)=C(C)C)C2=C(C=C(C(C2)CC1)CC=3C(=C(C(C3C)=C(C(=O)O)C)C)CC4CC4)=OOO
-[01:47:28] SMILES Parse Error: Failed parsing SMILES 'C1(OC)=C(C)C)C2=C(C=C(C(C2)CC1)CC=3C(=C(C(C3C)=C(C(=O)O)C)C)CC4CC4)=OOO' for input: 'C1(OC)=C(C)C)C2=C(C=C(C(C2)CC1)CC=3C(=C(C(C3C)=C(C(=O)O)C)C)CC4CC4)=OOO'
-[01:47:28] SMILES Parse Error: unclosed ring for input: 'O1N=C(C=2C(C3C(C4(C(C(CC3)CC4)CCC(=O)O)C)=CC(=C4C)C)=CC2)CC1CO'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:33<08:26, 33.78s/it][A
-Docking batches:  12%|█▎        | 2/16 [01:22<09:52, 42.32s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:54<08:08, 37.61s/it][A
-Docking batches:  25%|██▌       | 4/16 [02:36<07:51, 39.32s/it][A
-Docking batches:  31%|███▏      | 5/16 [03:20<07:33, 41.26s/it][A
-Docking batches:  38%|███▊      | 6/16 [03:53<06:23, 38.38s/it][A
-Docking batches:  44%|████▍     | 7/16 [04:25<05:25, 36.17s/it][A[01:51:53] Explicit valence for atom # 11 O, 3, is greater than permitted
-
-Docking batches:  50%|█████     | 8/16 [04:54<04:31, 33.96s/it][A
-Docking batches:  56%|█████▋    | 9/16 [05:40<04:24, 37.72s/it][A[01:53:08] UFFTYPER: Unrecognized atom type: S_5+6 (23)
-[01:53:08] UFFTYPER: Unrecognized atom type: S_5+6 (23)
-
-Docking batches:  62%|██████▎   | 10/16 [06:05<03:22, 33.83s/it][A
-Docking batches:  69%|██████▉   | 11/16 [06:35<02:43, 32.79s/it][A
-Docking batches:  75%|███████▌  | 12/16 [07:06<02:08, 32.10s/it][A
-Docking batches:  81%|████████▏ | 13/16 [07:32<01:30, 30.13s/it][A
-Docking batches:  88%|████████▊ | 14/16 [08:07<01:03, 31.88s/it][A
-Docking batches:  94%|█████████▍| 15/16 [08:40<00:32, 32.22s/it][A
-Docking batches: 100%|██████████| 16/16 [09:29<00:00, 37.25s/it][ADocking batches: 100%|██████████| 16/16 [09:29<00:00, 35.62s/it]
-Calculating properties:  60%|██████    | 24/40 [2:33:17<2:00:52, 453.26s/it][01:56:58] SMILES Parse Error: extra close parentheses while parsing: ClC=1N(N=C(C1C(=O)N(CC)CC)CC)CCC)CC
-[01:56:58] SMILES Parse Error: Failed parsing SMILES 'ClC=1N(N=C(C1C(=O)N(CC)CC)CC)CCC)CC' for input: 'ClC=1N(N=C(C1C(=O)N(CC)CC)CC)CCC)CC'
-[01:56:58] SMILES Parse Error: extra close parentheses while parsing: N(C1CCCC2=NC=CC(N(C)C)=C21)CCCCNC)C
-[01:56:58] SMILES Parse Error: Failed parsing SMILES 'N(C1CCCC2=NC=CC(N(C)C)=C21)CCCCNC)C' for input: 'N(C1CCCC2=NC=CC(N(C)C)=C21)CCCCNC)C'
-[01:56:58] Explicit valence for atom # 19 O, 3, is greater than permitted
-[01:56:58] Explicit valence for atom # 7 N, 4, is greater than permitted
-[01:56:58] SMILES Parse Error: extra close parentheses while parsing: O=C(N(C=1C(=CC=CC1C)C)CC)CN(N(C)C)CC)CC
-[01:56:58] SMILES Parse Error: Failed parsing SMILES 'O=C(N(C=1C(=CC=CC1C)C)CC)CN(N(C)C)CC)CC' for input: 'O=C(N(C=1C(=CC=CC1C)C)CC)CN(N(C)C)CC)CC'
-[01:56:58] Explicit valence for atom # 5 C, 5, is greater than permitted
-[01:56:58] SMILES Parse Error: extra close parentheses while parsing: C=1(C(=CC=C(/C=C/C=2N=CC=CN2)C1)C)C)OC
-[01:56:58] SMILES Parse Error: Failed parsing SMILES 'C=1(C(=CC=C(/C=C/C=2N=CC=CN2)C1)C)C)OC' for input: 'C=1(C(=CC=C(/C=C/C=2N=CC=CN2)C1)C)C)OC'
-[01:56:58] SMILES Parse Error: syntax error while parsing: C=1(C(C==C(C(C(=O)CCN(CC)CC)=CC1)C)=O)C
-[01:56:58] SMILES Parse Error: Failed parsing SMILES 'C=1(C(C==C(C(C(=O)CCN(CC)CC)=CC1)C)=O)C' for input: 'C=1(C(C==C(C(C(=O)CCN(CC)CC)=CC1)C)=O)C'
-[01:56:58] SMILES Parse Error: extra close parentheses while parsing: N=1C(=CC=CC1N(C)C)NCCCN2CCC(CC2)CC)CC
-[01:56:58] SMILES Parse Error: Failed parsing SMILES 'N=1C(=CC=CC1N(C)C)NCCCN2CCC(CC2)CC)CC' for input: 'N=1C(=CC=CC1N(C)C)NCCCN2CCC(CC2)CC)CC'
-[01:56:58] SMILES Parse Error: syntax error while parsing: O(C=1C=C(CNC(=N((C)C)C)C)C=CC1)CCN2CCC2
-[01:56:58] SMILES Parse Error: Failed parsing SMILES 'O(C=1C=C(CNC(=N((C)C)C)C)C=CC1)CCN2CCC2' for input: 'O(C=1C=C(CNC(=N((C)C)C)C)C=CC1)CCN2CCC2'
-[01:56:58] SMILES Parse Error: extra close parentheses while parsing: S=C(N1CCC(CC1)C)NC2=C(OC)C=C(OC)C=C2)C
-[01:56:58] SMILES Parse Error: Failed parsing SMILES 'S=C(N1CCC(CC1)C)NC2=C(OC)C=C(OC)C=C2)C' for input: 'S=C(N1CCC(CC1)C)NC2=C(OC)C=C(OC)C=C2)C'
-[01:56:58] SMILES Parse Error: extra close parentheses while parsing: N1(N=C(C(=C1NCC)C=2C=CC=CC2)C)CC)CCNC
-[01:56:58] SMILES Parse Error: Failed parsing SMILES 'N1(N=C(C(=C1NCC)C=2C=CC=CC2)C)CC)CCNC' for input: 'N1(N=C(C(=C1NCC)C=2C=CC=CC2)C)CC)CCNC'
-[01:56:58] SMILES Parse Error: extra close parentheses while parsing: O=C1N(CCOC=2C(=CC=CC2C)C)CN(CCC)CC1)C
-[01:56:58] SMILES Parse Error: Failed parsing SMILES 'O=C1N(CCOC=2C(=CC=CC2C)C)CN(CCC)CC1)C' for input: 'O=C1N(CCOC=2C(=CC=CC2C)C)CN(CCC)CC1)C'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:23<05:58, 23.93s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:46<05:21, 22.99s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:08<04:52, 22.52s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:24<04:00, 20.06s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:50<04:04, 22.20s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:09<03:31, 21.15s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:32<03:15, 21.72s/it][A
-Docking batches:  50%|█████     | 8/16 [02:49<02:42, 20.35s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:09<02:21, 20.18s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:29<01:59, 19.99s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:51<01:43, 20.65s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:06<01:15, 18.90s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:32<01:03, 21.24s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:52<00:41, 20.70s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:13<00:20, 20.77s/it][A
-Docking batches: 100%|██████████| 16/16 [05:38<00:00, 21.95s/it][ADocking batches: 100%|██████████| 16/16 [05:38<00:00, 21.13s/it]
-Calculating properties:  62%|██████▎   | 25/40 [2:38:56<1:44:41, 418.78s/it][02:02:36] SMILES Parse Error: extra close parentheses while parsing: O=C(NC=1C=CC(N(CCC#N)C2=NC=CC=C2)=CC1)CCNC)C
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'O=C(NC=1C=CC(N(CCC#N)C2=NC=CC=C2)=CC1)CCNC)C' for input: 'O=C(NC=1C=CC(N(CCC#N)C2=NC=CC=C2)=CC1)CCNC)C'
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: O(C1=CC(C2=CC(CNC(C)C)=CC=C2)=CN=C1)CC(CO)=O)O
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'O(C1=CC(C2=CC(CNC(C)C)=CC=C2)=CN=C1)CC(CO)=O)O' for input: 'O(C1=CC(C2=CC(CNC(C)C)=CC=C2)=CN=C1)CC(CO)=O)O'
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: S1C(C2=CC=C(C(=O)NCC(C)C)C=C2)=C(C=C1)C(O)=O)CN
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'S1C(C2=CC=C(C(=O)NCC(C)C)C=C2)=C(C=C1)C(O)=O)CN' for input: 'S1C(C2=CC=C(C(=O)NCC(C)C)C=C2)=C(C=C1)C(O)=O)CN'
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: C1=C(C=C(C(=O)NC2=CC=NC(=C2)NCC)C=C1CN)CC)OC
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'C1=C(C=C(C(=O)NC2=CC=NC(=C2)NCC)C=C1CN)CC)OC' for input: 'C1=C(C=C(C(=O)NC2=CC=NC(=C2)NCC)C=C1CN)CC)OC'
-[02:02:36] Explicit valence for atom # 20 O, 3, is greater than permitted
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: S1C(=C(NC(=O)CN(C(=O)C2=C(O)C=CC=C2)C)C=C1)CCC#N)CC
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'S1C(=C(NC(=O)CN(C(=O)C2=C(O)C=CC=C2)C)C=C1)CCC#N)CC' for input: 'S1C(=C(NC(=O)CN(C(=O)C2=C(O)C=CC=C2)C)C=C1)CCC#N)CC'
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: C1=C(C=CC(=C1)NC(CC(C=2C=C(OC)C(=CC2)O)=O)=O)OCC)(C)C
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'C1=C(C=CC(=C1)NC(CC(C=2C=C(OC)C(=CC2)O)=O)=O)OCC)(C)C' for input: 'C1=C(C=CC(=C1)NC(CC(C=2C=C(OC)C(=CC2)O)=O)=O)OCC)(C)C'
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: S1C(=C(NC(=O)C=2C=CC(OC)=CC2)C=C1)C(OCC)=O)NCC
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'S1C(=C(NC(=O)C=2C=CC(OC)=CC2)C=C1)C(OCC)=O)NCC' for input: 'S1C(=C(NC(=O)C=2C=CC(OC)=CC2)C=C1)C(OCC)=O)NCC'
-[02:02:36] Explicit valence for atom # 18 N, 4, is greater than permitted
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: S1C(=C(NC(=O)C2=CC(OCC)=CN=C2)C=C1)C(OC)=O)CC
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'S1C(=C(NC(=O)C2=CC(OCC)=CN=C2)C=C1)C(OC)=O)CC' for input: 'S1C(=C(NC(=O)C2=CC(OCC)=CN=C2)C=C1)C(OC)=O)CC'
-[02:02:36] Explicit valence for atom # 20 O, 3, is greater than permitted
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: S1C(=C(NC(=O)C2=C(OCC)C=CC=C2)C=C1)C(O)=O)CCO
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'S1C(=C(NC(=O)C2=C(OCC)C=CC=C2)C=C1)C(O)=O)CCO' for input: 'S1C(=C(NC(=O)C2=C(OCC)C=CC=C2)C=C1)C(O)=O)CCO'
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: O1N=C(C(=C1C)C(=O)NC(C)(C)C)C2=CC=C(C=C2)CCCOC)=O
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'O1N=C(C(=C1C)C(=O)NC(C)(C)C)C2=CC=C(C=C2)CCCOC)=O' for input: 'O1N=C(C(=C1C)C(=O)NC(C)(C)C)C2=CC=C(C=C2)CCCOC)=O'
-[02:02:36] Explicit valence for atom # 3 C, 5, is greater than permitted
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: C1=C(C=CC(NC2=NC(=NC(=C2)COCC)N)=C1)OCCC)C)C
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'C1=C(C=CC(NC2=NC(=NC(=C2)COCC)N)=C1)OCCC)C)C' for input: 'C1=C(C=CC(NC2=NC(=NC(=C2)COCC)N)=C1)OCCC)C)C'
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: S1C=2C(N=C1NC(=O)CCCC)=CC(=CC2)C(O)=O)COCC
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'S1C=2C(N=C1NC(=O)CCCC)=CC(=CC2)C(O)=O)COCC' for input: 'S1C=2C(N=C1NC(=O)CCCC)=CC(=CC2)C(O)=O)COCC'
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: C=1C(=CC(S(NCC2=CN=C(C=C2)C)(=O)=O)=CC1C)CNCC)C
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'C=1C(=CC(S(NCC2=CN=C(C=C2)C)(=O)=O)=CC1C)CNCC)C' for input: 'C=1C(=CC(S(NCC2=CN=C(C=C2)C)(=O)=O)=CC1C)CNCC)C'
-[02:02:36] SMILES Parse Error: extra close parentheses while parsing: S1C(C=2OC(NC(=O)CCCC)=CC2)=CC=C1C(=O)N)C
-[02:02:36] SMILES Parse Error: Failed parsing SMILES 'S1C(C=2OC(NC(=O)CCCC)=CC2)=CC=C1C(=O)N)C' for input: 'S1C(C=2OC(NC(=O)CCCC)=CC2)=CC=C1C(=O)N)C'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:24<06:04, 24.30s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:49<05:49, 24.98s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:12<05:08, 23.76s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:36<04:47, 23.97s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:59<04:20, 23.66s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:25<04:06, 24.61s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:54<03:53, 25.93s/it][A
-Docking batches:  50%|█████     | 8/16 [03:20<03:26, 25.80s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:47<03:04, 26.33s/it][A
-Docking batches:  62%|██████▎   | 10/16 [04:11<02:33, 25.59s/it][A
-Docking batches:  69%|██████▉   | 11/16 [04:40<02:13, 26.63s/it][A
-Docking batches:  75%|███████▌  | 12/16 [05:09<01:49, 27.37s/it][A
-Docking batches:  81%|████████▏ | 13/16 [05:32<01:17, 25.98s/it][A
-Docking batches:  88%|████████▊ | 14/16 [05:56<00:50, 25.36s/it][A
-Docking batches:  94%|█████████▍| 15/16 [06:28<00:27, 27.31s/it][A
-Docking batches: 100%|██████████| 16/16 [06:52<00:00, 26.57s/it][ADocking batches: 100%|██████████| 16/16 [06:52<00:00, 25.81s/it]
-Calculating properties:  65%|██████▌   | 26/40 [2:45:49<1:37:19, 417.12s/it][02:09:29] SMILES Parse Error: extra close parentheses while parsing: S=C(NC1CC2N(C(C1)CCC2)CC(C)C)NCC)N(C)C
-[02:09:29] SMILES Parse Error: Failed parsing SMILES 'S=C(NC1CC2N(C(C1)CCC2)CC(C)C)NCC)N(C)C' for input: 'S=C(NC1CC2N(C(C1)CCC2)CC(C)C)NCC)N(C)C'
-[02:09:29] SMILES Parse Error: extra close parentheses while parsing: S=C(NC1C2CC(C1)CC2)N3C(CCC3)(CC)C=C)CO
-[02:09:29] SMILES Parse Error: Failed parsing SMILES 'S=C(NC1C2CC(C1)CC2)N3C(CCC3)(CC)C=C)CO' for input: 'S=C(NC1C2CC(C1)CC2)N3C(CCC3)(CC)C=C)CO'
-[02:09:29] SMILES Parse Error: extra close parentheses while parsing: S=C(NC1C2CN(C(C1)CCC2)CC(C)C)NCC)N(C)C
-[02:09:29] SMILES Parse Error: Failed parsing SMILES 'S=C(NC1C2CN(C(C1)CCC2)CC(C)C)NCC)N(C)C' for input: 'S=C(NC1C2CN(C(C1)CCC2)CC(C)C)NCC)N(C)C'
-[02:09:29] SMILES Parse Error: extra close parentheses while parsing: S=C(NC1C2CC3CC(C1)CC(C2)C3)N(C)C=C)C(=O)N(C)C
-[02:09:29] SMILES Parse Error: Failed parsing SMILES 'S=C(NC1C2CC3CC(C1)CC(C2)C3)N(C)C=C)C(=O)N(C)C' for input: 'S=C(NC1C2CC3CC(C1)CC(C2)C3)N(C)C=C)C(=O)N(C)C'
-[02:09:29] SMILES Parse Error: extra close parentheses while parsing: S=C(NC1C2CC(C1)(CC2)C(C)C)NC(C)C)N(C)C
-[02:09:29] SMILES Parse Error: Failed parsing SMILES 'S=C(NC1C2CC(C1)(CC2)C(C)C)NC(C)C)N(C)C' for input: 'S=C(NC1C2CC(C1)(CC2)C(C)C)NC(C)C)N(C)C'
-[02:09:29] Explicit valence for atom # 3 C, 5, is greater than permitted
-[02:09:29] SMILES Parse Error: ring closure 3 duplicates bond between atom 3 and atom 9 for input: 'C1C2CC3(CC(C2)CC1)N3C(N(C)C)=NC(=O)C(C)(C)C'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:21<05:24, 21.63s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:36<04:09, 17.84s/it][A
-Docking batches:  19%|█▉        | 3/16 [00:55<03:54, 18.02s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:14<03:41, 18.46s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:36<03:36, 19.68s/it][A
-Docking batches:  38%|███▊      | 6/16 [01:55<03:15, 19.55s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:11<02:46, 18.48s/it][A
-Docking batches:  50%|█████     | 8/16 [02:30<02:29, 18.68s/it][A
-Docking batches:  56%|█████▋    | 9/16 [02:49<02:11, 18.85s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:06<01:49, 18.23s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:27<01:35, 19.06s/it][A
-Docking batches:  75%|███████▌  | 12/16 [03:46<01:16, 19.06s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:06<00:57, 19.33s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:27<00:39, 19.65s/it][A
-Docking batches:  94%|█████████▍| 15/16 [04:42<00:18, 18.31s/it][A
-Docking batches: 100%|██████████| 16/16 [05:01<00:00, 18.63s/it][ADocking batches: 100%|██████████| 16/16 [05:01<00:00, 18.86s/it]
-Calculating properties:  68%|██████▊   | 27/40 [2:50:51<1:22:53, 382.58s/it][02:14:31] SMILES Parse Error: unclosed ring for input: 'O=C1N(CC=2[C@@](C=3N([C@@H](CC)C(=O)C4CC4)C3)(CCC[C@@H]1O)C)CCCC(O)(C)C'
-[02:14:31] SMILES Parse Error: extra close parentheses while parsing: OC=1N(C(O)=C2C3CC(C21)CC3)C(C)C(O)=O)C4=C(OC)C=CC=C4
-[02:14:31] SMILES Parse Error: Failed parsing SMILES 'OC=1N(C(O)=C2C3CC(C21)CC3)C(C)C(O)=O)C4=C(OC)C=CC=C4' for input: 'OC=1N(C(O)=C2C3CC(C21)CC3)C(C)C(O)=O)C4=C(OC)C=CC=C4'
-[02:14:31] SMILES Parse Error: unclosed ring for input: 'O=C1C2C(C3C(N=C2CC(OC)=O)=CC(CC(C)(C)C)(CC1)C(O)=O)CC'
-[02:14:31] Explicit valence for atom # 15 O, 3, is greater than permitted
-[02:14:31] SMILES Parse Error: extra close parentheses while parsing: O1[C@H](C=2[C@@H](CCC[C@@H](CC)C(=O)C2)CC[C@H]1CC(O)=O)CCCO)C
-[02:14:31] SMILES Parse Error: Failed parsing SMILES 'O1[C@H](C=2[C@@H](CCC[C@@H](CC)C(=O)C2)CC[C@H]1CC(O)=O)CCCO)C' for input: 'O1[C@H](C=2[C@@H](CCC[C@@H](CC)C(=O)C2)CC[C@H]1CC(O)=O)CCCO)C'
-[02:14:31] Explicit valence for atom # 7 C, 5, is greater than permitted
-[02:14:31] Explicit valence for atom # 6 C, 5, is greater than permitted
-[02:14:31] SMILES Parse Error: unclosed ring for input: 'C(COC1[C@@H]2C=C(C[C@H]1C#N)C(N(CC(N(C)C)=O)CCC=3C=CC=CC3)=O)(C)CO'
-[02:14:31] SMILES Parse Error: extra close parentheses while parsing: O1[C@@H](C=2C(CCCC[C@@H](CC)C1=O)=CC=CC2)C(=O)C[C@@H](O)CC(=O)NC)C
-[02:14:31] SMILES Parse Error: Failed parsing SMILES 'O1[C@@H](C=2C(CCCC[C@@H](CC)C1=O)=CC=CC2)C(=O)C[C@@H](O)CC(=O)NC)C' for input: 'O1[C@@H](C=2C(CCCC[C@@H](CC)C1=O)=CC=CC2)C(=O)C[C@@H](O)CC(=O)NC)C'
-[02:14:31] Explicit valence for atom # 17 O, 3, is greater than permitted
-[02:14:31] Explicit valence for atom # 16 N, 4, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:34<08:31, 34.11s/it][A
-Docking batches:  12%|█▎        | 2/16 [01:04<07:28, 32.06s/it][A[02:15:36] Explicit valence for atom # 20 O, 3, is greater than permitted
-
-Docking batches:  19%|█▉        | 3/16 [01:33<06:39, 30.71s/it][A
-Docking batches:  25%|██▌       | 4/16 [02:04<06:10, 30.84s/it][A[02:16:37] Explicit valence for atom # 3 O, 3, is greater than permitted
-
-Docking batches:  31%|███▏      | 5/16 [02:34<05:33, 30.32s/it][A
-Docking batches:  38%|███▊      | 6/16 [03:08<05:15, 31.55s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:43<04:55, 32.81s/it][A[02:18:15] UFFTYPER: Unrecognized atom type: S_5+6 (24)
-[02:18:15] UFFTYPER: Unrecognized atom type: S_5+6 (24)
-
-Docking batches:  50%|█████     | 8/16 [04:16<04:21, 32.70s/it][A
-Docking batches:  56%|█████▋    | 9/16 [04:48<03:49, 32.76s/it][A[02:19:21] UFFTYPER: Unrecognized atom type: S_5+6 (4)
-[02:19:21] UFFTYPER: Unrecognized atom type: S_5+6 (4)
-
-Docking batches:  62%|██████▎   | 10/16 [05:20<03:15, 32.52s/it][A
-Docking batches:  69%|██████▉   | 11/16 [05:49<02:36, 31.40s/it][A
-Docking batches:  75%|███████▌  | 12/16 [06:27<02:13, 33.28s/it][A
-Docking batches:  81%|████████▏ | 13/16 [07:05<01:44, 34.89s/it][A
-Docking batches:  88%|████████▊ | 14/16 [07:39<01:08, 34.33s/it][A
-Docking batches:  94%|█████████▍| 15/16 [08:13<00:34, 34.51s/it][A
-Docking batches: 100%|██████████| 16/16 [08:47<00:00, 34.33s/it][ADocking batches: 100%|██████████| 16/16 [08:47<00:00, 32.99s/it]
-Calculating properties:  70%|███████   | 28/40 [2:59:39<1:25:15, 426.26s/it][02:23:19] SMILES Parse Error: extra close parentheses while parsing: S1C(=C(N=C1COC=2C=C(C=CC2)C)C)CCCCC)O
-[02:23:19] SMILES Parse Error: Failed parsing SMILES 'S1C(=C(N=C1COC=2C=C(C=CC2)C)C)CCCCC)O' for input: 'S1C(=C(N=C1COC=2C=C(C=CC2)C)C)CCCCC)O'
-[02:23:19] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(SC=2C=CC=CC2OC)=CC1CCC)C#N)CC
-[02:23:19] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(SC=2C=CC=CC2OC)=CC1CCC)C#N)CC' for input: 'C=1(C=CC(SC=2C=CC=CC2OC)=CC1CCC)C#N)CC'
-[02:23:19] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(SC2=C(C=C(C=C2)Cl)Cl)=C(C1)O)CCCNC)C
-[02:23:19] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(SC2=C(C=C(C=C2)Cl)Cl)=C(C1)O)CCCNC)C' for input: 'C=1(C=CC(SC2=C(C=C(C=C2)Cl)Cl)=C(C1)O)CCCNC)C'
-[02:23:20] SMILES Parse Error: extra close parentheses while parsing: C=1(C=CC(OC=2C=CCOC2CCC)=CC1CCC)C#N)CC
-[02:23:20] SMILES Parse Error: Failed parsing SMILES 'C=1(C=CC(OC=2C=CCOC2CCC)=CC1CCC)C#N)CC' for input: 'C=1(C=CC(OC=2C=CCOC2CCC)=CC1CCC)C#N)CC'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:26<06:31, 26.08s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:51<05:58, 25.57s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:17<05:36, 25.88s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:43<05:08, 25.72s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:14<05:03, 27.63s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:41<04:34, 27.44s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:07<04:03, 27.09s/it][A
-Docking batches:  50%|█████     | 8/16 [03:29<03:24, 25.55s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:56<03:02, 26.01s/it][A
-Docking batches:  62%|██████▎   | 10/16 [04:23<02:37, 26.31s/it][A
-Docking batches:  69%|██████▉   | 11/16 [04:52<02:15, 27.16s/it][A
-Docking batches:  75%|███████▌  | 12/16 [05:15<01:43, 25.84s/it][A
-Docking batches:  81%|████████▏ | 13/16 [05:40<01:16, 25.52s/it][A
-Docking batches:  88%|████████▊ | 14/16 [06:02<00:49, 24.60s/it][A
-Docking batches:  94%|█████████▍| 15/16 [06:27<00:24, 24.61s/it][A
-Docking batches: 100%|██████████| 16/16 [06:55<00:00, 25.68s/it][ADocking batches: 100%|██████████| 16/16 [06:55<00:00, 25.98s/it]
-Calculating properties:  72%|███████▎  | 29/40 [3:06:35<1:17:35, 423.19s/it][02:30:15] Explicit valence for atom # 25 O, 3, is greater than permitted
-[02:30:15] SMILES Parse Error: extra close parentheses while parsing: C1(NC=2C=CC(OCCCCCCCC)=CC2C(=C1)C(=O)O)=O)=O
-[02:30:15] SMILES Parse Error: Failed parsing SMILES 'C1(NC=2C=CC(OCCCCCCCC)=CC2C(=C1)C(=O)O)=O)=O' for input: 'C1(NC=2C=CC(OCCCCCCCC)=CC2C(=C1)C(=O)O)=O)=O'
-[02:30:15] SMILES Parse Error: extra close parentheses while parsing: C1(=CC(C(C)(C)C)=NN1C)NC(NC=2C=CC(=CC2)CCCCC)=O)=O
-[02:30:15] SMILES Parse Error: Failed parsing SMILES 'C1(=CC(C(C)(C)C)=NN1C)NC(NC=2C=CC(=CC2)CCCCC)=O)=O' for input: 'C1(=CC(C(C)(C)C)=NN1C)NC(NC=2C=CC(=CC2)CCCCC)=O)=O'
-[02:30:15] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(CCC(O)=O)C(Cl)=C1)C=2C=CC=CC2Cl)C(O)=O)Cl
-[02:30:15] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(CCC(O)=O)C(Cl)=C1)C=2C=CC=CC2Cl)C(O)=O)Cl' for input: 'C1(=C(NC(CCC(O)=O)C(Cl)=C1)C=2C=CC=CC2Cl)C(O)=O)Cl'
-[02:30:15] SMILES Parse Error: unclosed ring for input: 'C=1(OC2=CC=C(C(O)=O)C=C2Cl)C=C(Cl)C(C(O)=O)OCCCC'
-[02:30:15] Explicit valence for atom # 12 O, 3, is greater than permitted
-[02:30:15] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(CCCC)=O)C=CC(OC2=CC=C(C=C2)CC)=C1)C(=O)O)CCO
-[02:30:15] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(CCCC)=O)C=CC(OC2=CC=C(C=C2)CC)=C1)C(=O)O)CCO' for input: 'C1(=C(NC(CCCC)=O)C=CC(OC2=CC=C(C=C2)CC)=C1)C(=O)O)CCO'
-[02:30:15] SMILES Parse Error: extra close parentheses while parsing: C=1(OCC=2C=CC(OCCCCCCC)=CC2)C(=C(C(=C(C1)C)O)C)C(=O)O)O
-[02:30:15] SMILES Parse Error: Failed parsing SMILES 'C=1(OCC=2C=CC(OCCCCCCC)=CC2)C(=C(C(=C(C1)C)O)C)C(=O)O)O' for input: 'C=1(OCC=2C=CC(OCCCCCCC)=CC2)C(=C(C(=C(C1)C)O)C)C(=O)O)O'
-[02:30:15] Explicit valence for atom # 22 O, 3, is greater than permitted
-[02:30:16] SMILES Parse Error: extra close parentheses while parsing: C1(=C(NC(CCC(C)C)=O)C=CC(OC2=C(C=CC=C2)Cl)=C1)C(=O)O)O
-[02:30:16] SMILES Parse Error: Failed parsing SMILES 'C1(=C(NC(CCC(C)C)=O)C=CC(OC2=C(C=CC=C2)Cl)=C1)C(=O)O)O' for input: 'C1(=C(NC(CCC(C)C)=O)C=CC(OC2=C(C=CC=C2)Cl)=C1)C(=O)O)O'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:31<07:49, 31.32s/it][A
-Docking batches:  12%|█▎        | 2/16 [01:03<07:27, 31.96s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:33<06:42, 30.98s/it][A
-Docking batches:  25%|██▌       | 4/16 [02:02<06:00, 30.07s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:36<05:46, 31.49s/it][A
-Docking batches:  38%|███▊      | 6/16 [03:05<05:07, 30.80s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:41<04:51, 32.41s/it][A
-Docking batches:  50%|█████     | 8/16 [04:10<04:10, 31.25s/it][A
-Docking batches:  56%|█████▋    | 9/16 [04:40<03:36, 30.89s/it][A
-Docking batches:  62%|██████▎   | 10/16 [05:08<03:00, 30.04s/it][A
-Docking batches:  69%|██████▉   | 11/16 [05:40<02:33, 30.77s/it][A
-Docking batches:  75%|███████▌  | 12/16 [06:10<02:01, 30.35s/it][A
-Docking batches:  81%|████████▏ | 13/16 [06:44<01:34, 31.44s/it][A
-Docking batches:  88%|████████▊ | 14/16 [07:13<01:01, 30.93s/it][A
-Docking batches:  94%|█████████▍| 15/16 [07:46<00:31, 31.46s/it][A
-Docking batches: 100%|██████████| 16/16 [08:17<00:00, 31.38s/it][ADocking batches: 100%|██████████| 16/16 [08:17<00:00, 31.11s/it]
-Calculating properties:  75%|███████▌  | 30/40 [3:14:53<1:14:16, 445.66s/it][02:38:33] Explicit valence for atom # 3 N, 4, is greater than permitted
-[02:38:33] Explicit valence for atom # 1 C, 5, is greater than permitted
-[02:38:34] SMILES Parse Error: extra close parentheses while parsing: S1CC(N(CCC2(CC(OCC2)(C)C)C(C)C)C(C)C)C(=C1)C)C(=O)C
-[02:38:34] SMILES Parse Error: Failed parsing SMILES 'S1CC(N(CCC2(CC(OCC2)(C)C)C(C)C)C(C)C)C(=C1)C)C(=O)C' for input: 'S1CC(N(CCC2(CC(OCC2)(C)C)C(C)C)C(C)C)C(=C1)C)C(=O)C'
-[02:38:34] SMILES Parse Error: unclosed ring for input: 'N(C1C[C@H]2CC[C@H]([C@H]2CC1)CCCC)C(=C(C=C2)C)C#N'
-[02:38:34] Explicit valence for atom # 1 C, 5, is greater than permitted
-[02:38:34] Explicit valence for atom # 1 C, 5, is greater than permitted
-[02:38:34] Explicit valence for atom # 3 C, 5, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:24<06:05, 24.35s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:52<06:13, 26.66s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:20<05:51, 27.04s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:48<05:29, 27.47s/it][A[02:40:22] UFFTYPER: Unrecognized atom type: S_5+4 (2)
-
-Docking batches:  31%|███▏      | 5/16 [02:14<04:58, 27.14s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:43<04:35, 27.59s/it][A[02:41:17] UFFTYPER: Unrecognized atom type: S_5+4 (3)
-
-Docking batches:  44%|████▍     | 7/16 [03:09<04:05, 27.30s/it][A
-Docking batches:  50%|█████     | 8/16 [03:36<03:36, 27.03s/it][A
-Docking batches:  56%|█████▋    | 9/16 [04:00<03:03, 26.16s/it][A
-Docking batches:  62%|██████▎   | 10/16 [04:27<02:37, 26.32s/it][A
-Docking batches:  69%|██████▉   | 11/16 [04:53<02:10, 26.17s/it][A
-Docking batches:  75%|███████▌  | 12/16 [05:17<01:42, 25.71s/it][A
-Docking batches:  81%|████████▏ | 13/16 [05:46<01:19, 26.53s/it][A[02:44:20] UFFTYPER: Unrecognized atom type: S_5+4 (10)
-
-Docking batches:  88%|████████▊ | 14/16 [06:13<00:53, 26.87s/it][A[02:44:48] UFFTYPER: Unrecognized atom type: S_5+4 (4)
-[02:44:48] UFFTYPER: Unrecognized atom type: S_5+4 (20)
-
-Docking batches:  94%|█████████▍| 15/16 [06:43<00:27, 27.77s/it][A
-Docking batches: 100%|██████████| 16/16 [07:08<00:00, 26.82s/it][ADocking batches: 100%|██████████| 16/16 [07:08<00:00, 26.77s/it]
-Calculating properties:  78%|███████▊  | 31/40 [3:22:02<1:06:05, 440.58s/it][02:45:42] SMILES Parse Error: unclosed ring for input: 'S(C1=NC(=C(C(C1C#N)C2=CC=CN=C2)C(=C1C#N)C(F)(F)F)C)C3=CC=CN=C3'
-[02:45:42] SMILES Parse Error: extra close parentheses while parsing: N1=C(SC=2C1=C(C)SC2C3=NC(=C(S3)C)CCC)NC4CCCS(C4)(=O)=O)CCO
-[02:45:42] SMILES Parse Error: Failed parsing SMILES 'N1=C(SC=2C1=C(C)SC2C3=NC(=C(S3)C)CCC)NC4CCCS(C4)(=O)=O)CCO' for input: 'N1=C(SC=2C1=C(C)SC2C3=NC(=C(S3)C)CCC)NC4CCCS(C4)(=O)=O)CCO'
-[02:45:42] Explicit valence for atom # 15 C, 6, is greater than permitted
-[02:45:42] Explicit valence for atom # 20 C, 5, is greater than permitted
-[02:45:42] Explicit valence for atom # 9 O, 3, is greater than permitted
-[02:45:42] SMILES Parse Error: extra close parentheses while parsing: N1=C(SC=2C1=C(C)N(C(=N)C2C#N)C3CCCCC3)C(CC(C)(C)C)CCC)=O
-[02:45:42] SMILES Parse Error: Failed parsing SMILES 'N1=C(SC=2C1=C(C)N(C(=N)C2C#N)C3CCCCC3)C(CC(C)(C)C)CCC)=O' for input: 'N1=C(SC=2C1=C(C)N(C(=N)C2C#N)C3CCCCC3)C(CC(C)(C)C)CCC)=O'
-[02:45:42] SMILES Parse Error: unclosed ring for input: 'S1C(C2C=3C(N=C(C2C(=O)N4C5CCCCC5)CCCC3C#N)=C(SC)N)=CC=C1'
-[02:45:42] SMILES Parse Error: unclosed ring for input: 'S1C=2C(N=C1N)=C(C(C2C3=CC=CN=C3)C#N)C(CC(C)(C)C)C4CC4CC4'
-[02:45:43] SMILES Parse Error: unclosed ring for input: 'S1C(C2C=3C(N(C(=N)C2C#N)C4=CC=CC=C4)=C(CCC34)C(O)CC)=C(C=C1)C'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:30<07:33, 30.26s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:57<06:37, 28.41s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:29<06:30, 30.06s/it][A[02:47:45] Explicit valence for atom # 26 C, 5, is greater than permitted
-
-Docking batches:  25%|██▌       | 4/16 [02:16<07:22, 36.84s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:50<06:33, 35.81s/it][A
-Docking batches:  38%|███▊      | 6/16 [03:26<05:57, 35.77s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:59<05:13, 34.85s/it][A
-Docking batches:  50%|█████     | 8/16 [04:28<04:25, 33.13s/it][A
-Docking batches:  56%|█████▋    | 9/16 [05:00<03:48, 32.58s/it][A
-Docking batches:  62%|██████▎   | 10/16 [05:33<03:16, 32.74s/it][A
-Docking batches:  69%|██████▉   | 11/16 [06:07<02:45, 33.08s/it][A
-Docking batches:  75%|███████▌  | 12/16 [06:40<02:12, 33.08s/it][A
-Docking batches:  81%|████████▏ | 13/16 [07:12<01:38, 32.84s/it][A
-Docking batches:  88%|████████▊ | 14/16 [07:45<01:05, 32.93s/it][A
-Docking batches:  94%|█████████▍| 15/16 [08:24<00:34, 34.84s/it][A
-Docking batches: 100%|██████████| 16/16 [08:53<00:00, 32.86s/it][ADocking batches: 100%|██████████| 16/16 [08:53<00:00, 33.32s/it]
-Calculating properties:  80%|████████  | 32/40 [3:30:55<1:02:27, 468.43s/it][02:54:36] SMILES Parse Error: extra close parentheses while parsing: O(C1=CC(CN(CCN(C)C)CC)=CC(=C1C)CC)CC)CO
-[02:54:36] SMILES Parse Error: Failed parsing SMILES 'O(C1=CC(CN(CCN(C)C)CC)=CC(=C1C)CC)CC)CO' for input: 'O(C1=CC(CN(CCN(C)C)CC)=CC(=C1C)CC)CC)CO'
-[02:54:36] SMILES Parse Error: extra close parentheses while parsing: C1=CN=C(C(=C1CN(CCC)CCC)C)OCCC)O2CC2
-[02:54:36] SMILES Parse Error: Failed parsing SMILES 'C1=CN=C(C(=C1CN(CCC)CCC)C)OCCC)O2CC2' for input: 'C1=CN=C(C(=C1CN(CCC)CCC)C)OCCC)O2CC2'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:23<05:51, 23.45s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:42<04:56, 21.15s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:04<04:35, 21.18s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:27<04:25, 22.11s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:48<03:56, 21.46s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:09<03:33, 21.39s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:24<02:55, 19.50s/it][A
-Docking batches:  50%|█████     | 8/16 [02:47<02:42, 20.33s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:07<02:23, 20.46s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:28<02:03, 20.52s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:48<01:42, 20.45s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:08<01:20, 20.22s/it][A[02:58:45] UFFTYPER: Unrecognized atom type: S_5+4 (10)
-
-Docking batches:  81%|████████▏ | 13/16 [04:33<01:05, 21.76s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:57<00:44, 22.27s/it][A
-Docking batches:  94%|█████████▍| 15/16 [05:16<00:21, 21.32s/it][A
-Docking batches: 100%|██████████| 16/16 [05:41<00:00, 22.35s/it][ADocking batches: 100%|██████████| 16/16 [05:41<00:00, 21.31s/it]
-Calculating properties:  82%|████████▎ | 33/40 [3:36:37<50:12, 430.29s/it]  [03:00:17] Explicit valence for atom # 20 O, 3, is greater than permitted
-[03:00:17] SMILES Parse Error: extra close parentheses while parsing: C1(OCC(=O)O)=C(OCC)C=C(C(=C1Cl)Cl)C(O)=O)OCC
-[03:00:17] SMILES Parse Error: Failed parsing SMILES 'C1(OCC(=O)O)=C(OCC)C=C(C(=C1Cl)Cl)C(O)=O)OCC' for input: 'C1(OCC(=O)O)=C(OCC)C=C(C(=C1Cl)Cl)C(O)=O)OCC'
-[03:00:17] Explicit valence for atom # 19 O, 3, is greater than permitted
-[03:00:17] Explicit valence for atom # 21 O, 3, is greater than permitted
-[03:00:17] SMILES Parse Error: extra close parentheses while parsing: P(OCC1=CC=CC=C1)(OCC(=O)O)(O)=O)CC
-[03:00:17] SMILES Parse Error: Failed parsing SMILES 'P(OCC1=CC=CC=C1)(OCC(=O)O)(O)=O)CC' for input: 'P(OCC1=CC=CC=C1)(OCC(=O)O)(O)=O)CC'
-[03:00:17] SMILES Parse Error: extra close parentheses while parsing: P(OCC1=CC=CC=C1)(OCC(=O)O)(O)=O)CCC
-[03:00:17] SMILES Parse Error: Failed parsing SMILES 'P(OCC1=CC=CC=C1)(OCC(=O)O)(O)=O)CCC' for input: 'P(OCC1=CC=CC=C1)(OCC(=O)O)(O)=O)CCC'
-[03:00:17] SMILES Parse Error: extra close parentheses while parsing: C1(OCC(C(=O)O)(CCC)CCCCO)=CC=C1CCO)C
-[03:00:17] SMILES Parse Error: Failed parsing SMILES 'C1(OCC(C(=O)O)(CCC)CCCCO)=CC=C1CCO)C' for input: 'C1(OCC(C(=O)O)(CCC)CCCCO)=CC=C1CCO)C'
-[03:00:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C(=C1OCC(C(=O)O)O)CC)OCC)OCC)CC)C
-[03:00:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C(=C1OCC(C(=O)O)O)CC)OCC)OCC)CC)C' for input: 'C1(=C(C=C(C(=C1OCC(C(=O)O)O)CC)OCC)OCC)CC)C'
-[03:00:17] SMILES Parse Error: extra close parentheses while parsing: ClC1=C(NC(OCCNC(OC(C)C)=O)=C1)C(=O)OCC)CC
-[03:00:17] SMILES Parse Error: Failed parsing SMILES 'ClC1=C(NC(OCCNC(OC(C)C)=O)=C1)C(=O)OCC)CC' for input: 'ClC1=C(NC(OCCNC(OC(C)C)=O)=C1)C(=O)OCC)CC'
-[03:00:17] Explicit valence for atom # 19 O, 3, is greater than permitted
-[03:00:17] SMILES Parse Error: extra close parentheses while parsing: O1C(CCCC)=CC(=C1CC(=O)O)CCC(=O)O)CC
-[03:00:17] SMILES Parse Error: Failed parsing SMILES 'O1C(CCCC)=CC(=C1CC(=O)O)CCC(=O)O)CC' for input: 'O1C(CCCC)=CC(=C1CC(=O)O)CCC(=O)O)CC'
-[03:00:17] Explicit valence for atom # 21 O, 3, is greater than permitted
-[03:00:17] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=CC(=C1Br)NC(CCC)=O)OCC)C(O)=O)O
-[03:00:17] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=CC(=C1Br)NC(CCC)=O)OCC)C(O)=O)O' for input: 'C1(=C(C=CC(=C1Br)NC(CCC)=O)OCC)C(O)=O)O'
-[03:00:17] Explicit valence for atom # 21 O, 3, is greater than permitted
-[03:00:17] Explicit valence for atom # 21 O, 3, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:39<09:50, 39.35s/it][A
-Docking batches:  12%|█▎        | 2/16 [01:11<08:13, 35.28s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:40<07:00, 32.34s/it][A
-Docking batches:  25%|██▌       | 4/16 [02:17<06:50, 34.25s/it][A[03:02:35] UFFTYPER: Unrecognized charge state for atom: 3
-[03:02:35] UFFTYPER: Unrecognized charge state for atom: 3
-[03:02:35] UFFTYPER: Unrecognized charge state for atom: 3
-
-Docking batches:  31%|███▏      | 5/16 [02:50<06:09, 33.63s/it][A
-Docking batches:  38%|███▊      | 6/16 [03:17<05:14, 31.46s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:48<04:40, 31.14s/it][A
-Docking batches:  50%|█████     | 8/16 [04:21<04:14, 31.76s/it][A
-Docking batches:  56%|█████▋    | 9/16 [04:50<03:37, 31.07s/it][A
-Docking batches:  62%|██████▎   | 10/16 [05:22<03:07, 31.33s/it][A
-Docking batches:  69%|██████▉   | 11/16 [05:54<02:37, 31.47s/it][A
-Docking batches:  75%|███████▌  | 12/16 [06:25<02:05, 31.33s/it][A
-Docking batches:  81%|████████▏ | 13/16 [06:56<01:34, 31.37s/it][A
-Docking batches:  88%|████████▊ | 14/16 [07:28<01:03, 31.53s/it][A
-Docking batches:  94%|█████████▍| 15/16 [08:07<00:33, 33.66s/it][A
-Docking batches: 100%|██████████| 16/16 [08:38<00:00, 32.84s/it][ADocking batches: 100%|██████████| 16/16 [08:38<00:00, 32.39s/it]
-Calculating properties:  85%|████████▌ | 34/40 [3:45:15<45:40, 456.77s/it][03:08:55] SMILES Parse Error: extra close parentheses while parsing: O(C1C(CCC=C1C)CCC)C[C@H]2NC[C@H](C2)CC)C=C
-[03:08:55] SMILES Parse Error: Failed parsing SMILES 'O(C1C(CCC=C1C)CCC)C[C@H]2NC[C@H](C2)CC)C=C' for input: 'O(C1C(CCC=C1C)CCC)C[C@H]2NC[C@H](C2)CC)C=C'
-[03:08:56] SMILES Parse Error: unclosed ring for input: 'BrC=C(C2N=C(SCC)NCC2C1CCC)CNC'
-[03:08:56] Explicit valence for atom # 9 C, 5, is greater than permitted
-[03:08:56] Explicit valence for atom # 3 C, 5, is greater than permitted
-[03:08:56] Explicit valence for atom # 4 N, 4, is greater than permitted
-[03:08:56] SMILES Parse Error: extra close parentheses while parsing: S=C(N(C1CC2N(C(C1)CCC2)CC(C)C)C)NCCC)N
-[03:08:56] SMILES Parse Error: Failed parsing SMILES 'S=C(N(C1CC2N(C(C1)CCC2)CC(C)C)C)NCCC)N' for input: 'S=C(N(C1CC2N(C(C1)CCC2)CC(C)C)C)NCCC)N'
-[03:08:56] SMILES Parse Error: extra close parentheses while parsing: C1C2CC3CC(C2)CC1C3)C(C(=N)N(CCC)CCNC
-[03:08:56] SMILES Parse Error: Failed parsing SMILES 'C1C2CC3CC(C2)CC1C3)C(C(=N)N(CCC)CCNC' for input: 'C1C2CC3CC(C2)CC1C3)C(C(=N)N(CCC)CCNC'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:17<04:26, 17.75s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:37<04:22, 18.77s/it][A
-Docking batches:  19%|█▉        | 3/16 [00:55<03:59, 18.42s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:13<03:38, 18.18s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:34<03:32, 19.28s/it][A
-Docking batches:  38%|███▊      | 6/16 [01:53<03:12, 19.26s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:12<02:51, 19.02s/it][A
-Docking batches:  50%|█████     | 8/16 [02:28<02:26, 18.28s/it][A
-Docking batches:  56%|█████▋    | 9/16 [02:47<02:09, 18.54s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:09<01:56, 19.35s/it][A
-Docking batches:  69%|██████▉   | 11/16 [03:28<01:37, 19.42s/it][A
-Docking batches:  75%|███████▌  | 12/16 [03:52<01:23, 20.82s/it][A
-Docking batches:  81%|████████▏ | 13/16 [04:14<01:03, 21.28s/it][A
-Docking batches:  88%|████████▊ | 14/16 [04:34<00:41, 20.75s/it][A
-Docking batches:  94%|█████████▍| 15/16 [04:52<00:20, 20.04s/it][A
-Docking batches: 100%|██████████| 16/16 [05:11<00:00, 19.52s/it][ADocking batches: 100%|██████████| 16/16 [05:11<00:00, 19.45s/it]
-Calculating properties:  88%|████████▊ | 35/40 [3:50:27<34:25, 413.17s/it][03:14:07] SMILES Parse Error: unclosed ring for input: 'C1(OC[C@@H]2[C@H](OC[C@@H](C2)CO)CC(C)(C)C)=CC(=O)O[C@H](C(C)C)O'
-[03:14:07] SMILES Parse Error: unclosed ring for input: 'O=C1C(=NC=2C=COC2)C(N(CC(C)C)C(C(=C(C2C1)C)C#N)C)C(=O)C'
-[03:14:07] Explicit valence for atom # 21 O, 3, is greater than permitted
-[03:14:07] Explicit valence for atom # 2 C, 5, is greater than permitted
-[03:14:07] Explicit valence for atom # 22 O, 3, is greater than permitted
-[03:14:07] Explicit valence for atom # 5 C, 5, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:25<06:24, 25.62s/it][A
-Docking batches:  12%|█▎        | 2/16 [01:01<07:26, 31.86s/it][A[03:15:09] UFFTYPER: Unrecognized atom type: S_5+6 (9)
-[03:15:09] UFFTYPER: Unrecognized atom type: S_5+6 (9)
-
-Docking batches:  19%|█▉        | 3/16 [01:24<05:59, 27.66s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:58<06:00, 30.05s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:27<05:29, 29.92s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:58<05:01, 30.11s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:25<04:21, 29.11s/it][A
-Docking batches:  50%|█████     | 8/16 [03:53<03:50, 28.82s/it][A
-Docking batches:  56%|█████▋    | 9/16 [04:19<03:15, 27.95s/it][A
-Docking batches:  62%|██████▎   | 10/16 [04:52<02:56, 29.35s/it][A
-Docking batches:  69%|██████▉   | 11/16 [05:16<02:18, 27.78s/it][A
-Docking batches:  75%|███████▌  | 12/16 [05:43<01:50, 27.67s/it][A
-Docking batches:  81%|████████▏ | 13/16 [06:10<01:22, 27.44s/it][A
-Docking batches:  88%|████████▊ | 14/16 [06:38<00:54, 27.47s/it][A
-Docking batches:  94%|█████████▍| 15/16 [07:02<00:26, 26.58s/it][A
-Docking batches: 100%|██████████| 16/16 [07:30<00:00, 26.84s/it][ADocking batches: 100%|██████████| 16/16 [07:30<00:00, 28.14s/it]
-Calculating properties:  90%|█████████ | 36/40 [3:57:57<28:17, 424.41s/it][03:21:38] SMILES Parse Error: extra close parentheses while parsing: S1C(=C(N=C1C)C=2C=CC(OC)=CC2)CCCCCO)CC
-[03:21:38] SMILES Parse Error: Failed parsing SMILES 'S1C(=C(N=C1C)C=2C=CC(OC)=CC2)CCCCCO)CC' for input: 'S1C(=C(N=C1C)C=2C=CC(OC)=CC2)CCCCCO)CC'
-[03:21:38] Explicit valence for atom # 12 O, 3, is greater than permitted
-[03:21:38] Explicit valence for atom # 18 C, 5, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:21<05:25, 21.67s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:46<05:28, 23.48s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:06<04:46, 22.02s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:29<04:28, 22.41s/it][A
-Docking batches:  31%|███▏      | 5/16 [01:53<04:12, 22.96s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:22<04:10, 25.10s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:45<03:38, 24.31s/it][A
-Docking batches:  50%|█████     | 8/16 [03:07<03:08, 23.54s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:31<02:45, 23.58s/it][A
-Docking batches:  62%|██████▎   | 10/16 [03:58<02:29, 24.85s/it][A
-Docking batches:  69%|██████▉   | 11/16 [04:21<02:01, 24.30s/it][A
-Docking batches:  75%|███████▌  | 12/16 [04:46<01:38, 24.51s/it][A
-Docking batches:  81%|████████▏ | 13/16 [05:13<01:15, 25.10s/it][A
-Docking batches:  88%|████████▊ | 14/16 [05:38<00:50, 25.26s/it][A
-Docking batches:  94%|█████████▍| 15/16 [06:02<00:24, 24.80s/it][A
-Docking batches: 100%|██████████| 16/16 [06:27<00:00, 24.93s/it][ADocking batches: 100%|██████████| 16/16 [06:27<00:00, 24.24s/it]
-Calculating properties:  92%|█████████▎| 37/40 [4:04:26<20:40, 413.55s/it][03:28:06] Explicit valence for atom # 20 O, 3, is greater than permitted
-[03:28:06] SMILES Parse Error: unclosed ring for input: 'C1(=C(C=C(NC(OC(C)C)=O)C(=C1)OCC)C(=O)OCC)C=C(Cl)C=C2C'
-[03:28:06] SMILES Parse Error: extra close parentheses while parsing: C(C=1C(=C(C(=C(C1)OC)OC)C=2C=CC=C(C2)CCC)OCCC)(=O)O)CCO
-[03:28:06] SMILES Parse Error: Failed parsing SMILES 'C(C=1C(=C(C(=C(C1)OC)OC)C=2C=CC=C(C2)CCC)OCCC)(=O)O)CCO' for input: 'C(C=1C(=C(C(=C(C1)OC)OC)C=2C=CC=C(C2)CCC)OCCC)(=O)O)CCO'
-[03:28:06] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(S1)C(=O)O)C=2C=CC(=CC2)CCCCCC)C(=O)O)O
-[03:28:06] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(S1)C(=O)O)C=2C=CC(=CC2)CCCCCC)C(=O)O)O' for input: 'C1(=C(C=C(S1)C(=O)O)C=2C=CC(=CC2)CCCCCC)C(=O)O)O'
-[03:28:06] Explicit valence for atom # 2 C, 5, is greater than permitted
-[03:28:06] SMILES Parse Error: extra close parentheses while parsing: C(NC=1C=COC1C)(NC=2C(=C(C(=CC2)Cl)OCCC)OCC)=O)=O
-[03:28:06] SMILES Parse Error: Failed parsing SMILES 'C(NC=1C=COC1C)(NC=2C(=C(C(=CC2)Cl)OCCC)OCC)=O)=O' for input: 'C(NC=1C=COC1C)(NC=2C(=C(C(=CC2)Cl)OCCC)OCC)=O)=O'
-[03:28:06] SMILES Parse Error: extra close parentheses while parsing: C1(=C(C=C(C=C1Cl)NC(CCCC)=O)Cl)OCC(O)=O)C(C)CCCO
-[03:28:06] SMILES Parse Error: Failed parsing SMILES 'C1(=C(C=C(C=C1Cl)NC(CCCC)=O)Cl)OCC(O)=O)C(C)CCCO' for input: 'C1(=C(C=C(C=C1Cl)NC(CCCC)=O)Cl)OCC(O)=O)C(C)CCCO'
-[03:28:06] SMILES Parse Error: extra close parentheses while parsing: O(C1=C(NC(OCC)=O)C=C(CC)C=C1)CC(=O)O)CCCCC
-[03:28:06] SMILES Parse Error: Failed parsing SMILES 'O(C1=C(NC(OCC)=O)C=C(CC)C=C1)CC(=O)O)CCCCC' for input: 'O(C1=C(NC(OCC)=O)C=C(CC)C=C1)CC(=O)O)CCCCC'
-[03:28:06] Explicit valence for atom # 24 O, 3, is greater than permitted
-[03:28:06] SMILES Parse Error: extra close parentheses while parsing: N(CC1=CC(OCCCCCC)=CC=C1)C(=O)OC(C)C(=O)O)CCC
-[03:28:06] SMILES Parse Error: Failed parsing SMILES 'N(CC1=CC(OCCCCCC)=CC=C1)C(=O)OC(C)C(=O)O)CCC' for input: 'N(CC1=CC(OCCCCCC)=CC=C1)C(=O)OC(C)C(=O)O)CCC'
-[03:28:06] SMILES Parse Error: unclosed ring for input: 'C1(=C(NC(=O)C(=C(CCC)CCC)C=C1)C(O)=O)C=C(OCC)C=C2OC'
-[03:28:06] Explicit valence for atom # 21 Cl, 2, is greater than permitted
-[03:28:06] SMILES Parse Error: unclosed ring for input: 'P(OCC2=CC=CC=C2)(OCC1)(OCC3=CC=CC=C3)(=O)OCC(=O)O'
-[03:28:06] Explicit valence for atom # 2 C, 5, is greater than permitted
-[03:28:06] SMILES Parse Error: extra close parentheses while parsing: P(OCC1=CC=CC=C1)(OCC2=CC=CC=C2)(=O)(=O)O)CCCO
-[03:28:06] SMILES Parse Error: Failed parsing SMILES 'P(OCC1=CC=CC=C1)(OCC2=CC=CC=C2)(=O)(=O)O)CCCO' for input: 'P(OCC1=CC=CC=C1)(OCC2=CC=CC=C2)(=O)(=O)O)CCCO'
-[03:28:06] Explicit valence for atom # 19 O, 3, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:35<08:54, 35.61s/it][A
-Docking batches:  12%|█▎        | 2/16 [01:04<07:25, 31.80s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:44<07:41, 35.49s/it][A[03:29:51] Explicit valence for atom # 17 O, 3, is greater than permitted
-
-Docking batches:  25%|██▌       | 4/16 [02:16<06:48, 34.01s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:52<06:21, 34.71s/it][A
-Docking batches:  38%|███▊      | 6/16 [03:24<05:38, 33.82s/it][A
-Docking batches:  44%|████▍     | 7/16 [04:01<05:14, 34.97s/it][A
-Docking batches:  50%|█████     | 8/16 [04:32<04:29, 33.73s/it][A
-Docking batches:  56%|█████▋    | 9/16 [05:01<03:46, 32.30s/it][A
-Docking batches:  62%|██████▎   | 10/16 [05:38<03:21, 33.63s/it][A[03:33:45] UFFTYPER: Unrecognized charge state for atom: 6
-[03:33:45] UFFTYPER: Unrecognized charge state for atom: 6
-[03:33:45] UFFTYPER: Unrecognized charge state for atom: 6
-
-Docking batches:  69%|██████▉   | 11/16 [06:12<02:48, 33.76s/it][A
-Docking batches:  75%|███████▌  | 12/16 [06:44<02:12, 33.03s/it][A
-Docking batches:  81%|████████▏ | 13/16 [07:17<01:39, 33.22s/it][A
-Docking batches:  88%|████████▊ | 14/16 [07:55<01:09, 34.61s/it][A
-Docking batches:  94%|█████████▍| 15/16 [08:28<00:34, 34.27s/it][A
-Docking batches: 100%|██████████| 16/16 [09:10<00:00, 36.60s/it][ADocking batches: 100%|██████████| 16/16 [09:10<00:00, 34.44s/it]
-Calculating properties:  95%|█████████▌| 38/40 [4:13:37<15:09, 454.89s/it][03:37:17] Explicit valence for atom # 19 N, 4, is greater than permitted
-[03:37:17] SMILES Parse Error: extra close parentheses while parsing: O1C(C(CC(CC(C)(C)C)C)C)C(CC(C)(C)C)C(C1)=O)C
-[03:37:17] SMILES Parse Error: Failed parsing SMILES 'O1C(C(CC(CC(C)(C)C)C)C)C(CC(C)(C)C)C(C1)=O)C' for input: 'O1C(C(CC(CC(C)(C)C)C)C)C(CC(C)(C)C)C(C1)=O)C'
-[03:37:17] SMILES Parse Error: ring closure 2 duplicates bond between atom 22 and atom 23 for input: 'S(=O)(C1=CC=C(C=C1)C[C@@H](CN(CC)CC)CC(C)C)C(C)C2C2'
-[03:37:17] Explicit valence for atom # 17 N, 4, is greater than permitted
-[03:37:17] Explicit valence for atom # 17 N, 4, is greater than permitted
-[03:37:17] Explicit valence for atom # 19 O, 3, is greater than permitted
-[03:37:17] SMILES Parse Error: unclosed ring for input: 'S(C(CC(CC(CC(C)(C)C)C)(C)C)C)C=C2NCCNC12'
-[03:37:17] SMILES Parse Error: unclosed ring for input: 'S(C(CCC(CC)C)(CC(C)(C)C)C)C=1NCC#N'
-[03:37:17] SMILES Parse Error: extra close parentheses while parsing: O1C(C(NCC(CC(CC)(C)C)C)CC2=C1C=CC=C2)COC)C
-[03:37:17] SMILES Parse Error: Failed parsing SMILES 'O1C(C(NCC(CC(CC)(C)C)C)CC2=C1C=CC=C2)COC)C' for input: 'O1C(C(NCC(CC(CC)(C)C)C)CC2=C1C=CC=C2)COC)C'
-[03:37:17] SMILES Parse Error: extra close parentheses while parsing: S(=O)(C(CCC(C)(C)C)C)C(CCC)CC#N)(CC)CC
-[03:37:17] SMILES Parse Error: Failed parsing SMILES 'S(=O)(C(CCC(C)(C)C)C)C(CCC)CC#N)(CC)CC' for input: 'S(=O)(C(CCC(C)(C)C)C)C(CCC)CC#N)(CC)CC'
-[03:37:17] Explicit valence for atom # 4 N, 4, is greater than permitted
-[03:37:17] Explicit valence for atom # 19 N, 5, is greater than permitted
-[03:37:17] SMILES Parse Error: extra close parentheses while parsing: S(C(CCC(CC1=NC=CS1)(CC)C)C)CC#N)CCC
-[03:37:17] SMILES Parse Error: Failed parsing SMILES 'S(C(CCC(CC1=NC=CS1)(CC)C)C)CC#N)CCC' for input: 'S(C(CCC(CC1=NC=CS1)(CC)C)C)CC#N)CCC'
-[03:37:17] Explicit valence for atom # 18 N, 4, is greater than permitted
-[03:37:17] Explicit valence for atom # 18 N, 4, is greater than permitted
-[03:37:17] Explicit valence for atom # 18 N, 5, is greater than permitted
-[03:37:17] SMILES Parse Error: unclosed ring for input: 'S(O)(C(CCC)(CC(C)C)C(C)C)=CC(OC)=C1CCCN2CCC2'
-[03:37:17] Explicit valence for atom # 17 N, 4, is greater than permitted
-[03:37:17] Explicit valence for atom # 0 N, 4, is greater than permitted
-[03:37:17] Explicit valence for atom # 21 N, 4, is greater than permitted
-[03:37:17] SMILES Parse Error: extra close parentheses while parsing: S(SC(C(CC)C)C1=CC=CC=C1)C(SC(C)C)=N)CCO
-[03:37:17] SMILES Parse Error: Failed parsing SMILES 'S(SC(C(CC)C)C1=CC=CC=C1)C(SC(C)C)=N)CCO' for input: 'S(SC(C(CC)C)C1=CC=CC=C1)C(SC(C)C)=N)CCO'
-[03:37:17] Explicit valence for atom # 19 N, 4, is greater than permitted
-[03:37:17] SMILES Parse Error: extra close parentheses while parsing: O1C(C(CC(CC(C)(C)C)C)C)C(CCC(C)(C)C)C(C1)=O)C
-[03:37:17] SMILES Parse Error: Failed parsing SMILES 'O1C(C(CC(CC(C)(C)C)C)C)C(CCC(C)(C)C)C(C1)=O)C' for input: 'O1C(C(CC(CC(C)(C)C)C)C)C(CCC(C)(C)C)C(C1)=O)C'
-[03:37:17] Explicit valence for atom # 18 N, 4, is greater than permitted
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A
-Docking batches:   6%|▋         | 1/16 [00:21<05:28, 21.89s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:47<05:33, 23.85s/it][A
-Docking batches:  19%|█▉        | 3/16 [01:14<05:31, 25.53s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:37<04:54, 24.58s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:03<04:34, 24.97s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:29<04:13, 25.37s/it][A
-Docking batches:  44%|████▍     | 7/16 [02:55<03:48, 25.41s/it][A
-Docking batches:  50%|█████     | 8/16 [03:21<03:25, 25.64s/it][A
-Docking batches:  56%|█████▋    | 9/16 [03:45<02:56, 25.25s/it][A
-Docking batches:  62%|██████▎   | 10/16 [04:06<02:22, 23.80s/it][A[03:41:24] UFFTYPER: Unrecognized atom type: S_5+4 (2)
-
-Docking batches:  69%|██████▉   | 11/16 [04:26<01:53, 22.71s/it][A[03:41:44] UFFTYPER: Unrecognized atom type: S_5+4 (11)
-
-Docking batches:  75%|███████▌  | 12/16 [04:52<01:34, 23.72s/it][A[03:42:10] UFFTYPER: Unrecognized atom type: S_5+4 (5)
-[03:42:10] UFFTYPER: Warning: hybridization set to SP3 for atom 2
-[03:42:10] UFFTYPER: Warning: hybridization set to SP3 for atom 2
-[03:42:10] UFFTYPER: Warning: hybridization set to SP3 for atom 2
-
-Docking batches:  81%|████████▏ | 13/16 [05:16<01:11, 23.68s/it][A[03:42:34] UFFTYPER: Unrecognized atom type: S_5+6 (7)
-[03:42:34] UFFTYPER: Unrecognized atom type: S_5+4 (9)
-[03:42:34] UFFTYPER: Unrecognized atom type: S_5+6 (7)
-
-Docking batches:  88%|████████▊ | 14/16 [05:35<00:44, 22.32s/it][A[03:42:53] UFFTYPER: Unrecognized atom type: S_5+4 (3)
-[03:42:53] UFFTYPER: Unrecognized atom type: S_5+4 (5)
-
-Docking batches:  94%|█████████▍| 15/16 [05:59<00:23, 23.03s/it][A
-Docking batches: 100%|██████████| 16/16 [06:21<00:00, 22.59s/it][ADocking batches: 100%|██████████| 16/16 [06:21<00:00, 23.84s/it]
-Calculating properties:  98%|█████████▊| 39/40 [4:19:59<07:12, 432.92s/it][03:43:39] Explicit valence for atom # 1 N, 4, is greater than permitted
-[03:43:39] SMILES Parse Error: unclosed ring for input: 'P(OC2=CC=C(C(C)C)C=C2)(C(C(=NC1CC)C(C)C)C)C(=O)NC(=O)CO'
-[03:43:39] SMILES Parse Error: unclosed ring for input: 'C1(=C(SC(=N1)[C@@H]2[C@@H](C2)C1)C3=C(C=C(C=C3)C(C)(C)C)OC(C)(C)N)C#N'
-[03:43:39] SMILES Parse Error: unclosed ring for input: 'S1N=C(SC2C1=C(C(SCC)=C2C#N)C(=O)N)C(=C1C)C(C)C'
-[03:43:39] SMILES Parse Error: unclosed ring for input: 'S(C2=NC(=C(C(C2C(N)=C1C#N)C3=CC=C(OC)C=C3)C(=O)C)C)CCC'
-[03:43:39] Explicit valence for atom # 6 N, 4, is greater than permitted
-[03:43:39] SMILES Parse Error: extra close parentheses while parsing: N=1C(=C(SC1SC)C#N)C=2C(=NC(C(C2C#N)C3CC3)(C)C)C(CC)CC)O
-[03:43:39] SMILES Parse Error: Failed parsing SMILES 'N=1C(=C(SC1SC)C#N)C=2C(=NC(C(C2C#N)C3CC3)(C)C)C(CC)CC)O' for input: 'N=1C(=C(SC1SC)C#N)C=2C(=NC(C(C2C#N)C3CC3)(C)C)C(CC)CC)O'
-[03:43:39] Explicit valence for atom # 1 N, 4, is greater than permitted
-[03:43:39] SMILES Parse Error: extra close parentheses while parsing: N=1C(=C(SC1SCC)C)SC2=C(N=C(S2)N)SC(CC)=O)=O
-[03:43:39] SMILES Parse Error: Failed parsing SMILES 'N=1C(=C(SC1SCC)C)SC2=C(N=C(S2)N)SC(CC)=O)=O' for input: 'N=1C(=C(SC1SCC)C)SC2=C(N=C(S2)N)SC(CC)=O)=O'
-
-Docking batches:   0%|          | 0/16 [00:00<?, ?it/s][A[03:43:39] UFFTYPER: Warning: hybridization set to SP3 for atom 5
-[03:43:39] UFFTYPER: Warning: hybridization set to SP3 for atom 5
-[03:43:39] UFFTYPER: Warning: hybridization set to SP3 for atom 5
-
-Docking batches:   6%|▋         | 1/16 [00:31<07:52, 31.50s/it][A
-Docking batches:  12%|█▎        | 2/16 [00:59<06:54, 29.58s/it][A[03:44:39] UFFTYPER: Unrecognized atom type: S_5+6 (14)
-[03:44:39] UFFTYPER: Unrecognized atom type: S_5+6 (14)
-
-Docking batches:  19%|█▉        | 3/16 [01:27<06:12, 28.69s/it][A
-Docking batches:  25%|██▌       | 4/16 [01:53<05:34, 27.86s/it][A
-Docking batches:  31%|███▏      | 5/16 [02:19<04:57, 27.06s/it][A
-Docking batches:  38%|███▊      | 6/16 [02:55<05:00, 30.02s/it][A
-Docking batches:  44%|████▍     | 7/16 [03:28<04:39, 31.10s/it][A
-Docking batches:  50%|█████     | 8/16 [03:56<04:00, 30.05s/it][A
-Docking batches:  56%|█████▋    | 9/16 [04:25<03:27, 29.65s/it][A
-Docking batches:  62%|██████▎   | 10/16 [04:55<02:58, 29.75s/it][A
-Docking batches:  69%|██████▉   | 11/16 [05:26<02:30, 30.11s/it][A
-Docking batches:  75%|███████▌  | 12/16 [05:56<02:01, 30.31s/it][A
-Docking batches:  81%|████████▏ | 13/16 [06:27<01:31, 30.49s/it][A
-Docking batches:  88%|████████▊ | 14/16 [06:56<01:00, 30.00s/it][A
-Docking batches:  94%|█████████▍| 15/16 [07:28<00:30, 30.47s/it][A[03:51:08] UFFTYPER: Warning: hybridization set to SP3 for atom 5
-[03:51:08] UFFTYPER: Warning: hybridization set to SP3 for atom 5
-[03:51:08] UFFTYPER: Warning: hybridization set to SP3 for atom 5
-
-Docking batches: 100%|██████████| 16/16 [07:59<00:00, 30.66s/it][ADocking batches: 100%|██████████| 16/16 [07:59<00:00, 29.96s/it]
-Calculating properties: 100%|██████████| 40/40 [4:27:58<00:00, 446.95s/it]Calculating properties: 100%|██████████| 40/40 [4:27:58<00:00, 401.97s/it]
-Traceback (most recent call last):
-  File "/home2/bhuvan.kapur/MolGPT2.0/src/analyze_generated_molecules.py", line 490, in <module>
-    main()
-  File "/home2/bhuvan.kapur/MolGPT2.0/src/analyze_generated_molecules.py", line 476, in main
-    compute_all_metrics(data_df, prop_names, checkpoint_dir)
-  File "/home2/bhuvan.kapur/MolGPT2.0/src/analyze_generated_molecules.py", line 269, in compute_all_metrics
-    compute_metrics_for_property(data_df, prop, checkpoint_dir)
-  File "/home2/bhuvan.kapur/MolGPT2.0/src/analyze_generated_molecules.py", line 231, in compute_metrics_for_property
-    mae = np.mean(np.abs(preds - tvals))
-TypeError: unsupported operand type(s) for -: 'float' and 'str'

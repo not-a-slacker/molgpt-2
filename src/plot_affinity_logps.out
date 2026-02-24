@@ -1,8 +1,0 @@
-Starting ...
-==================================================
-Analyzing molecules from: ../checkpoints/LCK_DOCKSTRING_FAST_ACTUAL_affinity_logps
-Properties: ['affinity', 'logps']
-==================================================
-Loaded 4 query results
-
-Processing -9-3...
